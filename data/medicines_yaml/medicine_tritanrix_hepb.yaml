@@ -1,0 +1,48 @@
+name: Tritanrix HepB
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000093
+  medicine_status: Lapsed
+  opinion_status: ''
+  inn_common_name: diphtheria (D), tetanus (T), pertussis (whole cell) (Pw) and hepatitis
+    B (rDNA) (HBV) vaccine (adsorbed)
+  active_substance: Diphtheria toxoid;hepatitis B surface antigen;Bordetella pertussis
+    (inactivated);tetanus toxoid
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis B;Tetanus;Immunization;Whooping Cough;Diphtheria
+  atc_code_human: J07CA05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Tritanrix HepB is indicated for active immunisation against
+    diphtheria, tetanus, pertussis and hepatitis B (HBV) in infants from six weeks
+    onwards (see section 4.2).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A.
+  european_commission_decision_date: 01/01/2014
+  marketing_authorisation_date: 19/07/1996
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 01/01/2014
+  suspension_date: ''
+  revision_number: '15'
+metadata:
+  first_published: 01/01/2014
+  last_updated: 07/01/2014
+  latest_procedure: II/0049
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tritanrix-hepb

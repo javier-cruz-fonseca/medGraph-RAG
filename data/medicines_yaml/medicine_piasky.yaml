@@ -1,0 +1,49 @@
+name: Piasky
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006061
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: crovalimab
+  active_substance: Crovalimab
+therapeutic_information:
+  therapeutic_area_mesh: Hemoglobinuria, Paroxysmal
+  atc_code_human: L04AJ07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Piasky as monotherapy is indicated for the treatment of
+    adult and paediatric patients 12 years of age or older with a weight of 40 kg
+    and above with paroxysmal nocturnal haemoglobinuria (PNH):  In patients with haemolysis
+    with clinical symptom(s) indicative of high disease activity. In patients who
+    are clinically stable after having been treated with a complement component 5
+    (C5) inhibitor for at least the past 6 months.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Roche Registration GmbH
+  european_commission_decision_date: 17/10/2025
+  marketing_authorisation_date: 22/08/2024
+  opinion_adopted_date: 27/06/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 28/06/2024
+  last_updated: 10/02/2026
+  latest_procedure: VR/0000296137
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/piasky

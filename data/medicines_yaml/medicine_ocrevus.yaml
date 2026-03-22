@@ -1,0 +1,48 @@
+name: Ocrevus
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004043
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ocrelizumab
+  active_substance: ocrelizumab
+therapeutic_information:
+  therapeutic_area_mesh: Multiple Sclerosis
+  atc_code_human: L04AG08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of adult patients with relapsing forms of multiple
+    sclerosis (RMS) with active disease defined by clinical or imaging features. Treatment
+    of adult patients with early primary progressive multiple sclerosis (PPMS) in
+    terms of disease duration and level of disability, and with imaging features characteristic
+    of inflammatory activity.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Roche Registration GmbH
+  european_commission_decision_date: 29/04/2025
+  marketing_authorisation_date: 08/01/2018
+  opinion_adopted_date: 09/11/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '25'
+metadata:
+  first_published: 09/08/2018
+  last_updated: 17/12/2025
+  latest_procedure: VR/0000254616
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ocrevus

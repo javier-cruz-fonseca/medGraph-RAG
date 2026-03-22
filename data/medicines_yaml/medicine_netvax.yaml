@@ -1,0 +1,51 @@
+name: Netvax
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000134
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: adjuvanted vaccine against necrotic enteritis of chickens due to
+    Clostridium perfringens
+  active_substance: Clostridium-perfringens-type-A alpha toxoid
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI01AB08
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'For the active immunisation of chickens to provide passive
+    immunisation against necrotic enteritis to their progeny, during the laying period.
+    To reduce mortality and the incidence and severity of lesions caused by Clostridium-perfringens-type-A-induced
+    necrotic enteritis. Efficacy was demonstrated by challenge of chicks approximately
+    three weeks after hatching. The onset of passive transfer of immunity: 6 weeks
+    following completion of the vaccination procedure. The duration of passive transfer
+    of immunity: 51 weeks following completion of the vaccination procedure.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Intervet International BV
+  european_commission_decision_date: 19/09/2013
+  marketing_authorisation_date: 16/04/2009
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 19/09/2013
+  last_updated: 11/06/2014
+  latest_procedure: IB/0006
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/netvax

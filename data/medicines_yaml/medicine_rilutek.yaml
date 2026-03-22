@@ -1,0 +1,52 @@
+name: Rilutek
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000109
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: riluzole
+  active_substance: riluzole
+therapeutic_information:
+  therapeutic_area_mesh: Amyotrophic Lateral Sclerosis
+  atc_code_human: N07XX02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Rilutek is indicated to extend life or the time to mechanical
+    ventilation for patients with amyotrophic lateral sclerosis (ALS). Clinical trials
+    have demonstrated that Rilutek extends survival for patients with ALS. Survival
+    was defined as patients who were alive, not intubated for mechanical ventilation
+    and tracheotomy-free. There is no evidence that Rilutek exerts a therapeutic effect
+    on motor function, lung function, fasciculations, muscle strength and motor symptoms.
+    Rilutek has not been shown to be effective in the late stages of ALS. Safety and
+    efficacy of Rilutek has only been studied in ALS. Therefore, Rilutek should not
+    be used in patients with any other form of motor-neurone disease.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sanofi Winthrop Industrie
+  european_commission_decision_date: 24/07/2024
+  marketing_authorisation_date: 10/06/1996
+  opinion_adopted_date: 14/02/1996
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '34'
+metadata:
+  first_published: 13/11/2017
+  last_updated: 21/08/2024
+  latest_procedure: N/0075
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/rilutek

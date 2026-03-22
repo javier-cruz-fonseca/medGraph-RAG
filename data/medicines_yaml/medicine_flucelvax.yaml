@@ -1,0 +1,48 @@
+name: Flucelvax
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006532
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: influenza vaccine (surface antigen, inactivated, prepared in cell
+    cultures)
+  active_substance: A/Wisconsin/67/2022 (H1N1)pdm09-like strain (A/Georgia/12/2022
+    CVR-167) / A/District of Columbia/27/2023 (H3N2)-like strain (A/Victoria/800/2024
+    CVR-289) / B/Austria/1359417/2021-like strain (B/Singapore/WUH4618/2021)
+therapeutic_information:
+  therapeutic_area_mesh: Influenza, Human
+  atc_code_human: J07BB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Prophylaxis of influenza in adults and children from 6 months
+    of age. Flucelvax should be used in accordance with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Seqirus Netherlands B.V.
+  european_commission_decision_date: 09/07/2025
+  marketing_authorisation_date: 15/11/2024
+  opinion_adopted_date: 17/10/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 18/10/2024
+  last_updated: 14/07/2025
+  latest_procedure: VR/0000272954
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/flucelvax

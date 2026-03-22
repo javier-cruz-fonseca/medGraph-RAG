@@ -1,0 +1,52 @@
+name: Phesgo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005386
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: pertuzumab;trastuzumab
+  active_substance: pertuzumab;trastuzumab
+therapeutic_information:
+  therapeutic_area_mesh: Breast Neoplasms
+  atc_code_human: L01XY
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Early breast cancer (EBC) Phesgo is indicated for use in
+    combination with chemotherapy in:  the neoadjuvant treatment of adult patients
+    with HER2-positive, locally advanced, inflammatory, or early stage breast cancer
+    at high risk of recurrence the adjuvant treatment of adult patients with HER2-positive
+    early breast cancer at high risk of recurrence  Metastatic breast cancer (MBC)
+    Phesgo is indicated for use in combination with docetaxel in adult patients with
+    HER2-positive metastatic or locally recurrent unresectable breast cancer, who
+    have not received previous anti-HER2 therapy or chemotherapy for their metastatic
+    disease.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Roche Registration GmbH
+  european_commission_decision_date: 22/09/2025
+  marketing_authorisation_date: 21/12/2020
+  opinion_adopted_date: 12/11/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 13/01/2021
+  last_updated: 28/10/2025
+  latest_procedure: R/0000258704
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/phesgo

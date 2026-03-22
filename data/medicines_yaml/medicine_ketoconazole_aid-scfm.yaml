@@ -1,0 +1,45 @@
+name: Ketoconazole AID-SCFM
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003800
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: ketoconazole
+  active_substance: Ketoconazole
+therapeutic_information:
+  therapeutic_area_mesh: Cushing Syndrome
+  atc_code_human: V03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of Cushings syndrome
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Agenzia Industrie Difesa-Stabilimento Chimico Farmaceutico
+    Militare
+  european_commission_decision_date: 10/04/2015
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 23/02/2015
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 27/03/2015
+  last_updated: 20/05/2015
+  latest_procedure: '-'
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ketoconazole-aid-scfm

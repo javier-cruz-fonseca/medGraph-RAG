@@ -1,0 +1,48 @@
+name: Sprimeo HCT
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002421
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: aliskiren;hydrochlorothiazide
+  active_substance: aliskiren;hydrochlorothiazide
+therapeutic_information:
+  therapeutic_area_mesh: Hypertension
+  atc_code_human: C09XA52
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of essential hypertension in adults. Sprimeo HCT
+    is indicated in patients whose blood pressure is not adequately controlled on
+    aliskiren or hydrochlorothiazide used alone. Sprimeo HCT is indicated as substitution
+    therapy in patients adequately controlled with aliskiren and hydrochlorothiazide,
+    given concurrently, at the same dose level as in the combination.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Ltd.
+  european_commission_decision_date: 06/07/2012
+  marketing_authorisation_date: 23/06/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 06/07/2012
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 06/07/2012
+  last_updated: 28/08/2012
+  latest_procedure: '-'
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/sprimeo-hct

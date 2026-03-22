@@ -1,0 +1,47 @@
+name: Cuprymina
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002136
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: copper (64Cu) chloride
+  active_substance: copper (64Cu) chloride
+therapeutic_information:
+  therapeutic_area_mesh: Radionuclide Imaging
+  atc_code_human: Not yet assigned
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Cuprymina is a radiopharmaceutical precursor. It is not
+    intended for direct use in patients. This medicinal product must be used only
+    for the radiolabelling of carrier molecules, which have been specifically developed
+    and authorised for radiolabelling with this radionuclide.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: A.C.O.M. - Advanced Center Oncology
+  european_commission_decision_date: 01/07/2022
+  marketing_authorisation_date: 23/08/2012
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 30/04/2018
+  last_updated: 01/07/2022
+  latest_procedure: R/0023
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cuprymina

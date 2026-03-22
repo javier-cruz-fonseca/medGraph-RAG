@@ -1,0 +1,50 @@
+name: Waskyra
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006525
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: etuvetidigene autotemcel
+  active_substance: genetically modified autologous CD34+ cell enriched population
+    that contains haematopoietic stem and progenitor cells (HSPC) transduced ex vivo
+    using a lentiviral vector encoding the human Wiskott-Aldrich Syndrome (WAS) gene
+therapeutic_information:
+  therapeutic_area_mesh: Wiskott-Aldrich Syndrome
+  atc_code_human: B06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Waskyra is indicated for the treatment of patients aged
+    6 months and older with Wiskott-Aldrich Syndrome (WAS) who have a mutation in
+    the WAS gene for whom haematopoietic stem cell (HSC) transplantation is appropriate
+    and no suitable human leukocyte antigen (HLA)-matched related haematopoietic stem
+    cell donor is available.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Fondazione Telethon ETS
+  european_commission_decision_date: 09/01/2026
+  marketing_authorisation_date: 09/01/2026
+  opinion_adopted_date: 13/11/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 14/11/2025
+  last_updated: 05/03/2026
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/waskyra

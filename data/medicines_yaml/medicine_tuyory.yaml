@@ -1,0 +1,47 @@
+name: Tuyory
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006416
+  medicine_status: Opinion
+  opinion_status: Positive
+  inn_common_name: tocilizumab
+  active_substance: tocilizumab
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Rheumatoid;Arthritis, Juvenile;Cytokine Release
+    Syndrome;Giant Cell Arteritis;COVID-19 virus infection
+  atc_code_human: L04AC07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of rheumatoid arthritis and other immunological
+    conditions.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Chemical Works of Gedeon Richter Plc. (Gedeon Richter
+    Plc.)
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: 26/02/2026
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 27/02/2026
+  last_updated: ''
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tuyory

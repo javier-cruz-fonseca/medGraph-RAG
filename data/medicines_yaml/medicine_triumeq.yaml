@@ -1,0 +1,55 @@
+name: Triumeq
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002754
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: abacavir;dolutegravir;lamivudine
+  active_substance: dolutegravir sodium;lamivudine;abacavir (as sulfate)
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AR13
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Triumeq is indicated for the treatment of Human Immunodeficiency
+    Virus type 1 (HIV-1) infected children of at least 3 months of age weighing at
+    least 6 kg to less than 25 kg (see sections 4.4 and 5.1).&nbsp;Before initiating
+    treatment with abacavir-containing products, screening for carriage of the HLA-B*5701
+    allele should be performed in any HIV-infected patient, irrespective of racial
+    origin (see section 4.4). Abacavir should not be used in patients known to carry
+    the HLA-B*5701 allele. Triumeq is indicated for the treatment of Human Immunodeficiency
+    Virus type 1 (HIV-1) infected adults, adolescents and children weighing at least
+    25 kg (see sections 4.4 and 5.1). Before initiating treatment with abacavir-containing
+    products, screening for carriage of the HLA-B*5701 allele should be performed
+    in any HIV-infected patient, irrespective of racial origin (see section 4.4).
+    Abacavir should not be used in patients known to carry the HLA-B*5701 allele.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: ViiV Healthcare B.V.
+  european_commission_decision_date: 23/01/2026
+  marketing_authorisation_date: 31/08/2014
+  opinion_adopted_date: 26/06/2014
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '39'
+metadata:
+  first_published: 12/07/2018
+  last_updated: 26/01/2026
+  latest_procedure: N/0000316075
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/triumeq

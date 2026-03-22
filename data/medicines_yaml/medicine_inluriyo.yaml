@@ -1,0 +1,49 @@
+name: Inluriyo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006184
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: imlunestrant
+  active_substance: imlunestrant tosilate
+therapeutic_information:
+  therapeutic_area_mesh: Breast Neoplasms
+  atc_code_human: L02BA
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Inluriyo is indicated as monotherapy for the treatment of
+    adult patients with oestrogen receptor (ER)-positive, HER2-negative, locally advanced
+    or metastatic breast cancer with an activating ESR1-mutation, who have disease
+    progression following prior treatment with an endocrine based regimen (for biomarker-based
+    patient selection, see section 4.2).In pre- or perimenopausal women, or men, Inluriyo
+    should be combined with a luteinising hormone-releasing hormone (LHRH) agonist.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Eli Lilly Nederland B.V.
+  european_commission_decision_date: 20/02/2026
+  marketing_authorisation_date: 09/01/2026
+  opinion_adopted_date: 13/11/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 14/11/2025
+  last_updated: 23/02/2026
+  latest_procedure: VR/0000333242
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/inluriyo

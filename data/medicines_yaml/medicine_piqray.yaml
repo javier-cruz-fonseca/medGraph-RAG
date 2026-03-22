@@ -1,0 +1,48 @@
+name: Piqray
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004804
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: alpelisib
+  active_substance: alpelisib
+therapeutic_information:
+  therapeutic_area_mesh: Breast Neoplasms
+  atc_code_human: L01XE
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Piqray is indicated in combination with fulvestrant for
+    the treatment of postmenopausal women, and men, with hormone receptor (HR)-positive,
+    human epidermal growth factor receptor 2 (HER2)-negative, locally advanced or
+    metastatic breast cancer with a PIK3CA mutation after disease progression following
+    endocrine therapy as monotherapy (see section 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 02/10/2025
+  marketing_authorisation_date: 27/07/2020
+  opinion_adopted_date: 28/05/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '18'
+metadata:
+  first_published: 30/07/2020
+  last_updated: 04/11/2025
+  latest_procedure: VR/0000275207
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/piqray

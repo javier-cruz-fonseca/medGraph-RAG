@@ -1,0 +1,56 @@
+name: Ritemvia
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004725
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: rituximab
+  active_substance: rituximab
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Non-Hodgkin;Microscopic Polyangiitis;Wegener Granulomatosis
+  atc_code_human: L01XC02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Ritemvia is indicated in adults for the following indications:  Non-Hodgkin’s
+    lymphoma (NHL) Ritemvia is indicated for the treatment of previously untreated
+    patients with stage III, IV follicular lymphoma in combination with chemotherapy.
+    Ritemvia maintenance therapy is indicated for the treatment of follicular lymphoma
+    patients responding to induction therapy. Ritemvia monotherapy is indicated for
+    treatment of patients with stage III, IV follicular lymphoma who are chemo resistant
+    or are in their second or subsequent relapse after chemotherapy. Ritemvia is indicated
+    for the treatment of patients with CD20 positive diffuse large B cell non Hodgkin’s
+    lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine,
+    prednisolone) chemotherapy. Granulomatosis with polyangiitis and microscopic polyangiitis.
+    Ritemvia, in combination with glucocorticoids, is indicated for the induction
+    of remission in adult patients with severe, active granulomatosis with polyangiitis
+    (Wegener’s) (GPA) and microscopic polyangiitis (MPA).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Celltrion Healthcare Hungary Kft.
+  european_commission_decision_date: 09/10/2020
+  marketing_authorisation_date: 13/07/2017
+  opinion_adopted_date: 18/05/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 17/05/2018
+  last_updated: 16/08/2021
+  latest_procedure: WS/1859/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ritemvia

@@ -1,0 +1,49 @@
+name: Pravafenix
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001243
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: fenofibrate;pravastatin
+  active_substance: fenofibrate;pravastatin
+therapeutic_information:
+  therapeutic_area_mesh: Dyslipidemias
+  atc_code_human: C10BA03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Pravafenix is indicated as an adjunct to diet and other
+    non-pharmacological treatment (e.g. exercise, weight reduction) for the treatment
+    of mixed hyperlipidaemia in adult patients at high cardiovascular risk to reduce
+    triglycerides and increase HDL C when LDL C levels are adequately controlled while
+    on a treatment with pravastatin 40 mg monotherapy or on another moderate-intensity
+    statin regimen.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Laboratoires SMB S.A.
+  european_commission_decision_date: 21/10/2024
+  marketing_authorisation_date: 14/04/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '11'
+metadata:
+  first_published: 14/01/2016
+  last_updated: 17/01/2025
+  latest_procedure: II/0037
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pravafenix

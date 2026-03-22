@@ -1,0 +1,48 @@
+name: Pixuvri
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002055
+  medicine_status: Expired
+  opinion_status: ''
+  inn_common_name: pixantrone dimaleate
+  active_substance: pixantrone dimaleate
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Non-Hodgkin
+  atc_code_human: L01DB11
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Pixuvri is indicated as monotherapy for the treatment of
+    adult patients with multiply relapsed or refractory aggressive non-Hodgkin B-cell
+    lymphomas (NHL). The benefit of pixantrone treatment has not been established
+    in patients when used as fifth-line or greater chemotherapy in patients who are
+    refractory to last therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Les Laboratoires Servier
+  european_commission_decision_date: 09/11/2021
+  marketing_authorisation_date: 10/05/2012
+  opinion_adopted_date: 16/02/2012
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 12/06/2024
+  suspension_date: ''
+  revision_number: '23'
+metadata:
+  first_published: 23/08/2018
+  last_updated: 10/07/2024
+  latest_procedure: N/0050
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pixuvri

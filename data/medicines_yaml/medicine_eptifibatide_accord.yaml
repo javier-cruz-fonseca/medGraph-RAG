@@ -1,0 +1,52 @@
+name: Eptifibatide Accord
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004104
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: eptifibatide
+  active_substance: eptifibatide
+therapeutic_information:
+  therapeutic_area_mesh: Myocardial Infarction
+  atc_code_human: B01AC16
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Eptifibatide Accord is intended for use with acetylsalicylic
+    acid and unfractionated heparin. Eptifibatide Accord is indicated for the prevention
+    of early myocardial infarction in adults presenting with unstable angina or non-Q-wave
+    myocardial infarction, with the last episode of chest pain occurring within 24
+    hours and with electrocardiogram (ECG) changes and/or elevated cardiac enzymes.
+    Patients most likely to benefit from Eptifibatide Accord treatment are those at
+    high risk of developing myocardial infarction within the first 3-4 days after
+    onset of acute angina symptoms including for instance those that are likely to
+    undergo an early PTCA (Percutaneous Transluminal Coronary Angioplasty).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 02/05/2025
+  marketing_authorisation_date: 11/01/2016
+  opinion_adopted_date: 19/11/2015
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 11/01/2016
+  last_updated: 02/05/2025
+  latest_procedure: N/0000267275
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/eptifibatide-accord

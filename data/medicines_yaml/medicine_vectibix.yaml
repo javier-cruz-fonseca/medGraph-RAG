@@ -1,0 +1,49 @@
+name: Vectibix
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000741
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: panitumumab
+  active_substance: panitumumab
+therapeutic_information:
+  therapeutic_area_mesh: Colorectal Neoplasms
+  atc_code_human: L01XC08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Vectibix is indicated for the treatment of adult patients
+    with wild-type RAS metastatic colorectal cancer (mCRC):  in first-line in combination
+    with Folfox or Folfiri. in second-line in combination with Folfiri for patients
+    who have received first-line fluoropyrimidine-based chemotherapy (excluding irinotecan).
+    as monotherapy after failure of fluoropyrimidine-, oxaliplatin-, and irinotecan-containing
+    chemotherapy regimens.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Amgen Europe B.V.
+  european_commission_decision_date: 13/03/2025
+  marketing_authorisation_date: 03/12/2007
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '35'
+metadata:
+  first_published: 04/06/2018
+  last_updated: 07/05/2025
+  latest_procedure: II/0105
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vectibix

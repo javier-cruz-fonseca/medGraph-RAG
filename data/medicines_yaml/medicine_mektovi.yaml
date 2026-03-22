@@ -1,0 +1,48 @@
+name: Mektovi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004579
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: binimetinib
+  active_substance: binimetinib
+therapeutic_information:
+  therapeutic_area_mesh: Melanoma
+  atc_code_human: L01EE03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: MelanomaBinimetinib in combination with encorafenib is indicated
+    for the treatment of adult patients with unresectable or metastatic melanoma with
+    a BRAF V600 mutation.Non-small cell lung cancer (NSCLC)Binimetinib in combination
+    with encorafenib is indicated for the treatment of adult patients with advanced
+    non-small cell lung cancer with a BRAF V600E mutation.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pierre Fabre Medicament
+  european_commission_decision_date: 18/09/2025
+  marketing_authorisation_date: 20/09/2018
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 27/07/2018
+  last_updated: 05/11/2025
+  latest_procedure: VR/0000241083
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/mektovi

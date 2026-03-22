@@ -1,0 +1,48 @@
+name: Beromun
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000206
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: tasonermin
+  active_substance: tasonermin
+therapeutic_information:
+  therapeutic_area_mesh: Sarcoma
+  atc_code_human: L03AX11
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Beromun is indicated in adults as an adjunct to surgery
+    for subsequent removal of the tumour so as to prevent or delay amputation, or
+    in the palliative situation, for irresectable soft-tissue sarcoma of the limbs,
+    used in combination with melphalan via mild hyperthermic isolated-limb perfusion
+    (ILP).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Belpharma s.a.
+  european_commission_decision_date: 09/12/2021
+  marketing_authorisation_date: 12/04/1999
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '15'
+metadata:
+  first_published: 14/01/2017
+  last_updated: 11/01/2022
+  latest_procedure: IB/0057
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/beromun

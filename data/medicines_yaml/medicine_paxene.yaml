@@ -1,0 +1,54 @@
+name: Paxene
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000216
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: paclitaxel
+  active_substance: paclitaxel
+therapeutic_information:
+  therapeutic_area_mesh: Sarcoma, Kaposi;Carcinoma, Non-Small-Cell Lung;Ovarian Neoplasms;Breast
+    Neoplasms
+  atc_code_human: L01CD01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Paxene is indicated for the treatment of patients with:  advanced
+    AIDS-related Kaposi''s sarcoma (AIDS-KS) who have failed prior liposomal anthracycline
+    therapy; metastatic carcinoma of the breast (MBC) who have failed, or are not
+    candidates for standard anthracycline-containing therapy; advanced carcinoma of
+    the ovary (AOC) or with residual disease (&gt; 1 cm) after initial laparotomy,
+    in combination with cisplatin as first-line treatment; metastatic carcinoma of
+    the ovary (MOC) after failure of platinum-containing combination therapy without
+    taxanes as second-line treatment; non-small cell lung carcinoma (NSCLC) who are
+    not candidates for potentially curative surgery and/or radiation therapy, in combination
+    with cisplatin. Limited efficacy data supports this indication (see section 5.1).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Norton Healthcare Ltd.
+  european_commission_decision_date: 14/07/2009
+  marketing_authorisation_date: 19/07/1999
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 01/03/2010
+  suspension_date: ''
+  revision_number: '14'
+metadata:
+  first_published: 14/07/2009
+  last_updated: 22/03/2010
+  latest_procedure: R/0047
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/paxene

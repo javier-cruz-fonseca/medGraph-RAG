@@ -1,0 +1,46 @@
+name: Vafseo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005131
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: vadadustat
+  active_substance: vadadustat
+therapeutic_information:
+  therapeutic_area_mesh: Renal Insufficiency, Chronic;Anemia
+  atc_code_human: ''
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Vafseo is indicated for the treatment of symptomatic anaemia
+    associated with chronic kidney disease (CKD) in adults on chronic maintenance
+    dialysis.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Medice Arzneimittel Pütter GmbH & Co. KG
+  european_commission_decision_date: 27/03/2025
+  marketing_authorisation_date: 24/04/2023
+  opinion_adopted_date: 23/02/2023
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 31/05/2023
+  last_updated: 27/03/2025
+  latest_procedure: N/0000254042
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vafseo

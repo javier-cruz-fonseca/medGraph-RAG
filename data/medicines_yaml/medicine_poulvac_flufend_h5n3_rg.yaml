@@ -1,0 +1,49 @@
+name: Poulvac Flufend H5N3 RG
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000117
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: recombinant inactivated avian influenza virus
+  active_substance: recombinant inactivated avian influenza virus
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI01AA23
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'For active immunisation of chickens and ducks against avian
+    influenza virus type A, subtype H5. Chickens:Reduction of mortality and virus
+    excretion after challenge.Onset of immunity: 3 weeks after the second injection.Duration
+    of immunity in chickens has not been established yet. Ducks: Reduction of clinical
+    signs and virus excretion after challenge.Onset of immunity: 3 weeks after the
+    second injection.Duration of immunity in ducks : 14 weeks after the second injection.'
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'Yes'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Limited
+  european_commission_decision_date: 30/03/2012
+  marketing_authorisation_date: 01/09/2006
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 30/03/2012
+  last_updated: 07/05/2012
+  latest_procedure: R/0010
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/poulvac-flufend-h5n3-rg

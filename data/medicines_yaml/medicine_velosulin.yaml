@@ -1,0 +1,44 @@
+name: Velosulin
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000423
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: insulin human (rDNA)
+  active_substance: Insulin human
+therapeutic_information:
+  therapeutic_area_mesh: Diabetes Mellitus
+  atc_code_human: A10AB01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of diabetes mellitus.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novo Nordisk A/S
+  european_commission_decision_date: 16/03/2008
+  marketing_authorisation_date: 07/10/2002
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 30/01/2009
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 16/03/2008
+  last_updated: 17/04/2009
+  latest_procedure: N/0007
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/velosulin

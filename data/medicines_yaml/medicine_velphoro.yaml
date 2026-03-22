@@ -1,0 +1,51 @@
+name: Velphoro
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002705
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sucroferric oxyhydroxide
+  active_substance: sucroferric oxyhydroxide
+therapeutic_information:
+  therapeutic_area_mesh: Hyperphosphatemia;Renal Dialysis
+  atc_code_human: V03AE05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Velphoro is indicated for the control of serum phosphorus
+    levels in adult chronic kidney disease (CKD) patients on haemodialysis (HD) or
+    peritoneal dialysis (PD). Velphoro is indicated for the control of serum phosphorus
+    levels in paediatric patients 2 years of age and older with CKD stages 4-5 (defined
+    by a glomerular filtration rate &lt;30 mL/min/1.73 m²) or with CKD on dialysis.
+    Velphoro should be used within the context of a multiple therapeutic approach,
+    which could include calcium supplement, 1,25-dihydroxy vitamin D3 or one of its
+    analogues, or calcimimetics to control the development of renal bone disease.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Vifor Fresenius Medical Care Renal Pharma France
+  european_commission_decision_date: 11/01/2022
+  marketing_authorisation_date: 26/08/2014
+  opinion_adopted_date: 26/06/2014
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '9'
+metadata:
+  first_published: 20/02/2018
+  last_updated: 08/12/2022
+  latest_procedure: IB/0023
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/velphoro

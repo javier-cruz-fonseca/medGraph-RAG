@@ -1,0 +1,50 @@
+name: Cejemly
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006088
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sugemalimab
+  active_substance: sugemalimab
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Non-Small-Cell Lung
+  atc_code_human: L01FF11
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Cejemly in combination with platinum-based chemotherapy
+    is indicated for the first line treatment of adults with metastatic non small
+    cell lung cancer (NSCLC) with no sensitising EGFR mutations, or ALK, ROS1 or RET
+    genomic tumour aberrations.&nbsp;Cejemly as monotherapy is indicated for the treatment
+    of unresectable stage III NSCLC with no sensitising EGFR mutations, or ALK, ROS1
+    genomic tumour aberrations in adults whose tumours express PD-L1 on ≥ 1% of tumour
+    cells and whose disease has not progressed following platinum-based chemoradiotherapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Cstone Pharmaceuticals Ireland Limited
+  european_commission_decision_date: 16/02/2026
+  marketing_authorisation_date: 24/07/2024
+  opinion_adopted_date: 30/05/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 31/05/2024
+  last_updated: 18/02/2026
+  latest_procedure: VR/0000332420
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cejemly

@@ -1,0 +1,47 @@
+name: Refludan
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000122
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: lepirudin
+  active_substance: lepirudin
+therapeutic_information:
+  therapeutic_area_mesh: Thromboembolism;Thrombocytopenia
+  atc_code_human: B01AE02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Anticoagulation in adult patients with heparin-induced thrombocytopenia
+    type II and thromboembolic disease mandating parenteral antithrombotic therapy.
+    The diagnosis should be confirmed by the heparin-induced platelet activation assay
+    or an equivalent test.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Celgene Europe Ltd.
+  european_commission_decision_date: 24/04/2012
+  marketing_authorisation_date: 13/03/1997
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 24/04/2012
+  suspension_date: ''
+  revision_number: '15'
+metadata:
+  first_published: 24/04/2012
+  last_updated: 27/07/2012
+  latest_procedure: T/0038
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/refludan

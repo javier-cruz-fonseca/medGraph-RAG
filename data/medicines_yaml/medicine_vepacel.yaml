@@ -1,0 +1,50 @@
+name: Vepacel
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002089
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: prepandemic influenza vaccine (H5N1) (whole virion, inactivated,prepared
+    in cell culture)
+  active_substance: 'Influenza virus (whole virion, inactivated), containing antigen
+    of: A/Vietnam/1203/2004 (H5N1)'
+therapeutic_information:
+  therapeutic_area_mesh: Influenza, Human;Immunization;Disease Outbreaks
+  atc_code_human: J07BB01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Active immunisation against H5N1 subtype of influenza A
+    virus. This indication is based on immunogenicity data from subjects from the
+    age of 6 months onwards following administration of two doses of vaccine prepared
+    with H5N1 subtype strains. Vepacel should be used in accordance with Official
+    guidance.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Ology Bioservices Ireland LTD
+  european_commission_decision_date: 11/01/2019
+  marketing_authorisation_date: 17/02/2012
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '9'
+metadata:
+  first_published: 10/03/2017
+  last_updated: 28/10/2020
+  latest_procedure: T/0019
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vepacel

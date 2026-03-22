@@ -1,0 +1,47 @@
+name: Zenapax
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000198
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: daclizumab
+  active_substance: daclizumab
+therapeutic_information:
+  therapeutic_area_mesh: Graft Rejection;Kidney Transplantation
+  atc_code_human: L04AA08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Zenapax is indicated for the prophylaxis of acute organ
+    rejection in de novo allogenic renal transplantation and is to be used concomitantly
+    with an immunosuppressive regimen, including cyclosporine and corticosteroids
+    in patients who are not highly immunised.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Roche Registration Ltd.
+  european_commission_decision_date: 23/01/2007
+  marketing_authorisation_date: 26/02/1999
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 01/01/2009
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 23/01/2007
+  last_updated: 13/02/2009
+  latest_procedure: IA/0026
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zenapax

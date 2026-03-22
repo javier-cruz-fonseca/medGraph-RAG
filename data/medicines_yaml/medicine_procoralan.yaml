@@ -1,0 +1,53 @@
+name: Procoralan
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000597
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ivabradine
+  active_substance: ivabradine hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Angina Pectoris;Heart Failure
+  atc_code_human: C01EB17
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Symptomatic treatment of chronic stable angina pectoris  Ivabradine
+    is indicated for the symptomatic treatment of chronic stable angina pectoris in
+    coronary artery disease adults with normal sinus rhythm and heart rate ? 70 bpm.
+    Ivabradine is indicated :  in adults unable to tolerate or with a contraindication
+    to the use of beta-blockers or in combination with beta-blockers in patients inadequately
+    controlled with an optimal beta-blocker dose.  Treatment of chronic heart failure  Ivabradine
+    is indicated in chronic heart failure NYHA II to IV class with systolic dysfunction,
+    in patients in sinus rhythm and whose heart rate is ? 75 bpm, in combination with
+    standard therapy including beta-blocker therapy or when beta-blocker therapy is
+    contraindicated or not tolerated.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Les Laboratoires Servier
+  european_commission_decision_date: 13/11/2025
+  marketing_authorisation_date: 25/10/2005
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '24'
+metadata:
+  first_published: 11/01/2018
+  last_updated: 17/11/2025
+  latest_procedure: VR/0000286236
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/procoralan

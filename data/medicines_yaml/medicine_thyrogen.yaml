@@ -1,0 +1,54 @@
+name: Thyrogen
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000220
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: thyrotropin alfa
+  active_substance: thyrotropin alfa
+therapeutic_information:
+  therapeutic_area_mesh: Thyroid Neoplasms
+  atc_code_human: H01AB01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Thyrogen is indicated for use with serum thyroglobulin (Tg)
+    testing with or without radioiodine imaging for the detection of thyroid remnants
+    and well-differentiated thyroid cancer in post thyroidectomy patients maintained
+    on hormone suppression therapy (THST).&nbsp;&nbsp; Low risk patients with well-differentiated
+    thyroid carcinoma who have undetectable serum Tg levels on THST and no rh (recombinant
+    human) TSH-stimulated increase of Tg levels may be followed-up by assaying rh
+    TSH-stimulated Tg levels.&nbsp; Thyrogen is indicated for pre-therapeutic stimulation
+    in combination with a range of 30 mCi (1.1 GBq) to 100 mCi (3.7 GBq) radioiodine
+    for ablation of thyroid tissue remnants in patients who have undergone a near-total
+    or total thyroidectomy for well-differentiated thyroid cancer and who do not have
+    evidence of distant metastatic thyroid cancer (see section 4.4).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sanofi B.V.
+  european_commission_decision_date: 13/01/2025
+  marketing_authorisation_date: 09/03/2000
+  opinion_adopted_date: 16/12/1999
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '32'
+metadata:
+  first_published: 30/01/2018
+  last_updated: 19/02/2025
+  latest_procedure: T/0000236228
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/thyrogen

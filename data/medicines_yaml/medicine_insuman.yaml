@@ -1,0 +1,47 @@
+name: Insuman
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000201
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: insulin human
+  active_substance: Insulin human
+therapeutic_information:
+  therapeutic_area_mesh: Diabetes Mellitus
+  atc_code_human: A10AB01;A10AC01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Diabetes mellitus where treatment with insulin is required.
+    Insuman Rapid is also suitable for the treatment of hyperglycaemic coma and ketoacidosis,
+    as well as for achieving pre-, intra- and postoperative stabilisation in patients
+    with diabetes mellitus.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sanofi-aventis Deutschland GmbH
+  european_commission_decision_date: 05/03/2026
+  marketing_authorisation_date: 21/02/1997
+  opinion_adopted_date: 16/10/1996
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '36'
+metadata:
+  first_published: 03/04/2018
+  last_updated: 05/03/2026
+  latest_procedure: VR/0000310964
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/insuman

@@ -1,0 +1,51 @@
+name: Leflunomide Teva
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002356
+  medicine_status: Lapsed
+  opinion_status: ''
+  inn_common_name: leflunomide
+  active_substance: leflunomide
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Rheumatoid
+  atc_code_human: L04AA13
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Leflunomide is indicated for the treatment of adult patients
+    with active rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD).
+    Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs (e.g. methotrexate)
+    may result in an increased risk of serious adverse reactions; therefore, the initiation
+    of leflunomide treatment has to be carefully considered regarding these benefit
+    / risk aspects. Moreover, switching from leflunomide to another DMARD without
+    following the washout procedure may also increase the risk of serious adverse
+    reactions even for a long time after the switching.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Teva Pharma B.V.
+  european_commission_decision_date: 15/01/2014
+  marketing_authorisation_date: 10/03/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 10/03/2014
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 15/01/2014
+  last_updated: 18/03/2014
+  latest_procedure: N/0011
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-teva

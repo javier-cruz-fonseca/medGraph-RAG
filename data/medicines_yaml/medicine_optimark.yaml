@@ -1,0 +1,48 @@
+name: Optimark
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000745
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: gadoversetamide
+  active_substance: gadoversetamide
+therapeutic_information:
+  therapeutic_area_mesh: Magnetic Resonance Imaging
+  atc_code_human: V08CA06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: This medicinal product is for diagnostic use only. Optimark
+    is indicated for use with magnetic resonance imaging (MRI) of the central nervous
+    system (CNS) and liver. It provides contrast enhancement and facilitates visualisation
+    and helps with the characterisation of focal lesions and abnormal structures in
+    the CNS and liver in patients with known or highly suspected pathology.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Mallinckrodt Deutschland GmbH
+  european_commission_decision_date: 11/04/2017
+  marketing_authorisation_date: 23/07/2007
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 25/07/2017
+  suspension_date: ''
+  revision_number: '14'
+metadata:
+  first_published: 11/04/2017
+  last_updated: 11/12/2017
+  latest_procedure: T/0037
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/optimark

@@ -1,0 +1,51 @@
+name: Vfend
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000387
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: voriconazole
+  active_substance: voriconazole
+therapeutic_information:
+  therapeutic_area_mesh: Candidiasis;Mycoses;Aspergillosis
+  atc_code_human: J02AC03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Voriconazole, is a broad spectrum, triazole antifungal
+    agent and is indicated in adults and children aged 2 years and above as follows:  treatment
+    of invasive aspergillosis; treatment of in candidaemianon-neutropenic patients;
+    treatment of fluconazole-resistant serious invasive Candida infections (including
+    C. krusei); Treatment of serious fungal infections caused by Scedosporium spp.
+    and Fusarium spp.  Vfend should be administered primarily to patients with progressive,
+    possibly life-threatening infections. Prophylaxis of invasive fungal infections
+    in high risk allogeneic hematopoietic stem cell transplant (HSCT) recipients.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Europe MA EEIG
+  european_commission_decision_date: 10/02/2026
+  marketing_authorisation_date: 19/03/2002
+  opinion_adopted_date: 13/12/2001
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '58'
+metadata:
+  first_published: 06/06/2018
+  last_updated: 20/02/2026
+  latest_procedure: VR/0000284468
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vfend

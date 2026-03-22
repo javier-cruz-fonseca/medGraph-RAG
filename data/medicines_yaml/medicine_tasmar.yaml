@@ -1,0 +1,52 @@
+name: Tasmar
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000132
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: tolcapone
+  active_substance: tolcapone
+therapeutic_information:
+  therapeutic_area_mesh: Parkinson Disease
+  atc_code_human: N04BX01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Tasmar is indicated in combination with levodopa / benserazide
+    or levodopa / carbidopa for use in patients with levodopa-responsive idiopathic
+    Parkinson’s disease and motor fluctuations, who failed to respond to or are intolerant
+    of other catechol-O-methyltransferase (COMT) inhibitors. Because of the risk of
+    potentially fatal, acute liver injury, Tasmar should not be considered as a first-line
+    adjunct therapy to levodopa / benserazide or levodopa / carbidopa. Since Tasmar
+    should be used only in combination with levodopa / benserazide and levodopa /
+    carbidopa, the prescribing information for these levodopa preparations is also
+    applicable to their concomitant use with Tasmar.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Viatris Healthcare Limited
+  european_commission_decision_date: 08/09/2025
+  marketing_authorisation_date: 27/08/1997
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 08/08/2018
+  last_updated: 10/09/2025
+  latest_procedure: VR/0000294075
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tasmar

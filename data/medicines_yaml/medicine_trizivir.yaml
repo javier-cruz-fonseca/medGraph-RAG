@@ -1,0 +1,65 @@
+name: Trizivir
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000338
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: abacavir;lamivudine;zidovudine
+  active_substance: abacavir (as sulfate);lamivudine;zidovudine
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AR04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Trizivir is indicated for the treatment of human-immunodeficiency-virus
+    (HIV) infection in adults. This fixed combination replaces the three components
+    (abacavir, lamivudine and zidovudine) used separately in similar dosages. It is
+    recommended that treatment is started with abacavir, lamivudine,and zidovudine
+    separately for the first six to eight weeks. The choice of this fixed combination
+    should be based not only on potential adherence criteria, but mainly on expected
+    efficacy and risk related to the three nucleoside analogues. The demonstration
+    of the benefit of Trizivir is mainly based on results of studies performed in
+    treatment naive patients or moderately antiretroviral experienced patients with
+    non-advanced disease. In patients with high viral load (&gt;100,000 copies/ml)
+    choice of therapy needs special consideration. Overall, the virologic suppression
+    with this triple nucleoside regimen could be inferior to that obtained with other
+    multitherapies notably including boosted protease inhibitors or non-nucleoside
+    reverse-transcriptase inhibitors, therefore the use of Trizivir should only be
+    considered under special circumstances (e.g. co-infection with tuberculosis).
+    Before initiating treatment with abacavir, screening for carriage of the HLA-B*5701
+    allele should be performed in any HIV-infected patient, irrespective of racial
+    origin. Screening is also recommended prior to re-initiation of abacavir in patients
+    of unknown HLA-B*5701 status who have previously tolerated abacavir (see 'management
+    after an interruption of Trizivir therapy'). Abacavir should not be used in patients
+    known to carry the HLA-B*5701 allele, unless no other therapeutic option is available
+    in these patients, based on the treatment history and resistance testing.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: ViiV Healthcare BV
+  european_commission_decision_date: 15/01/2026
+  marketing_authorisation_date: 27/12/2000
+  opinion_adopted_date: 21/09/2000
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '44'
+metadata:
+  first_published: 25/01/2018
+  last_updated: 19/01/2026
+  latest_procedure: VR/0000296309
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/trizivir

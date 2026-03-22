@@ -1,0 +1,50 @@
+name: Zydelig
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003843
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: idelalisib
+  active_substance: Idelalisib
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Non-Hodgkin;Leukemia, Lymphocytic, Chronic, B-Cell
+  atc_code_human: L01XX47
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Zydelig is indicated in combination with an anti?CD20 monoclonal
+    antibody (rituximab or ofatumumab) for the treatment of adult patients with chronic
+    lymphocytic leukaemia (CLL):  who have received at least one prior therapy, or
+    as first line treatment in the presence of 17p deletion or TP53 mutation in patients
+    who are not eligible for any other therapies.  Zydelig is indicated as monotherapy
+    for the treatment of adult patients with follicular lymphoma (FL) that is refractory
+    to two prior lines of treatment.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Gilead Sciences Ireland UC
+  european_commission_decision_date: 20/06/2024
+  marketing_authorisation_date: 18/09/2014
+  opinion_adopted_date: 25/07/2014
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '21'
+metadata:
+  first_published: 07/06/2018
+  last_updated: 21/10/2024
+  latest_procedure: R/0059
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zydelig

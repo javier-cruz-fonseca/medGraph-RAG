@@ -1,0 +1,54 @@
+name: Jardiance
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002677
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: empagliflozin
+  active_substance: empagliflozin
+therapeutic_information:
+  therapeutic_area_mesh: Diabetes Mellitus, Type 2;Heart Failure;Renal Insufficiency,
+    Chronic
+  atc_code_human: A10BK03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Type 2 diabetes mellitus Jardiance is indicated in adults
+    and children aged 10 years and above for the treatment of insufficiently controlled
+    type 2 diabetes mellitus as an adjunct to diet and exercise  as monotherapy when
+    metformin is considered inappropriate due to intolerance in addition to other
+    medicinal products for the treatment of diabetes  For study results with respect
+    to combination of therapies, effects on glycaemic control, cardiovascular and
+    renal events, and the populations studied, see sections 4.4, 4.5 and 5.1. Heart
+    failure Jardiance is indicated in adults for the treatment of symptomatic chronic
+    heart failure.&nbsp; Chronic kidney disease Jardiance is indicated in adults for
+    the treatment of chronic kidney disease.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Boehringer Ingelheim International GmbH
+  european_commission_decision_date: 30/06/2025
+  marketing_authorisation_date: 22/05/2014
+  opinion_adopted_date: 20/03/2014
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '32'
+metadata:
+  first_published: 31/05/2018
+  last_updated: 30/06/2025
+  latest_procedure: N/0000281860
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/jardiance

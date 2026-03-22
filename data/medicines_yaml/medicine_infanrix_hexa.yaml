@@ -1,0 +1,53 @@
+name: Infanrix Hexa
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000296
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: diphtheria (D), tetanus (T), pertussis (acellular, component) (Pa),
+    hepatitis B (rDNA) (HBV), poliomyelitis (inactivated) (IPV) and Haemophilus influenzae
+    type-b (Hib) conjugate vaccine (adsorbed)
+  active_substance: Diphtheria toxoid;tetanus toxoid;Bordetella pertussis antigens
+    (pertussis toxoid, filamentous haemagglutinin, pertactin);hepatitis B surface
+    antigen;poliovirus (inactivated) (type-1 (Mahoney strain), type-2 (MEF-1 strain),
+    type-3 (Saukett strain));Haemophilus influenzae type b polysaccharide
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis B;Tetanus;Immunization;Meningitis, Haemophilus;Whooping
+    Cough;Poliomyelitis;Diphtheria
+  atc_code_human: J07CA09
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Infanrix hexa is indicated for primary and booster vaccination
+    of infants from the age of 6 weeks and toddlers against diphtheria, tetanus, pertussis,
+    hepatitis B, poliomyelitis and disease caused by Haemophilus influenzae type b.
+    The use of Infanrix hexa should be in accordance with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A.
+  european_commission_decision_date: 12/02/2026
+  marketing_authorisation_date: 23/10/2000
+  opinion_adopted_date: 29/06/2000
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '49'
+metadata:
+  first_published: 12/04/2018
+  last_updated: 12/02/2026
+  latest_procedure: VR/0000323859
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/infanrix-hexa

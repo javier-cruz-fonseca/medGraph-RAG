@@ -1,0 +1,54 @@
+name: Ovaleap
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002608
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: follitropin alfa
+  active_substance: follitropin alfa
+therapeutic_information:
+  therapeutic_area_mesh: Anovulation
+  atc_code_human: G03GA05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: In adult women  Anovulation (including polycystic ovarian
+    syndrome) in women who have been unresponsive to treatment with clomifene citrate;
+    Stimulation of multifollicular development in women undergoing superovulation
+    for assisted reproductive technologies (ART) such as in vitro fertilisation (IVF),
+    gamete intra-fallopian transfer and zygote intra-fallopian transfer; Ovaleap in
+    association with a luteinising hormone (LH) preparation is recommended for the
+    stimulation of follicular development in women with severe LH and FSH deficiency.
+    In clinical trials these patients were defined by an endogenous serum LH level
+    &lt; 1.2 IU/L.  In adult men  Ovaleap is indicated for the stimulation of spermatogenesis
+    in men who have congenital or acquired hypogonadotropic hypogonadism with concomitant
+    human chorionic gonadotropin (hCG) therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Theramex Ireland Limited
+  european_commission_decision_date: 16/04/2025
+  marketing_authorisation_date: 27/09/2013
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 16/05/2018
+  last_updated: 27/05/2025
+  latest_procedure: VR/0000248727
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ovaleap

@@ -1,0 +1,53 @@
+name: Xigduo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002672
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: dapagliflozin;metformin
+  active_substance: metformin hydrochloride;dapagliflozin propanediol monohydrate
+therapeutic_information:
+  therapeutic_area_mesh: Diabetes Mellitus, Type 2
+  atc_code_human: A10BD15
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Xigduo is indicated in adults for the treatment of type
+    2 diabetes mellitus as an adjunct to diet and exercise: •&nbsp;&nbsp; &nbsp;in
+    patients insufficiently controlled on their maximally tolerated dose of metformin
+    alone&nbsp; •&nbsp;&nbsp; &nbsp;in combination with other medicinal products for
+    the treatment of diabetes in patients insufficiently controlled with metformin
+    and these medicinal products •&nbsp;&nbsp; &nbsp;in patients already being treated
+    with the combination of dapagliflozin and metformin as separate tablets. For study
+    results with respect to combination of therapies, effects on glycaemic control
+    and cardiovascular events, and the populations studied, see sections 4.4, 4.5
+    and 5.1.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: AstraZeneca AB
+  european_commission_decision_date: 12/03/2026
+  marketing_authorisation_date: 16/01/2014
+  opinion_adopted_date: 20/11/2013
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 20/12/2017
+  last_updated: 13/03/2026
+  latest_procedure: VR/0000310736
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/xigduo

@@ -1,0 +1,47 @@
+name: Raptiva
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000542
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: efalizumab
+  active_substance: efalizumab
+therapeutic_information:
+  therapeutic_area_mesh: Psoriasis
+  atc_code_human: L04AA21
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of adult patients with moderate to severe chronic
+    plaque psoriasis who have failed to respond to, or who have a contraindication
+    to, or are intolerant to other systemic therapies including ciclosporin, methotrexate
+    and PUVA (see section 5.1 - Clinical Efficacy).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Serono Europe Limited
+  european_commission_decision_date: 25/11/2008
+  marketing_authorisation_date: 20/09/2004
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 09/06/2009
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 25/11/2008
+  last_updated: 04/08/2009
+  latest_procedure: II/0026
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/raptiva

@@ -1,0 +1,56 @@
+name: Veraflox
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000099
+  medicine_status: Refused
+  opinion_status: ''
+  inn_common_name: pradofloxacin
+  active_substance: pradofloxacin
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QJ01MA
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Dogs:Infections of the skin and soft tissues, i.e. superficial
+    and deep pyoderma and wound infections caused by Gram-positive organisms, typically
+    Staphylococcus spp. and Streptococcus spp., and Gram-negative organisms such as
+    Escherichia coli, Pseudomonas spp. and Proteus spp.Infections of the urinary tract
+    caused by Gram-negative bacteria such as enterobacteriaceae, e.g. Escherichia
+    coli, Enterobacter spp., Klebsiella spp. and Proteus spp., Pseudomonas spp., and
+    Gram-positive organisms, typically Staphylococcus spp.Infections of the gingiva
+    and periodontal tissues caused by anaerobic organisms, for example Porphyromonas
+    spp., Prevotella spp.; Fusobacterium spp., Eikenella spp. and capnophilic bacteria
+    such as Capnocytophaga spp. Cats:Infections of the respiratory tract caused by
+    Gram-negative organisms such as Pasteurella spp., Escherichia coli and Pseudomonas
+    spp., and Gram-positive organisms such as Streptococcus spp. and Staphylococcus
+    spp.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bayer HealthCare AG
+  european_commission_decision_date: 24/01/2007
+  marketing_authorisation_date: ''
+  opinion_adopted_date: 14/09/2006
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: 11/12/2006
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 24/01/2007
+  last_updated: 24/01/2007
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/veraflox-0

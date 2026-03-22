@@ -1,0 +1,45 @@
+name: Namuscla
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004584
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: mexiletine hcl
+  active_substance: Mexiletine hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Myotonic Disorders
+  atc_code_human: C01BB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Namuscla is indicated for the symptomatic treatment of myotonia
+    in adult patients with non-dystrophic myotonic disorders.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Lupin Europe GmbH
+  european_commission_decision_date: 27/11/2025
+  marketing_authorisation_date: 18/12/2018
+  opinion_adopted_date: 18/10/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 01/02/2019
+  last_updated: 16/01/2026
+  latest_procedure: VR/0000295982
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/namuscla

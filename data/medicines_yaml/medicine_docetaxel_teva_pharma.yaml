@@ -1,0 +1,56 @@
+name: Docetaxel Teva Pharma
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002032
+  medicine_status: Lapsed
+  opinion_status: ''
+  inn_common_name: docetaxel
+  active_substance: docetaxel
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Non-Small-Cell Lung;Breast Neoplasms;Prostatic
+    Neoplasms
+  atc_code_human: L01CD02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Breast cancer Docetaxel Teva Pharma monotherapy is indicated
+    for the treatment of patients with locally advanced or metastatic breast cancer
+    after failure of cytotoxic therapy. Previous chemotherapy should have included
+    an anthracycline or an alkylating agent. Non-small-cell lung cancer Docetaxel
+    Teva Pharma is indicated for the treatment of patients with locally advanced or
+    metastatic non-small-cell lung cancer after failure of prior chemotherapy. Docetaxel
+    Teva Pharma in combination with cisplatin is indicated for the treatment of patients
+    with unresectable, locally advanced or metastatic non-small-cell lung cancer,
+    in patients who have not previously received chemotherapy for this condition.
+    Prostate cancer Docetaxel Teva Pharma in combination with prednisone or prednisolone
+    is indicated for the treatment of patients with hormone refractory metastatic
+    prostate cancer.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Teva Pharma B.V.
+  european_commission_decision_date: 21/01/2014
+  marketing_authorisation_date: 21/01/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 21/01/2014
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 21/01/2014
+  last_updated: 21/01/2014
+  latest_procedure: IB/7/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/docetaxel-teva-pharma

@@ -1,0 +1,46 @@
+name: TruScient
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/002000
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: dibotermin alfa
+  active_substance: dibotermin alfa
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QM05BC01
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Osteoinductive agent for use in the treatment of long-bone
+    fractures as an adjunct to standard surgical care using open fracture reduction
+    in dogs.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Zoetis Belgium SA
+  european_commission_decision_date: 15/01/2015
+  marketing_authorisation_date: 14/12/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 15/01/2015
+  last_updated: 03/02/2015
+  latest_procedure: IAIN/0005/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/truscient

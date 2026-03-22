@@ -1,0 +1,46 @@
+name: Rienso
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002215
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: ferumoxytol
+  active_substance: Ferumoxytol
+therapeutic_information:
+  therapeutic_area_mesh: Anemia;Kidney Failure, Chronic
+  atc_code_human: B03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Rienso is indicated for the intravenous treatment of iron-deficiency
+    anaemia in adult patients with chronic kidney disease (CKD). The diagnosis of
+    iron deficiency must be based on appropriate laboratory tests (see section 4.2).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda Pharma A/S
+  european_commission_decision_date: 13/04/2015
+  marketing_authorisation_date: 15/06/2012
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 13/04/2015
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 13/04/2015
+  last_updated: 13/07/2015
+  latest_procedure: PSUV/0015
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/rienso

@@ -1,0 +1,52 @@
+name: Nyracta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000269
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: rosiglitazone
+  active_substance: rosiglitazone
+therapeutic_information:
+  therapeutic_area_mesh: Diabetes Mellitus, Type 2
+  atc_code_human: A10BG02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Rosiglitazone is indicated as oral monotherapy in type 2
+    diabetes mellitus patients, particularly overweight patients, inadequately controlled
+    by diet and exercise for whom metformin is inappropriate because of contraindications
+    or intolerance. Rosiglitazone is also indicated for oral combination treatment
+    in type 2 diabetes mellitus patients with insufficient glycaemic control despite
+    maximal tolerated dose of oral monotherapy with either metformin or a sulphonylurea:-
+    in combination with metformin particularly in overweight patients.­- in combination
+    with a sulphonylurea only in patients who show intolerance to metformin or for
+    whom metformin is contraindicated.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: SmithKline Beecham Plc
+  european_commission_decision_date: 08/12/2004
+  marketing_authorisation_date: 11/07/2000
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 08/12/2004
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 08/12/2004
+  last_updated: 18/04/2005
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/nyracta

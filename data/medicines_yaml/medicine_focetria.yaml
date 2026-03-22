@@ -1,0 +1,46 @@
+name: Focetria
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000710
+  medicine_status: Expired
+  opinion_status: ''
+  inn_common_name: influenza vaccine H1N1v (surface antigen, inactivated, adjuvanted)
+  active_substance: 'Influenza virus surface antigens (haemagglutinin and neuraminidase)
+    of strain: A/California/7/2009 (H1N1)-derived strain used NYMC X-181'
+therapeutic_information:
+  therapeutic_area_mesh: Influenza, Human;Immunization;Disease Outbreaks
+  atc_code_human: J07BB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Prophylaxis of influenza caused by A (H1N1v) 2009 virus.
+    Focetria should be used in accordance with official guidance.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Vaccines and Diagnostics S.r.l.
+  european_commission_decision_date: 15/01/2015
+  marketing_authorisation_date: 02/05/2007
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: 07/05/2007
+  withdrawal_expiry_revocation_date: 13/08/2015
+  suspension_date: ''
+  revision_number: '9'
+metadata:
+  first_published: 15/01/2015
+  last_updated: 11/02/2016
+  latest_procedure: PSUV/0033
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/focetria

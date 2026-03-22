@@ -1,0 +1,50 @@
+name: Betmiga
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002388
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: mirabegron
+  active_substance: Mirabegron
+therapeutic_information:
+  therapeutic_area_mesh: Urinary Bladder, Overactive
+  atc_code_human: G04BD12
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Overactive bladder in adults&nbsp;  Betmiga prolonged-release
+    tablets are indicated for symptomatic treatment of urgency, increased micturition
+    frequency and/or urgency incontinence as may occur in adult patients with overactive
+    bladder (OAB) syndrome.&nbsp;  Neurogenic detrusor overactivity in the paediatric
+    population&nbsp;  Betmiga prolonged release tablets are indicated for treatment
+    of neurogenic detrusor overactivity (NDO) in paediatric patients aged 3 to less
+    than 18 years.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Astellas Pharma Europe B.V.
+  european_commission_decision_date: 17/07/2025
+  marketing_authorisation_date: 20/12/2012
+  opinion_adopted_date: 18/10/2012
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '18'
+metadata:
+  first_published: 18/09/2017
+  last_updated: 27/08/2025
+  latest_procedure: VR/0000249016
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/betmiga

@@ -1,0 +1,46 @@
+name: Sonata
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000227
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: zaleplon
+  active_substance: zaleplon
+therapeutic_information:
+  therapeutic_area_mesh: Sleep Initiation and Maintenance Disorders
+  atc_code_human: N05CF03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Sonata is indicated for the treatment of patients with insomnia
+    who have difficulty falling asleep. It is indicated only when the disorder is
+    severe, disabling or subjecting the individual to extreme distress.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Meda AB
+  european_commission_decision_date: 03/07/2015
+  marketing_authorisation_date: 12/03/1999
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 03/07/2015
+  suspension_date: ''
+  revision_number: '19'
+metadata:
+  first_published: 03/07/2015
+  last_updated: 21/10/2015
+  latest_procedure: PSUSA/00003140/201407
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/sonata

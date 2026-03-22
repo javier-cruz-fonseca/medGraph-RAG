@@ -1,0 +1,48 @@
+name: Panretin
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000279
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: alitretinoin
+  active_substance: alitretinoin
+therapeutic_information:
+  therapeutic_area_mesh: Sarcoma, Kaposi
+  atc_code_human: L01XX22
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Panretin gel is indicated for the topical treatment of
+    cutaneous lesions in patients with acquired-immune-deficiency-syndrome (AIDS)-related
+    Kaposi''s sarcoma (KS) when:  lesions are not ulcerated or lymphoedematous, and;
+    treatment of visceral KS is not required, and; lesions are not responding to systemic
+    antiretroviral therapy, and; radiotherapy or chemotherapy are not appropriate.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Eisai GmbH
+  european_commission_decision_date: 24/01/2019
+  marketing_authorisation_date: 11/10/2000
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '17'
+metadata:
+  first_published: 21/06/2018
+  last_updated: 11/01/2021
+  latest_procedure: IAIN/0045
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/panretin

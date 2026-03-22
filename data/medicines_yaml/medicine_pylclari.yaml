@@ -1,0 +1,51 @@
+name: Pylclari
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005520
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: piflufolastat (18F)
+  active_substance: Piflufolastat (18F)
+therapeutic_information:
+  therapeutic_area_mesh: Prostatic Neoplasms
+  atc_code_human: V09
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'This medicinal product is for diagnostic use only. Pylclari
+    is indicated for the detection of prostate-specific membrane antigen (PSMA) positive
+    lesions with positron emission tomography (PET) in adults with prostate cancer
+    (PCa) in the following clinical settings:  Primary staging of patients with high-risk
+    PCa prior to initial curative therapy, To localize recurrence of PCa in patients
+    with a suspected recurrence based on increasing serum prostate-specific antigen
+    (PSA) levels after primary treatment with curative intent.  Pylclari is indicated
+    for use with positron emission tomography (PET).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Curium Pet France
+  european_commission_decision_date: 02/03/2026
+  marketing_authorisation_date: 27/11/2023
+  opinion_adopted_date: 25/05/2023
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 28/07/2023
+  last_updated: 02/03/2026
+  latest_procedure: VR/0000332222
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pylclari

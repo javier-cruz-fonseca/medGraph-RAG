@@ -1,0 +1,59 @@
+name: Incresync
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002178
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: alogliptin;pioglitazone
+  active_substance: alogliptin;pioglitazone
+therapeutic_information:
+  therapeutic_area_mesh: Diabetes Mellitus, Type 2
+  atc_code_human: A10BD09
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Incresync is indicated as a second- or third-line treatment
+    in adult patients aged 18 years and older with type-2 diabetes mellitus:  as an
+    adjunct to diet and exercise to improve glycaemic control in adult patients (particularly
+    overweight patients) inadequately controlled on pioglitazone alone, and for whom
+    metformin is inappropriate due to contraindications or intolerance; in combination
+    with metformin (i.e. triple combination therapy) as an adjunct to diet and exercise
+    to improve glycaemic control in adult patients (particularly overweight patients)
+    inadequately controlled on their maximal tolerated dose of metformin and pioglitazone.  In
+    addition, Incresync can be used to replace separate tablets of alogliptin and
+    pioglitazone in those adult patients aged 18 years and older with type-2 diabetes
+    mellitus already being treated with this combination. After initiation of therapy
+    with Incresync, patients should be reviewed after three to six months to assess
+    adequacy of response to treatment (e.g. reduction in HbA1c). In patients who fail
+    to show an adequate response, Incresync should be discontinued. In light of potential
+    risks with prolonged pioglitazone therapy, prescribers should confirm at subsequent
+    routine reviews that the benefit of Incresync is maintained (see section 4.4).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda Pharma A/S
+  european_commission_decision_date: 07/09/2022
+  marketing_authorisation_date: 19/09/2013
+  opinion_adopted_date: 25/07/2013
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 25/05/2018
+  last_updated: 09/09/2022
+  latest_procedure: N/0043
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/incresync

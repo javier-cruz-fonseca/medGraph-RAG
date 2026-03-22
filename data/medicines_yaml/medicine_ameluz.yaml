@@ -1,0 +1,48 @@
+name: Ameluz
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002204
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: 5-aminolevulinic acid hydrochloride
+  active_substance: 5-aminolevulinic acid hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Keratosis, Actinic;Carcinoma, Basal Cell
+  atc_code_human: L01XD04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of actinic keratosis of mild to moderate severity
+    on the face and scalp (Olsen grade 1 to 2; see section 5.1) and of field cancerization
+    in adults. Treatment of superficial and/or nodular basal cell carcinoma unsuitable
+    for surgical treatment due to possible treatment-related morbidity and/or poor
+    cosmetic outcome in adults.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Biofrontera Bioscience GmbH
+  european_commission_decision_date: 18/02/2026
+  marketing_authorisation_date: 13/12/2011
+  opinion_adopted_date: 20/10/2011
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '22'
+metadata:
+  first_published: 24/07/2018
+  last_updated: 20/02/2026
+  latest_procedure: N/0000332013
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ameluz

@@ -1,0 +1,48 @@
+name: Nemluvio
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006149
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: nemolizumab
+  active_substance: nemolizumab
+therapeutic_information:
+  therapeutic_area_mesh: Dermatitis, Atopic;Prurigo
+  atc_code_human: D11AH12
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Atopic dermatitis (AD)&nbsp;Nemluvio is indicated for the
+    treatment of moderate-to-severe atopic dermatitis in patients aged 12 years and
+    older who are candidates for systemic therapy. Prurigo nodularis (PN)&nbsp;Nemluvio
+    is indicated for the treatment of adults with moderate-to-severe prurigo nodularis
+    who are candidates for systemic therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Galderma International
+  european_commission_decision_date: 08/01/2026
+  marketing_authorisation_date: 12/02/2025
+  opinion_adopted_date: 12/12/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 13/12/2024
+  last_updated: 02/03/2026
+  latest_procedure: PSUR/0000282252
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/nemluvio

@@ -1,0 +1,53 @@
+name: Eltrombopag Viatris
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006417
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: eltrombopag
+  active_substance: eltrombopag olamine
+therapeutic_information:
+  therapeutic_area_mesh: Purpura, Thrombocytopenic, Idiopathic
+  atc_code_human: B02BX05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Eltrombopag Viatris is indicated for the treatment of adult
+    patients with primary immune thrombocytopenia (ITP) who are refractory to other
+    treatments (e.g. corticosteroids, immunoglobulins).Eltrombopag Viatris is indicated
+    for the treatment of paediatric patients aged 1 year and above with primary immune
+    thrombocytopenia (ITP) lasting 6 months or longer from diagnosis and who are refractory
+    to other treatments (e.g. corticosteroids, immunoglobulins) (see sections 4.2
+    and 5.1).Eltrombopag Viatris is indicated in adult patients with chronic hepatitis
+    C virus (HCV) infection for the treatment of thrombocytopenia, where the degree
+    of thrombocytopenia is the main factor preventing the initiation or limiting the
+    ability to maintain optimal interferon-based therapy (see sections 4.2 and 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Viatris Limited
+  european_commission_decision_date: 05/02/2026
+  marketing_authorisation_date: 12/12/2024
+  opinion_adopted_date: 17/10/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 18/10/2024
+  last_updated: 05/02/2026
+  latest_procedure: VR/0000323909
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/eltrombopag-viatris

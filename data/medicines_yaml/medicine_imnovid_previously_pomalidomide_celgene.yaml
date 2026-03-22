@@ -1,0 +1,50 @@
+name: Imnovid (previously Pomalidomide Celgene)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002682
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: pomalidomide
+  active_substance: Pomalidomide
+therapeutic_information:
+  therapeutic_area_mesh: Multiple Myeloma
+  atc_code_human: L04AX06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Imnovid in combination with bortezomib and dexamethasone
+    is indicated in the treatment of adult patients with multiple myeloma who have
+    received at least one prior treatment regimen including lenalidomide. Imnovid
+    in combination with dexamethasone is indicated in the treatment of adult patients
+    with relapsed and refractory multiple myeloma who have received at least two prior
+    treatment regimens, including both lenalidomide and bortezomib, and have demonstrated
+    disease progression on the last therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG
+  european_commission_decision_date: 21/08/2025
+  marketing_authorisation_date: 05/08/2013
+  opinion_adopted_date: 30/05/2013
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 11/07/2018
+  last_updated: 20/01/2026
+  latest_procedure: PASS/0000262876
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/imnovid

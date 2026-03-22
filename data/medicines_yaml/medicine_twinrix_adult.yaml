@@ -1,0 +1,47 @@
+name: Twinrix Adult
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000112
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: hepatitis A (inactivated) and hepatitis B (rDNA) (HAB) vaccine
+    (adsorbed)
+  active_substance: hepatitis A virus (inactivated);hepatitis B surface antigen
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis B;Hepatitis A;Immunization
+  atc_code_human: J07BC20
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Twinrix Adult is indicated for use in non immune adults
+    and adolescents 16 years of age and above who are at risk of both hepatitis A
+    and hepatitis B infection.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A.
+  european_commission_decision_date: 01/02/2024
+  marketing_authorisation_date: 19/09/1996
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '24'
+metadata:
+  first_published: 27/10/2017
+  last_updated: 07/02/2024
+  latest_procedure: WS2594/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/twinrix-adult

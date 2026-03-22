@@ -1,0 +1,64 @@
+name: Comirnaty
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005735
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: COVID-19 mRNA vaccine
+  active_substance: single-stranded, 5’-capped messenger RNA produced using a cell-free
+    in vitro transcription from the corresponding DNA templates, encoding the viral
+    spike (S) protein of SARS-CoV-2
+therapeutic_information:
+  therapeutic_area_mesh: COVID-19 virus infection
+  atc_code_human: J07BN01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Comirnaty JN.1 dispersion for injection is indicated for
+    active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 5
+    years of age and older. The use of this vaccine should be in accordance with official
+    recommendations. Comirnaty JN.1 concentrate for dispersion for injection is indicated
+    for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in infants and
+    children aged 6 months to 11 years. The use of this vaccine should be in accordance
+    with official recommendations. Comirnaty KP.2 dispersion for injection is indicated
+    for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals
+    5 years of age and older. The use of this vaccine should be in accordance with
+    official recommendations. Comirnaty KP.2 concentrate for dispersion for injection
+    is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2
+    in infants and children aged 6 months to 4 years. The use of this vaccine should
+    be in accordance with official recommendations. Comirnaty LP.8.1 dispersion for
+    injection is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2
+    in individuals 5 years of age and older. The use of this vaccine should be in
+    accordance with official recommendations. Comirnaty LP.8.1 concentrate for dispersion
+    for injection is indicated for active immunisation to prevent COVID-19 caused
+    by SARS-CoV-2 in infants and children aged 6 months to 4 years. The use of this
+    vaccine should be in accordance with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: BioNTech Manufacturing GmbH
+  european_commission_decision_date: 04/11/2025
+  marketing_authorisation_date: 21/12/2020
+  opinion_adopted_date: 21/12/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '57'
+metadata:
+  first_published: 23/12/2020
+  last_updated: 27/02/2026
+  latest_procedure: VR/0000303772
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/comirnaty

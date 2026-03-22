@@ -1,0 +1,50 @@
+name: Capvaxive
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006267
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: pneumococcal polysaccharide conjugate vaccine (21-valent)
+  active_substance: pneumococcal polysaccharide serotype 3, 6A, 7F, 8, 9N, 10A, 11A,
+    12F, 15A, 15B de-O-acetylated, 16F, 17F, 19A, 20A, 22F, 23A, 23B, 24F, 31, 33F
+    and 35B conjugated to CRM197 carrier protein
+therapeutic_information:
+  therapeutic_area_mesh: Pneumococcal Infections
+  atc_code_human: J07AL02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Capvaxive is indicated for active immunisation for the prevention
+    of invasive disease and pneumonia caused by Streptococcus pneumoniae in individuals
+    18 years of age and older.See sections 4.4 and 5.1 for information on protection
+    against specific pneumococcal serotypes.The use of Capvaxive should be in accordance
+    with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merck Sharp & Dohme B.V.
+  european_commission_decision_date: 06/10/2025
+  marketing_authorisation_date: 24/03/2025
+  opinion_adopted_date: 30/01/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 31/01/2025
+  last_updated: 06/10/2025
+  latest_procedure: EMA/VR/0000296295
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/capvaxive

@@ -1,0 +1,52 @@
+name: Tuzulby
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005975
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: methylphenidate hydrochloride
+  active_substance: methylphenidate hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Attention Deficit Disorder with Hyperactivity
+  atc_code_human: N06BA04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Tuzulby is indicated as part of a comprehensive treatment
+    programme for attention-deficit / hyperactivity disorder (ADHD) in children and
+    adolescents 6-17 years old when remedial measures alone prove insufficient. Treatment
+    must be under the supervision of a specialist in childhood behavioural disorders.
+    Diagnosis should be made according to Diagnostic and Statistical Manual of Mental
+    Disorders Fourth Edition (DSM-IV) criteria or the guidelines in International
+    Classification of Diseases, Tenth Revision (ICD-10) and should be based on a complete
+    history and evaluation of the patient. Diagnosis cannot be made solely on the
+    presence of one or more symptoms.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Neuraxpharm Pharmaceuticals S.L.
+  european_commission_decision_date: 19/12/2025
+  marketing_authorisation_date: 28/02/2025
+  opinion_adopted_date: 12/12/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 13/12/2024
+  last_updated: 19/12/2025
+  latest_procedure: VR/0000314054
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tuzulby

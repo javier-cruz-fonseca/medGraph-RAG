@@ -1,0 +1,48 @@
+name: Ulipristal Acetate Gedeon Richter
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005017
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: ulipristal acetate
+  active_substance: ulipristal acetate
+therapeutic_information:
+  therapeutic_area_mesh: Leiomyoma
+  atc_code_human: G03XB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ulipristal acetate is indicated for one treatment course
+    of pre-operative treatment of moderate to severe symptoms of uterine fibroids
+    in adult women of reproductive age. Ulipristal acetate is indicated for intermittent
+    treatment of moderate to severe symptoms of uterine fibroids in adult women of
+    reproductive age who are not eligible for surgery.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Gedeon Richter Plc.
+  european_commission_decision_date: 14/06/2021
+  marketing_authorisation_date: 27/08/2018
+  opinion_adopted_date: 28/06/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 27/08/2018
+  last_updated: 09/07/2021
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ulipristal-acetate-gedeon-richter

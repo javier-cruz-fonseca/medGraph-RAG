@@ -1,0 +1,45 @@
+name: Verkazia
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004411
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ciclosporin
+  active_substance: ciclosporin
+therapeutic_information:
+  therapeutic_area_mesh: Conjunctivitis;Keratitis
+  atc_code_human: S01XA18
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of severe vernal keratoconjunctivitis (VKC) in
+    children from 4 years of age and adolescents.
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Santen Oy
+  european_commission_decision_date: 31/03/2023
+  marketing_authorisation_date: 06/07/2018
+  opinion_adopted_date: 20/07/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 06/07/2018
+  last_updated: 15/01/2026
+  latest_procedure: R/0021
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/verkazia

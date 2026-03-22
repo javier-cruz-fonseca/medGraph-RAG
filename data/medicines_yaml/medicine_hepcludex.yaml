@@ -1,0 +1,47 @@
+name: Hepcludex
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004854
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: bulevirtide
+  active_substance: bulevirtide acetate
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis D, Chronic
+  atc_code_human: J05A
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Hepcludex is indicated for the treatment of chronic hepatitis
+    delta virus (HDV) infection in plasma (or serum) HDV-RNA positive adult and paediatric
+    patients 3 years of age and older weighing at least 10 kg with compensated liver
+    disease.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Gilead Sciences Ireland UC
+  european_commission_decision_date: 24/02/2026
+  marketing_authorisation_date: 31/07/2020
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '17'
+metadata:
+  first_published: 12/08/2020
+  last_updated: 25/02/2026
+  latest_procedure: N/0000315447
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/hepcludex

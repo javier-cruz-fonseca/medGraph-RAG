@@ -1,0 +1,65 @@
+name: Trudexa
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000482
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: adalimumab
+  active_substance: adalimumab
+therapeutic_information:
+  therapeutic_area_mesh: Spondylitis, Ankylosing;Arthritis, Rheumatoid;Arthritis,
+    Psoriatic;Crohn Disease
+  atc_code_human: L04AA17
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Rheumatoid arthritisTrudexa in combination with methotrexate,
+    is indicated for:  the treatment of moderate to severe, active rheumatoid arthritis
+    in adult patients when the response to disease-modifying anti-rheumatic drugs
+    including methotrexate has been inadequate. the treatment of severe, active and
+    progressive rheumatoid arthritis in adults not previously treated with methotrexate.  Trudexa
+    can be given as monotherapy in case of intolerance to methotrexate or when continued
+    treatment with methotrexate is inappropriate. Trudexa has been shown to reduce
+    the rate of progression of joint damage as measured by X-ray and to improve physical
+    function, when given in combination with methotrexate. Psoriatic arthritisTrudexa
+    is indicated for the treatment of active and progressive psoriatic arthritis in
+    adults when the response to previous disease-modifying anti-rheumatic drug therapy
+    has been inadequate. Ankylosing spondylitisTrudexa is indicated for the treatment
+    of adults with severe active ankylosing spondylitis who have had an inadequate
+    response to conventional therapy. Crohn''s diseaseTrudexa is indicated for treatment
+    of severe, active Crohn''s disease, in patients who have not responded despite
+    a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant;
+    or who are intolerant to or have medical contraindications for such therapies.
+    For induction treatment, Trudexa should be given in combination with cortiocosteroids.
+    Trudexa can be given as monotherapy in case of intolerance to corticosteroids
+    or when continued treatment with corticosteroids is inappropriate (see section
+    4.2).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Abbott Laboratories Ltd.
+  european_commission_decision_date: 29/06/2007
+  marketing_authorisation_date: 01/09/2003
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 09/07/2007
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 29/06/2007
+  last_updated: 14/02/2008
+  latest_procedure: II/0037
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/trudexa

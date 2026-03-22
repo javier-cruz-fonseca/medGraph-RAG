@@ -1,0 +1,52 @@
+name: Topotecan Teva
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001071
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: topotecan
+  active_substance: topotecan
+therapeutic_information:
+  therapeutic_area_mesh: Ovarian Neoplasms;Uterine Cervical Neoplasms;Small Cell Lung
+    Carcinoma
+  atc_code_human: L01CE01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Topotecan monotherapy is indicated for the treatment of:  patients
+    with metastatic carcinoma of the ovary after failure of first line or subsequent
+    therapy; patients with relapsed small cell lung cancer [SCLC] for whom re-treatment
+    with the first-line regimen is not considered appropriate.  Topotecan in combination
+    with cisplatin is indicated for patients with carcinoma of the cervix recurrent
+    after radiotherapy and for patients with Stage IVB disease. Patients with prior
+    exposure to cisplatin require a sustained treatment free interval to justify treatment
+    with the combination.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Teva B.V.
+  european_commission_decision_date: 22/06/2018
+  marketing_authorisation_date: 21/09/2009
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 22/06/2018
+  last_updated: 13/07/2018
+  latest_procedure: IB/0014
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/topotecan-teva

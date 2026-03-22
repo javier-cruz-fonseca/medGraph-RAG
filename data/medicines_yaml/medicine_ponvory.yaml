@@ -1,0 +1,46 @@
+name: Ponvory
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005163
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ponesimod
+  active_substance: ponesimod
+therapeutic_information:
+  therapeutic_area_mesh: Multiple Sclerosis, Relapsing-Remitting
+  atc_code_human: L04AE04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ponvory is indicated for the treatment of adult patients
+    with relapsing forms of multiple sclerosis (RMS) with active disease defined by
+    clinical or imaging features.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Laboratoires Juvisé Pharmaceuticals
+  european_commission_decision_date: 12/02/2026
+  marketing_authorisation_date: 19/05/2021
+  opinion_adopted_date: 25/03/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '11'
+metadata:
+  first_published: 24/03/2021
+  last_updated: 10/03/2026
+  latest_procedure: R/0000292277
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ponvory

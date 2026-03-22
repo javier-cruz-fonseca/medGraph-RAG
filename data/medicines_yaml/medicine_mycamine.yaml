@@ -1,0 +1,55 @@
+name: Mycamine
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000734
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: micafungin
+  active_substance: micafungin
+therapeutic_information:
+  therapeutic_area_mesh: Candidiasis
+  atc_code_human: J02AX05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Mycamine is indicated for: Adults, adolescents ≥ 16 years
+    of age and elderly  treatment of invasive candidiasis; treatment of oesophageal
+    candidiasis in patients for whom intravenous therapy is appropriate; prophylaxis
+    of Candida infection in patients undergoing allogeneic haematopoietic stem-cell
+    transplantation or patients who are expected to have neutropenia (absolute neutrophil
+    count &lt; 500 cells/µl) for 10 or more days.  Children (including neonates) and
+    adolescents &lt; 16 years of age  treatment of invasive candidiasis. prophylaxis
+    of Candida infection in patients undergoing allogeneic haematopoietic stem-cell
+    transplantation or patients who are expected to have neutropenia (absolute neutrophil
+    count &lt; 500 cells/µl) for 10 or more days.  The decision to use Mycamine should
+    take into account a potential risk for the development of liver tumours. Mycamine
+    should therefore only be used if other antifungals are not appropriate.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sandoz Pharmaceuticals d.d.
+  european_commission_decision_date: 04/08/2025
+  marketing_authorisation_date: 25/04/2008
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '22'
+metadata:
+  first_published: 19/02/2018
+  last_updated: 13/10/2025
+  latest_procedure: N/0000290203
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/mycamine

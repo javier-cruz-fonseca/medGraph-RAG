@@ -1,0 +1,49 @@
+name: Qaialdo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005535
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: spironolactone
+  active_substance: spironolactone
+therapeutic_information:
+  therapeutic_area_mesh: Edema;Heart Failure;Liver Cirrhosis;Ascites;Nephrotic Syndrome;Hyperaldosteronism;Essential
+    Hypertension
+  atc_code_human: C03DA01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: In the management of refractory oedema associated with congestive
+    cardiac failure; hepatic cirrhosis with ascites and oedema, malignant ascites,
+    nephrotic syndrome, diagnosis and treatment of primary aldosteronism, essential
+    hypertension. Neonates, children and adolescents should only be treated under
+    guidance of a paediatric specialist (see sections 5.1 and 5.2).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Lipomed GmbH
+  european_commission_decision_date: 12/12/2025
+  marketing_authorisation_date: 26/05/2023
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 25/07/2023
+  last_updated: 25/02/2026
+  latest_procedure: T/0000304593
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/qaialdo

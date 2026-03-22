@@ -1,0 +1,59 @@
+name: Valtropin
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000602
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: somatropin
+  active_substance: somatropin
+therapeutic_information:
+  therapeutic_area_mesh: Turner Syndrome;Dwarfism, Pituitary
+  atc_code_human: H01AC01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Paediatric poulation  Long-term treatment of children (2
+    to 11 years old) and adolescents (12 to 18 years old) with growth failure due
+    to an inadequate secretion of normal endogenous growth hormone. Treatment of short
+    stature in children with Turner syndrome, confirmed by chromosome analysis. Treatment
+    of growth retardation in pre-pubertal children with chronic renal insufficiency.  Adult
+    patients  Replacement therapy in adults with pronounced growth hormone deficiency
+    of either childhood- or adult-onset aetiology.  Patients with severe growth hormone
+    deficiency in adulthood are defined as patients with known hypothalamic-pituitary
+    pathology and at least one additional known deficiency of a pituitary hormone
+    not being prolactin. These patients should undergo a single dynamic test in order
+    to diagnose or exclude a growth hormone deficiency. In patients with childhood-onset
+    isolated growth hormone deficiency (no evidence of hypothalamic-pituitary disease
+    or cranial irradiation), two dynamic tests should be recommended, except for those
+    having low insulin-like growth factor-1 (IGF-1) concentrations (&lt; 2 standard
+    deviation score (SDS)), who may be considered for one test. The cut-off point
+    of the dynamic test should be strict.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: BioPartners GmbH
+  european_commission_decision_date: 10/05/2012
+  marketing_authorisation_date: 24/04/2006
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 10/05/2012
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 10/05/2012
+  last_updated: 14/08/2012
+  latest_procedure: A20/08
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/valtropin

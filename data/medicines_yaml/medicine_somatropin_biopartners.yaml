@@ -1,0 +1,54 @@
+name: Somatropin Biopartners
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002196
+  medicine_status: Lapsed
+  opinion_status: ''
+  inn_common_name: somatropin
+  active_substance: somatropin
+therapeutic_information:
+  therapeutic_area_mesh: Growth
+  atc_code_human: H01AC01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Somatropin Biopartners is indicated for the replacement
+    therapy of endogenous growth hormone in adults with childhood- or adult-onset
+    growth-hormone deficiency (GHD). Adult-onset: Patients with GHD in adulthood are
+    defined as patients with known hypothalamic-pituitary pathology and at least one
+    additional known deficiency of a pituitary hormone excluding prolactin. These
+    patients should undergo a single dynamic test in order to diagnose or exclude
+    a GHD. Childhood-onset: In patients with childhood-onset isolated GHD (no evidence
+    of hypothalamic-pituitary disease or cranial irradiation), two dynamic tests should
+    be performed after completion of growth, except for those having low insulin-like-growth-factor-I
+    (IGF-I) concentrations (&lt; -2 standard-deviation score (SDS)), who may be considered
+    for one test. The cut-off point of the dynamic test should be strict.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: BioPartners GmbH
+  european_commission_decision_date: 13/03/2017
+  marketing_authorisation_date: 05/08/2013
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 09/11/2017
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 13/03/2017
+  last_updated: 01/12/2017
+  latest_procedure: IAIN/0010
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/somatropin-biopartners

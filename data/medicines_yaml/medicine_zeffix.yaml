@@ -1,0 +1,50 @@
+name: Zeffix
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000242
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: lamivudine
+  active_substance: lamivudine
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis B, Chronic
+  atc_code_human: J05AF05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Zeffix is indicated for the treatment of chronic hepatitis
+    B in adults with:  compensated liver disease with evidence of active viral replication,
+    persistently elevated serum alanine aminotransferase (ALT) levels and histological
+    evidence of active liver inflammation and / or fibrosis. Initiation of lamivudine
+    treatment should only be considered when the use of an alternative antiviral agent
+    with a higher genetic barrier is not available or appropriate; decompensated liver
+    disease in combination with a second agent without cross-resistance to lamivudine.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited
+  european_commission_decision_date: 26/05/2025
+  marketing_authorisation_date: 29/07/1999
+  opinion_adopted_date: 22/04/1999
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '31'
+metadata:
+  first_published: 25/01/2018
+  last_updated: 03/06/2025
+  latest_procedure: T/0000262168
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zeffix

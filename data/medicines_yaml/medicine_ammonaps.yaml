@@ -1,0 +1,51 @@
+name: Ammonaps
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000219
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sodium phenylbutyrate
+  active_substance: sodium phenylbutyrate
+therapeutic_information:
+  therapeutic_area_mesh: Ornithine Carbamoyltransferase Deficiency Disease;Citrullinemia;Carbamoyl-Phosphate
+    Synthase I Deficiency Disease
+  atc_code_human: A16AX03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ammonaps is indicated as adjunctive therapy in the chronic
+    management of urea cycle disorders, involving deficiencies of carbamylphosphate
+    synthetase, ornithine transcarbamylase orargininosuccinate synthetase. It is indicated
+    in all patients with neonatal-onset presentation (complete enzyme deficiencies,
+    presenting within the first 28 days of life). It is also indicated in patients
+    with late-onset disease(partial enzyme deficiencies, presenting after the first
+    month of life) who have a history of hyperammonaemic encephalopathy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Immedica Pharma AB
+  european_commission_decision_date: 12/12/2022
+  marketing_authorisation_date: 07/12/1999
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '21'
+metadata:
+  first_published: 28/06/2017
+  last_updated: 16/12/2022
+  latest_procedure: IAIN/0063
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ammonaps

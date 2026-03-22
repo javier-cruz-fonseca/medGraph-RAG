@@ -1,0 +1,47 @@
+name: Defitelio
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002393
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: defibrotide
+  active_substance: defibrotide
+therapeutic_information:
+  therapeutic_area_mesh: Hepatic Veno-Occlusive Disease
+  atc_code_human: B01AX01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Defitelio is indicated for the treatment of severe hepatic
+    veno-occlusive disease (VOD) also known as sinusoidal obstructive syndrome (SOS)
+    in haematopoietic stem-cell transplantation (HSCT) therapy. It is indicated in
+    adults and in adolescents, children and infants over 1 month of age.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'Yes'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Gentium S.r.l.
+  european_commission_decision_date: 19/12/2023
+  marketing_authorisation_date: 18/10/2013
+  opinion_adopted_date: 25/07/2013
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '16'
+metadata:
+  first_published: 21/04/2017
+  last_updated: 20/12/2023
+  latest_procedure: IB/0063
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/defitelio

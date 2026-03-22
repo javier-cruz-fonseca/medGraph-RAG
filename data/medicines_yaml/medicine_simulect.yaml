@@ -1,0 +1,50 @@
+name: Simulect
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000207
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: basiliximab
+  active_substance: basiliximab
+therapeutic_information:
+  therapeutic_area_mesh: Graft Rejection;Kidney Transplantation
+  atc_code_human: L04AC02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Simulect is indicated for the prophylaxis of acute organ
+    rejection in de-novo allogeneic renal transplantation in adult and paediatric
+    patients (1-17 years). It is to be used concomitantly with ciclosporin for microemulsion-
+    and corticosteroid-based immunosuppression, in patients with panel reactive antibodies
+    less than 80%, or in a triple maintenance immunosuppressive regimen containing
+    ciclosporin for microemulsion, corticosteroids and either azathioprine or mycophenolate
+    mofetil.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 18/12/2025
+  marketing_authorisation_date: 09/10/1998
+  opinion_adopted_date: 23/06/1998
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '30'
+metadata:
+  first_published: 12/04/2018
+  last_updated: 19/12/2025
+  latest_procedure: VR/0000319153
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/simulect

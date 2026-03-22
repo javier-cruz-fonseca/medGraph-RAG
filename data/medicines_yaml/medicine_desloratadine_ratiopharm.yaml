@@ -1,0 +1,47 @@
+name: Desloratadine ratiopharm
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002404
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: desloratadine
+  active_substance: desloratadine
+therapeutic_information:
+  therapeutic_area_mesh: Rhinitis, Allergic, Perennial;Urticaria;Rhinitis, Allergic,
+    Seasonal
+  atc_code_human: R06AX27
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Desloratadine ratiopharm is indicated in adults for the
+    relief of symptoms associated with:  allergic rhinitis chronic idiopathic urticaria
+    as initially diagnosed by a physician'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Ratiopharm GmbH
+  european_commission_decision_date: 22/06/2022
+  marketing_authorisation_date: 13/01/2012
+  opinion_adopted_date: 17/11/2011
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 29/11/2017
+  last_updated: 24/06/2022
+  latest_procedure: N/0030
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/desloratadine-ratiopharm

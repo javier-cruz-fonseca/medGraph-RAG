@@ -1,0 +1,46 @@
+name: Hemgenix
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004827
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: etranacogene dezaparvovec
+  active_substance: Etranacogene dezaparvovec
+therapeutic_information:
+  therapeutic_area_mesh: Hemophilia B
+  atc_code_human: B02BD
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of severe and moderately severe Haemophilia B
+    (congenital Factor IX deficiency) in adult patients without a history of Factor
+    IX inhibitors.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: CSL Behring GmbH
+  european_commission_decision_date: 29/01/2026
+  marketing_authorisation_date: 20/02/2023
+  opinion_adopted_date: 15/12/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 09/12/2022
+  last_updated: 04/03/2026
+  latest_procedure: VR/0000308793
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/hemgenix

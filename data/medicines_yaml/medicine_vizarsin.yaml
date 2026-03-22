@@ -1,0 +1,47 @@
+name: Vizarsin
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001076
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sildenafil
+  active_substance: sildenafil
+therapeutic_information:
+  therapeutic_area_mesh: Erectile Dysfunction
+  atc_code_human: G04BE03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of men with erectile dysfunction, which is the
+    inability to achieve or maintain a penile erection sufficient for satisfactory
+    sexual performance. In order for Vizarsin to be effective, sexual stimulation
+    is required.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Krka, d.d., Novo mesto
+  european_commission_decision_date: 22/02/2023
+  marketing_authorisation_date: 21/09/2009
+  opinion_adopted_date: 25/06/2009
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '19'
+metadata:
+  first_published: 06/12/2017
+  last_updated: 24/02/2023
+  latest_procedure: N/0036
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vizarsin

@@ -1,0 +1,54 @@
+name: Gardasil
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000703
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: human papillomavirus vaccine [types 6, 11, 16, 18] (recombinant,
+    adsorbed)
+  active_substance: human papillomavirus type 6 L1 protein;human papillomavirus type
+    11 L1 protein;human papillomavirus type 16 L1 protein;human papillomavirus type
+    18 L1 protein
+therapeutic_information:
+  therapeutic_area_mesh: Papillomavirus Infections;Uterine Cervical Dysplasia;Condylomata
+    Acuminata;Immunization
+  atc_code_human: J07BM01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Gardasil is a vaccine for use from the age of 9 years for
+    the prevention of:  premalignant genital lesions (cervical, vulvar and vaginal),
+    premalignant anal lesions, cervical cancers and anal cancers causally related
+    to certain oncogenic Human Papillomavirus (HPV) types; genital warts (condyloma
+    acuminata) causally related to specific HPV types.  See sections 4.4 and 5.1 for
+    important information on the data that support this indication. The use of Gardasil
+    should be in accordance with official recommendations.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merck Sharp & Dohme B.V.
+  european_commission_decision_date: 20/10/2025
+  marketing_authorisation_date: 20/09/2006
+  opinion_adopted_date: 27/07/2006
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '52'
+metadata:
+  first_published: 17/05/2018
+  last_updated: 20/10/2025
+  latest_procedure: N/0000307068
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/gardasil

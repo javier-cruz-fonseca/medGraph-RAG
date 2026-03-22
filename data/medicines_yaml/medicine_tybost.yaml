@@ -1,0 +1,48 @@
+name: Tybost
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002572
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: cobicistat
+  active_substance: cobicistat
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: V03AX03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Tybost is indicated as a pharmacokinetic enhancer of atazanavir
+    300 mg once daily or darunavir 800 mg once daily as part of antiretroviral combination
+    therapy in human immunodeficiency virus-1 (HIV-1) infected adults and adolescents
+    aged 12 years and older:  weighing at least 35 kg co?administered with atazanavir
+    or weighing at least 40 kg co?administered with darunavir.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Gilead Sciences Ireland UC
+  european_commission_decision_date: 13/02/2023
+  marketing_authorisation_date: 19/09/2013
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '15'
+metadata:
+  first_published: 26/07/2018
+  last_updated: 14/02/2023
+  latest_procedure: IB/0064
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tybost

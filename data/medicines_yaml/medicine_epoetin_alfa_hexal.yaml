@@ -1,0 +1,54 @@
+name: Epoetin Alfa Hexal
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000726
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: epoetin alfa
+  active_substance: epoetin alfa
+therapeutic_information:
+  therapeutic_area_mesh: Anemia;Kidney Failure, Chronic;Blood Transfusion, Autologous;Myelodysplastic
+    Syndromes
+  atc_code_human: B03XA01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Treatment of symptomatic anaemia associated with chronic
+    renal failure (CRF) in adult and paediatric patients:  treatment of anaemia associated
+    with chronic renal failure in paediatric and adult patients on haemodialysis and
+    adult patients on peritoneal dialysis; Treatment of severe anaemia of renal origin
+    accompanied by clinical symptoms in adult patients with renal insufficiency not
+    yet undergoing dialysis.  Treatment of anaemia and reduction of transfusion requirements
+    in adult patients receiving chemotherapy for solid tumours, malignant lymphoma
+    or multiple myeloma, and at risk of transfusion as assessed by the patient''s
+    general status (e.g. cardiovascular status, pre-existing anaemia at the start
+    of chemotherapy).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Hexal AG
+  european_commission_decision_date: 11/07/2025
+  marketing_authorisation_date: 27/08/2007
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '27'
+metadata:
+  first_published: 04/10/2017
+  last_updated: 11/07/2025
+  latest_procedure: VR/0000278097
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/epoetin-alfa-hexal

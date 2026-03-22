@@ -1,0 +1,71 @@
+name: Docefrez
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001074
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: docetaxel
+  active_substance: docetaxel
+therapeutic_information:
+  therapeutic_area_mesh: Stomach Neoplasms;Adenoma;Breast Neoplasms;Carcinoma, Non-Small-Cell
+    Lung;Prostatic Neoplasms
+  atc_code_human: L01CD02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Breast cancer  Docetaxel in combination with doxorubicin
+    and cyclophosphamide is indicated for the adjuvant treatment of patients with
+    operable node-positive breast cancer. Docetaxel in combination with doxorubicin
+    is indicated for the treatment of patients with locally advanced or metastatic
+    breast cancer who have not previously received cytotoxic therapy for this condition.
+    Docetaxel monotherapy is indicated for the treatment of patients with locally
+    advanced or metastatic breast cancer after failure of cytotoxic therapy. Previous
+    chemotherapy should have included an anthracycline or an alkylating agent. Docetaxel
+    in combination with trastuzumab is indicated for the treatment of patients with
+    metastatic breast cancer whose tumours over express HER2 and who previously have
+    not received chemotherapy for metastatic disease. Docetaxel in combination with
+    capecitabine is indicated for the treatment of patients with locally advanced
+    or metastatic breast cancer after failure of cytotoxic chemotherapy. Previous
+    therapy should have included an anthracycline.  Non-small cell lung cancer  Docetaxel
+    is indicated for the treatment of patients with locally advanced or metastatic
+    non-small cell lung cancer after failure of prior chemotherapy. Docetaxel in combination
+    with cisplatin is indicated for the treatment of patients with unresectable, locally
+    advanced or metastatic non-small cell lung cancer, in patients who have not previously
+    received chemotherapy for this condition.  Prostate cancer  Docetaxel in combination
+    with prednisone or prednisolone is indicated for the treatment of patients with
+    hormone refractory metastatic prostate cancer.  Gastric adenocarcinoma  Docetaxel
+    in combination with cisplatin and 5-fluorouracil is indicated for the treatment
+    of patients with metastatic gastric adenocarcinoma, including adenocarcinoma of
+    the gastroesophageal junction, who have not received prior chemotherapy for metastatic
+    disease.  Head and neck cancer  Docetaxel in combination with cisplatin and 5-fluorouracil
+    is indicated for the induction treatment of patients with locally advanced squamous
+    cell carcinoma of the head and neck.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sun Pharmaceutical Industries Europe B.V.
+  european_commission_decision_date: 25/05/2012
+  marketing_authorisation_date: 10/05/2010
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 25/05/2012
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 25/05/2012
+  last_updated: 14/06/2012
+  latest_procedure: IB/0001
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/docefrez

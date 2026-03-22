@@ -1,0 +1,58 @@
+name: Cabometyx
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004163
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: cabozantinib
+  active_substance: cabozantinib (s)-malate
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Renal Cell;Carcinomas, Hepatocellular
+  atc_code_human: L01EX07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Renal Cell Carcinoma (RCC) Cabometyx is indicated as monotherapy
+    for advanced renal cell carcinoma  as first-line treatment of adult patients with
+    intermediate or poor risk, in adults following prior vascular endothelial growth
+    factor (VEGF)-targeted therapy.  Cabometyx, in combination with nivolumab, is
+    indicated for the first-line treatment of advanced renal cell carcinoma in adults.
+    Hepatocellular carcinoma (HCC)Cabometyx is indicated as monotherapy for the treatment
+    of hepatocellular carcinoma (HCC) in adults who have previously been treated with
+    sorafenib.Differentiated thyroid carcinoma (DTC)Cabometyx is indicated as monotherapy
+    for the treatment of adult patients with locally advanced or metastatic differentiated
+    thyroid carcinoma (DTC), refractory or not eligible to radioactive iodine (RAI)
+    who have progressed during or after prior systemic therapy.Neuroendocrine Tumours
+    (NET)Cabometyx is indicated for the treatment of adult&nbsp;patients with unresectable
+    or metastatic, well differentiated extra-pancreatic (epNET) and pancreatic (pNET)
+    neuroendocrine tumours who have progressed following at least one prior systemic
+    therapy other than somatostatin analogues.
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Ipsen Pharma
+  european_commission_decision_date: 15/01/2026
+  marketing_authorisation_date: 09/09/2016
+  opinion_adopted_date: 21/07/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '21'
+metadata:
+  first_published: 08/05/2018
+  last_updated: 27/02/2026
+  latest_procedure: VR/0000271719
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cabometyx

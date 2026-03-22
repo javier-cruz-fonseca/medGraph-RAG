@@ -1,0 +1,51 @@
+name: Stoboclo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006156
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: denosumab
+  active_substance: denosumab
+therapeutic_information:
+  therapeutic_area_mesh: Osteoporosis, Postmenopausal;Osteoporosis;Bone Resorption
+  atc_code_human: M05BX04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of osteoporosis in postmenopausal women and in
+    men at increased risk of fractures. In postmenopausal women denosumab significantly
+    reduces the risk of vertebral, non-vertebral and hip fractures.Treatment of bone
+    loss associated with hormone ablation in men with prostate cancer at increased
+    risk of fractures. In men with prostate cancer receiving hormone ablation, denosumab
+    significantly reduces the risk of vertebral fractures.Treatment of bone loss associated
+    with long-term systemic glucocorticoid therapy in adult patients at increased
+    risk of fracture.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Celltrion Healthcare Hungary Kft.
+  european_commission_decision_date: 14/01/2026
+  marketing_authorisation_date: 14/02/2025
+  opinion_adopted_date: 12/12/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 13/12/2024
+  last_updated: 14/01/2026
+  latest_procedure: VR/0000320514
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/stoboclo

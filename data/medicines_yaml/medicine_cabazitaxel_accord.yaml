@@ -1,0 +1,45 @@
+name: Cabazitaxel Accord
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005178
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: cabazitaxel
+  active_substance: cabazitaxel
+therapeutic_information:
+  therapeutic_area_mesh: Prostatic Neoplasms, Castration-Resistant
+  atc_code_human: L01CD04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of patients with hormone refractory metastatic
+    prostate cancer previously treated with a docetaxel-containing regimen.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 07/01/2026
+  marketing_authorisation_date: 28/08/2020
+  opinion_adopted_date: 30/04/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 28/10/2020
+  last_updated: 07/01/2026
+  latest_procedure: VR/0000320820
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cabazitaxel-accord

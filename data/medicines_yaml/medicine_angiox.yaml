@@ -1,0 +1,49 @@
+name: Angiox
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000562
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: bivalirudin
+  active_substance: Bivalirudin
+therapeutic_information:
+  therapeutic_area_mesh: Acute Coronary Syndrome
+  atc_code_human: B01AE06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Angiox is indicated as an anticoagulant in adult patients
+    undergoing percutaneous coronary intervention (PCI), including patients with ST-segment-elevation
+    myocardial infarction (STEMI) undergoing primary PCI. Angiox is also indicated
+    for the treatment of adult patients with unstable angina / non-ST-segment-elevation
+    myocardial infarction (UA / NSTEMI) planned for urgent or early intervention.
+    Angiox should be administered with aspirin and clopidogrel.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: The Medicines Company UK Ltd
+  european_commission_decision_date: 25/10/2016
+  marketing_authorisation_date: 20/09/2004
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 21/06/2018
+  suspension_date: ''
+  revision_number: '22'
+metadata:
+  first_published: 25/10/2016
+  last_updated: 14/09/2018
+  latest_procedure: EMEA/H/C/000562/IB/0070
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/angiox

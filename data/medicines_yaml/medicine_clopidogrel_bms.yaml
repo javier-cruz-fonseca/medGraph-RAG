@@ -1,0 +1,54 @@
+name: Clopidogrel BMS
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000974
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: clopidogrel
+  active_substance: clopidogrel (as hydrogen sulfate)
+therapeutic_information:
+  therapeutic_area_mesh: Stroke;Peripheral Vascular Diseases;Myocardial Infarction;Acute
+    Coronary Syndrome
+  atc_code_human: B01AC04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Clopidogrel is indicated in adults for the prevention of
+    atherothrombotic events in: - Patients suffering from myocardial infarction (from
+    a few days until less than 35 days), ischaemic stroke (from 7 days until less
+    than 6 months) or established peripheral arterial disease. - Patients suffering
+    from acute coronary syndrome: Non-ST segment elevation acute coronary syndrome
+    (unstable angina or non-Q-wave myocardial infarction), including patients undergoing
+    a stent placement following percutaneous coronary intervention, in combination
+    with acetylsalicylic acid (ASA). ST segment elevation acute myocardial infarction,
+    in combination with ASA in medically treated patients eligible for thrombolytic
+    therapy.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG
+  european_commission_decision_date: 26/10/2009
+  marketing_authorisation_date: 16/07/2008
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 12/11/2009
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 26/10/2009
+  last_updated: 26/01/2010
+  latest_procedure: N/0012
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-bms

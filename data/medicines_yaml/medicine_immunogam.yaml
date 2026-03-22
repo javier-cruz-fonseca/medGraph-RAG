@@ -1,0 +1,52 @@
+name: ImmunoGam
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001055
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: human hepatitis B immunoglobulin
+  active_substance: human hepatitis B immunoglobulin
+therapeutic_information:
+  therapeutic_area_mesh: Immunization, Passive;Hepatitis B
+  atc_code_human: J06BB04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Immunoprophylaxis of Hepatitis B  - In case of accidental
+    exposure in non-immunised subjects (including persons whose vaccination isincomplete
+    or status unknown). - In haemodialysed patients, until vaccination has become
+    effective. - In the newborn of a hepatitis B virus carrier-mother. - In subjects
+    who did not show an immune response (no measurable hepatitis B antibodies) after
+    vaccination and for whom a continuous prevention is necessary due to the continuous
+    risk of being infected with hepatitis B. Consideration should also be given to
+    other official guidance on the appropriate use of human hepatitis B immunoglobulin
+    for intramuscular use.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Cangene Europe Limited
+  european_commission_decision_date: 06/09/2010
+  marketing_authorisation_date: 16/03/2010
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 06/09/2010
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 06/09/2010
+  last_updated: 26/01/2011
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/immunogam

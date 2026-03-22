@@ -1,0 +1,46 @@
+name: Aerius
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000313
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: desloratadine
+  active_substance: desloratadine
+therapeutic_information:
+  therapeutic_area_mesh: Rhinitis, Allergic, Perennial;Urticaria;Rhinitis, Allergic,
+    Seasonal
+  atc_code_human: R06AX27
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Aerius is indicated for the relief of symptoms associated
+    with:  allergic rhinitis; urticaria.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Organon N.V.
+  european_commission_decision_date: 26/02/2026
+  marketing_authorisation_date: 15/01/2001
+  opinion_adopted_date: 21/09/2000
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '53'
+metadata:
+  first_published: 29/06/2018
+  last_updated: 02/03/2026
+  latest_procedure: VR/0000312765
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/aerius

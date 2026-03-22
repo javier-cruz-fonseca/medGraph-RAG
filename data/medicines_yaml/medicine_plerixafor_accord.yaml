@@ -1,0 +1,56 @@
+name: Plerixafor Accord
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005943
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: plerixafor
+  active_substance: Plerixafor
+therapeutic_information:
+  therapeutic_area_mesh: Multiple Myeloma;Hematopoietic Stem Cell Transplantation
+  atc_code_human: L03AX16
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Adult patients Plerixafor Accord is indicated in combination
+    with granulocyte-colony stimulating factor (G-CSF) to enhance mobilisation of
+    haematopoietic stem cells to the peripheral blood for collection and subsequent
+    autologous transplantation in adult patients with lymphoma or multiple myeloma
+    whose cells mobilise poorly (see section 4.2). Paediatric patients (1 to less
+    than 18 years) Plerixafor Accord is indicated in combination with G-CSF to enhance
+    mobilisation of haematopoietic stem cells to the peripheral blood for collection
+    and subsequent autologous transplantation in children with lymphoma or solid malignant
+    tumours, either:- pre-emptively, when circulating stem cell count on the predicted
+    day of collection after adequate mobilization with G-CSF (with or without chemotherapy)
+    is expected to be insufficient with regards to desired hematopoietic stem cells
+    yield, or- who previously failed to collect sufficient haematopoietic stem cells
+    (see section 4.2).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 07/05/2024
+  marketing_authorisation_date: 16/12/2022
+  opinion_adopted_date: 13/10/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 06/02/2023
+  last_updated: 13/05/2024
+  latest_procedure: N/0003
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/plerixafor-accord

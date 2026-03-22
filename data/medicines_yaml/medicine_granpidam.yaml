@@ -1,0 +1,51 @@
+name: Granpidam
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004289
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sildenafil
+  active_substance: sildenafil citrate
+therapeutic_information:
+  therapeutic_area_mesh: Hypertension, Pulmonary
+  atc_code_human: G04BE03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Adults  Treatment of adult patients with pulmonary arterial
+    hypertension classified as WHO functional class II and III, to improve exercise
+    capacity. Efficacy has been shown in primary pulmonary hypertension and pulmonary
+    hypertension associated with connective tissue disease.  Paediatric population  Treatment
+    of paediatric patients aged 1 year to 17 years old with pulmonary arterial hypertension.
+    Efficacy in terms of improvement of exercise capacity or pulmonary haemodynamics
+    has been shown in primary pulmonary hypertension and pulmonary hypertension associated
+    with congenital heart disease.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 30/03/2023
+  marketing_authorisation_date: 14/11/2016
+  opinion_adopted_date: 15/09/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 17/01/2017
+  last_updated: 11/04/2023
+  latest_procedure: IB/0015
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/granpidam

@@ -1,0 +1,46 @@
+name: Lunsumio
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005680
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: mosunetuzumab
+  active_substance: mosunetuzumab
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Follicular
+  atc_code_human: L01FX25
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Lunsumio as monotherapy is indicated for the treatment of
+    adult patients with relapsed or refractory follicular lymphoma (FL) who have received
+    at least two prior systemic therapies.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Roche Registration GmbH
+  european_commission_decision_date: 17/11/2025
+  marketing_authorisation_date: 03/06/2022
+  opinion_adopted_date: 22/04/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 13/04/2022
+  last_updated: 16/02/2026
+  latest_procedure: X/0015
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/lunsumio

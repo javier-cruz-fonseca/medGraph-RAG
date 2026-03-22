@@ -1,0 +1,49 @@
+name: Zomarist
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001049
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: vildagliptin;metformin
+  active_substance: vildagliptin;metformin hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Diabetes Mellitus, Type 2
+  atc_code_human: A10BD08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Zomarist is indicated as an adjunct to diet and exercise
+    to improve glycaemic control in adults with type 2 diabetes mellitus:  in patients
+    who are inadequately controlled with metformin hydrochloride alone. in patients
+    who are already being treated with the combination of vildagliptin and metformin
+    hydrochloride, as separate tablets. in combination with other medicinal products
+    for the treatment of diabetes, including insulin, when these do not provide adequate.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 04/12/2025
+  marketing_authorisation_date: 30/11/2008
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '27'
+metadata:
+  first_published: 21/04/2017
+  last_updated: 05/12/2025
+  latest_procedure: VR/0000307544
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zomarist

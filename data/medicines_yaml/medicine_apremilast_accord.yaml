@@ -1,0 +1,53 @@
+name: Apremilast Accord
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006208
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: apremilast
+  active_substance: apremilast
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Psoriatic;Psoriasis;Behcet Syndrome;Oral Ulcer
+  atc_code_human: L04AA32
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Psoriatic arthritis Apremilast Accord, alone or in combination
+    with Disease Modifying Antirheumatic Drugs (DMARDs), is indicated for the treatment
+    of active psoriatic arthritis (PsA) in adult patients who have had an inadequate
+    response or who have been intolerant to a prior DMARD therapy (see section 5.1).Psoriasis
+    Apremilast Accord is indicated for the treatment of moderate to severe chronic
+    plaque psoriasis in adult patients who failed to respond to or who have a contraindication
+    to, or are intolerant to other systemic therapy including cyclosporine, methotrexate
+    or psoralen and ultraviolet-A light (PUVA).Behçet’s disease Apremilast Accord
+    is indicated for the treatment of adult patients with oral ulcers associated with
+    Behçet’s disease (BD) who are candidates for systemic therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 19/02/2026
+  marketing_authorisation_date: 19/04/2024
+  opinion_adopted_date: 22/02/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 23/02/2024
+  last_updated: 20/02/2026
+  latest_procedure: VR/0000326527
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/apremilast-accord

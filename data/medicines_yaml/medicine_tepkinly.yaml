@@ -1,0 +1,52 @@
+name: Tepkinly
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005985
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: epcoritamab
+  active_substance: epcoritamab
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Large B-Cell, Diffuse
+  atc_code_human: L01FX27
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Tepkinly as monotherapy is indicated for the treatment of
+    adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL)
+    after two or more lines of systemic therapy.Tepkinly as monotherapy is indicated
+    for the treatment of adult patients with relapsed or refractory follicular lymphoma
+    (FL) after two or more lines of systemic therapy.Tepkinly as monotherapy is indicated
+    for the treatment of adult patients with relapsed or refractory diffuse large
+    B-cell lymphoma (DLBCL) after two or more lines of systemic therapy.Tepkinly as
+    monotherapy is indicated for the treatment of adult patients with relapsed or
+    refractory follicular lymphoma (FL) after two or more lines of systemic therapy.&nbsp;
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG
+  european_commission_decision_date: 06/02/2026
+  marketing_authorisation_date: 22/09/2023
+  opinion_adopted_date: 20/07/2023
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 17/07/2023
+  last_updated: 06/02/2026
+  latest_procedure: VR/0000325305
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tepkinly

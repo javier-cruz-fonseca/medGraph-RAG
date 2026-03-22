@@ -1,0 +1,52 @@
+name: INOmax
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000337
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: nitric oxide
+  active_substance: nitric oxide
+therapeutic_information:
+  therapeutic_area_mesh: Hypertension, Pulmonary;Respiratory Insufficiency
+  atc_code_human: R07AX
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'INOmax, in conjunction with ventilatory support and other
+    appropriate active substances, is indicated:  for the treatment of newborn infants
+    ?34 weeks gestation with hypoxic respiratory failure associated with clinical
+    or echocardiographic evidence of pulmonary hypertension, in order to improve oxygenation
+    and to reduce the need for extracorporeal membrane oxygenation; as part of the
+    treatment of peri- and post-operative pulmonary hypertension in adults and newborn
+    infants, infants and toddlers, children and adolescents, ages 0-17 years in conjunction
+    to heart surgery, in order to selectively decrease pulmonary arterial pressure
+    and improve right ventricular function and oxygenation.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Linde Healthcare AB
+  european_commission_decision_date: 15/05/2025
+  marketing_authorisation_date: 01/08/2001
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 22/03/2018
+  last_updated: 29/01/2026
+  latest_procedure: N/0000269511
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/inomax

@@ -1,0 +1,47 @@
+name: Fendrix
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000550
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: hepatitis B (rDNA) vaccine (adjuvanted, adsorbed)
+  active_substance: hepatitis B surface antigen
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis B;Immunization
+  atc_code_human: J07BC01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Fendrix is indicated in adolescents and adults from the
+    age of 15 years onwards for active immunisation against hepatitis B virus infection
+    (HBV) caused by all known subtypes for patients with renal insufficiency (including
+    pre-haemodialysis and haemodialysis patients).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A.
+  european_commission_decision_date: 26/04/2023
+  marketing_authorisation_date: 02/02/2005
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 27/10/2017
+  last_updated: 24/05/2023
+  latest_procedure: WS2365
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/fendrix

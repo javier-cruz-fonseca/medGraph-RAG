@@ -1,0 +1,49 @@
+name: Aftovaxpur DOE
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/002292
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: inactivated vaccine against foot-and-mouth disease
+  active_substance: 'Maximum three of the following purified, inactivated foot-and-mouth
+    disease virus strains: O1 Manisa ≥ 6 PD50*; O1 BFS ≥ 6 PD50*; O Taiwan 3/97 ≥
+    6 PD50*; A22 Iraq ≥ 6 PD50*; A24 Cruzeiro ≥ 6 PD50*; A Turkey 14/98 ≥ 6 PD50*;
+    Asia 1 Shamir ≥ 6 PD50*; SAT2 Saudi Arabia  ≥ 6 PD50*; * PD50 – 50% protective
+    dose in cattle as described in Ph. Eur. monograph 0063.'
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI02AA04
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Active immunisation of cattle, sheep and pigs from 2 weeks
+    of age against foot-and-mouth disease to reduce clinical signs.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Boehringer Ingelheim Vetmedica GmbH
+  european_commission_decision_date: 20/03/2020
+  marketing_authorisation_date: 15/07/2013
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: 16/05/2013
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 14/06/2018
+  last_updated: 04/07/2023
+  latest_procedure: IG/1204/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/aftovaxpur-doe

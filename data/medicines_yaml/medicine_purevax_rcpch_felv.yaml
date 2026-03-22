@@ -1,0 +1,48 @@
+name: Purevax RCPCh FeLV
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000085
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: vaccine against feline viral rhinotracheitis, feline calicivirosis,
+    feline panleucopenia, feline leukeamia and feline Chlamydophila infections
+  active_substance: attenuated feline rhinotracheitis herpesvirus (FHV F2 strain);inactivated
+    feline calicivirosis antigens (FCV 431 and G1 strains);attenuated feline panleucopenia
+    virus (PLI IV);FeLV recombinant canarypox virus (vCP97);attenuated Chlamydophila
+    felis (905 strain)
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: ''
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: ''
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 05/05/2015
+  last_updated: 11/10/2024
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/purevax-rcpch-felv

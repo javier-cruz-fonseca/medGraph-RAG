@@ -1,0 +1,47 @@
+name: Colobreathe
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001225
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: colistimethate sodium
+  active_substance: Colistimethate sodium
+therapeutic_information:
+  therapeutic_area_mesh: Cystic Fibrosis
+  atc_code_human: J01XB01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Colobreathe is indicated for the management of chronic pulmonary
+    infections due to Pseudomonas aeruginosa in patients with cystic fibrosis (CF)
+    aged six years and older. Consideration should be given to official guidance on
+    the appropriate use of antibacterial agents.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Essential Pharma Limited
+  european_commission_decision_date: 18/12/2024
+  marketing_authorisation_date: 13/02/2012
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '19'
+metadata:
+  first_published: 08/08/2018
+  last_updated: 20/06/2025
+  latest_procedure: IB/0063
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/colobreathe

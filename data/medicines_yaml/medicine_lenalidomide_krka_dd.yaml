@@ -1,0 +1,58 @@
+name: Lenalidomide Krka d.d.
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005729
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: lenalidomide
+  active_substance: lenalidomide hydrochloride hydrate
+therapeutic_information:
+  therapeutic_area_mesh: Multiple Myeloma;Lymphoma, Follicular;Myelodysplastic Syndromes
+  atc_code_human: L04AX04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Multiple myeloma Lenalidomide Krka d.d. as monotherapy is
+    indicated for the maintenance treatment of adult patients with newly diagnosed
+    multiple myeloma who have undergone autologous stem cell transplantation. Lenalidomide
+    Krka d.d. as combination therapy with dexamethasone, or bortezomib and dexamethasone,
+    or melphalan and prednisone (see section 4.2) is indicated for the treatment of
+    adult patients with previously untreated multiple myeloma who are not eligible
+    for transplant. Lenalidomide Krka d.d. in combination with dexamethasone is indicated
+    for the treatment of multiple myeloma in adult patients who have received at least
+    one prior therapy. Myelodysplastic syndromes Lenalidomide Krka d.d. as monotherapy
+    is indicated for the treatment of adult patients with transfusion-dependent anemia
+    due to low- or intermediate-1-risk myelodysplastic syndromes associated with an
+    isolated deletion 5q cytogenetic abnormality when other therapeutic options are
+    insufficient or inadequate. Follicular lymphoma Lenalidomide Krka d.d. in combination
+    with rituximab (anti-CD20 antibody) is indicated for the treatment of adult patients
+    with previously treated follicular lymphoma (Grade 1 – 3a).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Krka, d.d., Novo mesto
+  european_commission_decision_date: 13/12/2021
+  marketing_authorisation_date: 11/02/2021
+  opinion_adopted_date: 10/12/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 18/02/2021
+  last_updated: 10/07/2023
+  latest_procedure: IB/0003
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-krka-dd

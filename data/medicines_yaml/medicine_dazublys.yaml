@@ -1,0 +1,74 @@
+name: Dazublys
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006219
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: trastuzumab
+  active_substance: trastuzumab
+therapeutic_information:
+  therapeutic_area_mesh: Breast Neoplasms;Stomach Neoplasms
+  atc_code_human: L01FD01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Breast cancer Metastatic breast cancer Dazublys is indicated
+    for the treatment of adult patients with HER2-positive metastatic breast cancer
+    (MBC):  as monotherapy for the treatment of those patients who have received at
+    least two chemotherapy regimens for their metastatic disease. Prior chemotherapy
+    must have included at least an anthracycline and a taxane unless patients are
+    unsuitable for these treatments. Hormone receptor-positive patients must also
+    have failed hormonal therapy unless patients are unsuitable for these treatments.
+    in combination with paclitaxel for the treatment of those patients who have not
+    received chemotherapy for their metastatic disease and for whom an anthracycline
+    is not suitable. in combination with docetaxel for the treatment of those patients
+    who have not received chemotherapy for their metastatic disease. in combination
+    with an aromatase inhibitor for the treatment of postmenopausal patients with
+    hormone-receptor-positive MBC, not previously treated with trastuzumab.  Early
+    breast cancer Dazublys is indicated for the treatment of adult patients with HER2-positive
+    early breast cancer. (EBC).  following surgery, chemotherapy (neoadjuvant or adjuvant)
+    and radiotherapy (if applicable) (see section 5.1). following adjuvant chemotherapy
+    with doxorubicin and cyclophosphamide in combination with paclitaxel or docetaxel.
+    in combination with adjuvant chemotherapy consisting of docetaxel and carboplatin.
+    in combination with neoadjuvant chemotherapy followed by adjuvant Dazublys therapy
+    for locally advanced (including inflammatory) disease or tumors&gt;&nbsp;2&nbsp;cm
+    in diameter (see sections 4.4 and 5.1).  Dazublys should only be used in patients
+    with metastatic or early breast cancer whose tumors have either HER2 overexpression
+    or HER2 gene amplification as determined by an accurate and validated assay (see
+    sections 4.4 and 5.1). Metastatic gastric cancer Dazublys in combination with
+    capecitabine or 5-fluorouracil and cisplatin is indicated for the treatment of
+    adult patients with HER2 positive metastatic adenocarcinoma of the stomach or
+    gastro-esophageal junction who have not received prior anti-cancer treatment for
+    their metastatic disease. Dazublys should only be used in patients with metastatic
+    gastric cancer (MGC) whose tumors have HER2 overexpression as defined by IHC2+
+    and a confirmatory SISH or FISH result or by an IHC 3+ result. Accurate and validated
+    assay methods should be used (see sections 4.4 and 5.1).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: CuraTeQ Biologics s.r.o
+  european_commission_decision_date: 30/06/2025
+  marketing_authorisation_date: 30/06/2025
+  opinion_adopted_date: 25/04/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 12/08/2025
+  last_updated: ''
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/dazublys

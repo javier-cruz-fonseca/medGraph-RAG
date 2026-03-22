@@ -1,0 +1,51 @@
+name: Hepsera
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000485
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: adefovir dipivoxil
+  active_substance: adefovir dipivoxil
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis B, Chronic
+  atc_code_human: J05AF08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Hepsera is indicated for the treatment of chronic hepatitis
+    B in adults with:  compensated liver disease with evidence of active viral replication,
+    persistently elevated serum-alanine-aminotransferase (ALT) levels and histological
+    evidence of active liver inflammation and fibrosis. Initiation of Hepsera treatment
+    should only be considered when the use of an alternative antiviral agent with
+    a higher genetic barrier to resistance is not available or appropriate (see section
+    5.1); decompensated liver disease in combination with a second agent without cross-resistance
+    to Hepsera.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Gilead Sciences Ireland UC
+  european_commission_decision_date: 20/04/2021
+  marketing_authorisation_date: 06/03/2003
+  opinion_adopted_date: 21/11/2002
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 31/12/2022
+  suspension_date: ''
+  revision_number: '27'
+metadata:
+  first_published: 24/07/2018
+  last_updated: 06/03/2023
+  latest_procedure: IB/0086
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/hepsera

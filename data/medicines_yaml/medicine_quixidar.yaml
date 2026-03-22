@@ -1,0 +1,62 @@
+name: Quixidar
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000404
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: fondaparinux sodium
+  active_substance: fondaparinux sodium
+therapeutic_information:
+  therapeutic_area_mesh: Venous Thrombosis;Pulmonary Embolism;Myocardial Infarction;Angina,
+    Unstable
+  atc_code_human: B01AX05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: '1.5 mg/0.3 ml and 2.5 mg/0.5 ml, solution for injection:  Prevention
+    of Venous Thromboembolic Events (VTE) in patients undergoing major orthopaedic
+    surgery of the lower limbs such as hip fracture, major knee surgery or hip replacement
+    surgery. Prevention of Venous Thromboembolic Events (VTE) in patients undergoing
+    abdominal surgery who are judged to be at high risk of thromboembolic complications,
+    such as patients undergoing abdominal cancer surgery (see section 5.1). Prevention
+    of Venous Thromboembolic Events (VTE) in medical patients who are judged to be
+    at high risk for VTE and who are immobilised due to acute illness such as cardiac
+    insufficiency and/or acute respiratory disorders, and/or acute infectious or inflammatory
+    disease.  2.5 mg/0.5 ml, solution for injection:  Treatment of unstable angina
+    or non-ST segment elevation myocardial infarction (UA/NSTEMI) in patients for
+    whom urgent (&lt; 120 mins) invasive management (PCI) is not indicated (see sections
+    4.4 and 5.1). Treatment of ST segment elevation myocardial infarction (STEMI)
+    in patients who are managed with thrombolytics or who initially are to receive
+    no other form of reperfusion therapy.  5 mg/0.4 ml, 7.5 mg/0.6 ml and 10 mg/0.8
+    ml solution for injection:  Treatment of acute Deep Vein Thrombosis (DVT) and
+    treatment of acute Pulmonary Embolism (PE), except in haemodynamically unstable
+    patients or patients who require thrombolysis or pulmonary embolectomy.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Glaxo Group Ltd.
+  european_commission_decision_date: 24/10/2007
+  marketing_authorisation_date: 21/03/2002
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 11/03/2008
+  suspension_date: ''
+  revision_number: '10'
+metadata:
+  first_published: 24/10/2007
+  last_updated: 16/05/2008
+  latest_procedure: N/0034
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/quixidar

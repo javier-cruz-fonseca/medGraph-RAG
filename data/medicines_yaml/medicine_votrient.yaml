@@ -1,0 +1,51 @@
+name: Votrient
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001141
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: pazopanib
+  active_substance: pazopanib
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Renal Cell
+  atc_code_human: L01XE11
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Renal-cell carcinoma (RCC) Votrient is indicated in adults
+    for the first-line treatment of advanced renal-cell carcinoma (RCC) and for patients
+    who have received prior cytokine therapy for advanced disease. Soft-tissue sarcoma
+    (STS) Votrient is indicated for the treatment of adult patients with selective
+    subtypes of advanced soft-tissue sarcoma (STS) who have received prior chemotherapy
+    for metastatic disease or who have progressed within 12 months after (neo)adjuvant
+    therapy. Efficacy and safety have only been established in certain STS histological
+    tumour subtypes.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 28/10/2025
+  marketing_authorisation_date: 14/06/2010
+  opinion_adopted_date: 14/06/2010
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '32'
+metadata:
+  first_published: 08/05/2018
+  last_updated: 28/10/2025
+  latest_procedure: VR/0000307790
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/votrient

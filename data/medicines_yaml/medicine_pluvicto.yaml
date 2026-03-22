@@ -1,0 +1,48 @@
+name: Pluvicto
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005483
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: lutetium (177Lu) vipivotide tetraxetan
+  active_substance: lutetium (177Lu) vipivotide tetraxetan
+therapeutic_information:
+  therapeutic_area_mesh: Prostatic Neoplasms, Castration-Resistant
+  atc_code_human: V10XX
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Pluvicto in combination with androgen deprivation therapy
+    (ADT) with or without androgen receptor (AR) pathway inhibition is indicated for
+    the treatment of adult patients with progressive prostate-specific membrane antigen
+    (PSMA)-positive metastatic castration-resistant prostate cancer (mCRPC) who have
+    been treated with AR pathway inhibition and taxane based chemotherapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 17/02/2026
+  marketing_authorisation_date: 09/12/2022
+  opinion_adopted_date: 13/10/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 21/12/2022
+  last_updated: 18/02/2026
+  latest_procedure: VR/0000325276
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pluvicto

@@ -1,0 +1,56 @@
+name: Flebogamma DIF (previously Flebogammadif)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000781
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: human normal immunoglobulin
+  active_substance: human normal immunoglobulin
+therapeutic_information:
+  therapeutic_area_mesh: Mucocutaneous Lymph Node Syndrome;Guillain-Barre Syndrome;Bone
+    Marrow Transplantation;Purpura, Thrombocytopenic, Idiopathic;Immunologic Deficiency
+    Syndromes
+  atc_code_human: J06BA02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Replacement therapy in adults, children and adolescents
+    (0-18 years) in:  primary immunodeficiency syndromes with impaired antibody production;
+    hypogammaglobulinaemia and recurrent bacterial infections in patients with chronic
+    lymphocytic luekaemia, in whom prophylactic antibiotics have failed; hypogammaglobulinaemia
+    and recurrent bacterial infections in plateau-phase-multiple-myeloma patients
+    who failed to respond to pneumococcal immunisation; hypogammaglobulinaemia in
+    patients after allogenic haematopoietic-stem-cell transplantation (HSCT); congenital
+    AIDS with recurrent bacterial infections.  Immunomodulation in adults, children
+    and adolescents (0-18 years) in:  primary immune thrombocytopenia (ITP), in patients
+    at high risk of bleeding or prior to surgery to correct the platelet count; Guillain
+    Barré syndrome; Kawasaki disease.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Instituto Grifols S.A.
+  european_commission_decision_date: 30/10/2023
+  marketing_authorisation_date: 23/07/2007
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '19'
+metadata:
+  first_published: 29/06/2017
+  last_updated: 11/01/2024
+  latest_procedure: IB/0077/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/flebogamma-dif

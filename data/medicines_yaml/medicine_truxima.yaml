@@ -1,0 +1,69 @@
+name: Truxima
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004112
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: rituximab
+  active_substance: rituximab
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Non-Hodgkin;Arthritis, Rheumatoid;Wegener Granulomatosis;Leukemia,
+    Lymphocytic, Chronic, B-Cell;Microscopic Polyangiitis
+  atc_code_human: L01FA01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Truxima is indicated in adults for the following indications:
+    Non-Hodgkin’s lymphoma (NHL) Truxima is indicated for the treatment of previously
+    untreated patients with stage III IV follicular lymphoma in combination with chemotherapy.
+    Truxima maintenance therapy is indicated for the treatment of follicular lymphoma
+    patients responding to induction therapy. Truxima monotherapy is indicated for
+    treatment of patients with stage III IV follicular lymphoma who are chemo resistant
+    or are in their second or subsequent relapse after chemotherapy. Truxima is indicated
+    for the treatment of patients with CD20 positive diffuse large B cell non Hodgkin’s
+    lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine,
+    prednisolone) chemotherapy. Chronic lymphocytic leukaemia (CLL) Truxima in combination
+    with chemotherapy is indicated for the treatment of patients with previously untreated
+    and relapsed/refractory CLL. Only limited data are available on efficacy and safety
+    for patients previously treated with monoclonal antibodies including Truxima or
+    patients refractory to previous Truxima plus chemotherapy. Rheumatoid arthritis
+    Truxima in combination with methotrexate is indicated for the treatment of adult
+    patients with severe active rheumatoid arthritis who have had an inadequate response
+    or intolerance to other disease modifying anti rheumatic drugs (DMARD) including
+    one or more tumour necrosis factor (TNF) inhibitor therapies. Truxima has been
+    shown to reduce the rate of progression of joint damage as measured by X ray and
+    to improve physical function, when given in combination with methotrexate. Granulomatosis
+    with polyangiitis and microscopic polyangiitis Truxima, in combination with glucocorticoids,
+    is indicated for the treatment of adult patients with severe, active granulomatosis
+    with polyangiitis (Wegener’s) (GPA) and microscopic polyangiitis (MPA). Pemphigus
+    vulgaris Truxima is indicated for the treatment of patients with moderate to severe
+    pemphigus vulgaris (PV).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Celltrion Healthcare Hungary Kft.
+  european_commission_decision_date: 25/09/2025
+  marketing_authorisation_date: 17/02/2017
+  opinion_adopted_date: 15/12/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 17/05/2018
+  last_updated: 29/09/2025
+  latest_procedure: VR/0000290253
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/truxima

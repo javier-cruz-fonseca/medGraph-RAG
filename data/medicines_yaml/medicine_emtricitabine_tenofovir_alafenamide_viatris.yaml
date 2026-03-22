@@ -1,0 +1,47 @@
+name: Emtricitabine / Tenofovir alafenamide Viatris
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006469
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: emtricitabine;tenofovir alafenamide
+  active_substance: emtricitabine;tenofovir alafenamide fumarate
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AR17
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Emtricitabine/Tenofovir alafenamide Viatris is indicated
+    in combination with other antiretroviral agents for the treatment of adults and
+    adolescents (aged 12 years and older with body weight at least 35 kg) infected
+    with human immunodeficiency virus type 1 (HIV-1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Viatris Limited
+  european_commission_decision_date: 18/07/2025
+  marketing_authorisation_date: 18/07/2025
+  opinion_adopted_date: 22/05/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 23/05/2025
+  last_updated: 05/08/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/emtricitabine-tenofovir-alafenamide-viatris

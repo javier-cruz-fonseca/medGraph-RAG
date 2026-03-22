@@ -1,0 +1,48 @@
+name: Vyloy
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005868
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: zolbetuximab
+  active_substance: zolbetuximab
+therapeutic_information:
+  therapeutic_area_mesh: Stomach Neoplasms;Esophageal Neoplasms
+  atc_code_human: L01FX31
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Vyloy, in combination with fluoropyrimidine- and platinum-containing
+    chemotherapy, is indicated for the first line treatment of adult patients with
+    locally advanced unresectable or metastatic HER2 negative gastric or gastro-oesophageal
+    junction (GEJ) adenocarcinoma whose tumours are Claudin (CLDN) 18.2 positive (see
+    section 4.2).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Astellas Pharma Europe B.V.
+  european_commission_decision_date: 22/01/2026
+  marketing_authorisation_date: 19/09/2024
+  opinion_adopted_date: 25/07/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 26/07/2024
+  last_updated: 03/03/2026
+  latest_procedure: VR/0000293346
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vyloy

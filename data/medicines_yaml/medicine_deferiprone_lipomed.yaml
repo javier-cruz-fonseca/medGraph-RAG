@@ -1,0 +1,49 @@
+name: Deferiprone Lipomed
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004710
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: deferiprone
+  active_substance: Deferiprone
+therapeutic_information:
+  therapeutic_area_mesh: Iron Overload;beta-Thalassemia
+  atc_code_human: V03AC02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Deferiprone Lipomed monotherapy is indicated for the treatment
+    of iron overload in patients with thalassaemia major when current chelation therapy
+    is contraindicated or inadequate. Deferiprone Lipomed in combination with another
+    chelator is indicated in patients with thalassaemia major when monotherapy with
+    any iron chelator is ineffective, or when prevention or treatment of life-threatening
+    consequences of iron overload justifies rapid or intensive correction.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Lipomed GmbH
+  european_commission_decision_date: 26/06/2023
+  marketing_authorisation_date: 19/09/2018
+  opinion_adopted_date: 26/07/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 27/07/2018
+  last_updated: 14/07/2022
+  latest_procedure: R/0011
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/deferiprone-lipomed

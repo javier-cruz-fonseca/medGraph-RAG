@@ -1,0 +1,48 @@
+name: Translarna
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002720
+  medicine_status: Expired
+  opinion_status: ''
+  inn_common_name: ataluren
+  active_substance: ataluren
+therapeutic_information:
+  therapeutic_area_mesh: Muscular Dystrophy, Duchenne
+  atc_code_human: M09AX03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Translarna is indicated for the treatment of Duchenne muscular
+    dystrophy resulting from a nonsense mutation in the dystrophin gene, in ambulatory
+    patients aged 2 years and older. Efficacy has not been demonstrated in non-ambulatory
+    patients. The presence of a nonsense mutation in the dystrophin gene should be
+    determined by genetic testing.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: PTC Therapeutics International Limited
+  european_commission_decision_date: 28/10/2024
+  marketing_authorisation_date: 31/07/2014
+  opinion_adopted_date: 23/01/2014
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 28/03/2025
+  suspension_date: ''
+  revision_number: '25'
+metadata:
+  first_published: 23/07/2018
+  last_updated: 29/10/2024
+  latest_procedure: R/0071
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/translarna

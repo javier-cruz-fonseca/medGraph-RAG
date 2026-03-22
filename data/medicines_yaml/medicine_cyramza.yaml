@@ -1,0 +1,60 @@
+name: Cyramza
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002829
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ramucirumab
+  active_substance: ramucirumab
+therapeutic_information:
+  therapeutic_area_mesh: Stomach Neoplasms
+  atc_code_human: L01FX06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Gastric cancer Cyramza in combination with paclitaxel is
+    indicated for the treatment of adult patients with advanced gastric cancer or
+    gastro-oesophageal junction adenocarcinoma with disease progression after prior
+    platinum and fluoropyrimidine chemotherapy. Cyramza monotherapy is indicated for
+    the treatment of adult patients with advanced gastric cancer or gastro-oesophageal
+    junction adenocarcinoma with disease progression after prior platinum or fluoropyrimidine
+    chemotherapy, for whom treatment in combination with paclitaxel is not appropriate.
+    Colorectal cancer Cyramza, in combination with FOLFIRI (irinotecan, folinic acid,
+    and 5?fluorouracil), is indicated for the treatment of adult patients with metastatic
+    colorectal cancer (mCRC) with disease progression on or after prior therapy with
+    bevacizumab, oxaliplatin and a fluoropyrimidine. Non-small cell lung cancer Cyramza
+    in combination with docetaxel is indicated for the treatment of adult patients
+    with locally advanced or metastatic non-small cell lung cancer with disease progression
+    after platinum-based chemotherapy. Hepatocellular carcinoma Cyramza monotherapy
+    is indicated for the treatment of adult patients with advanced or unresectable
+    hepatocellular carcinoma who have a serum alpha fetoprotein (AFP) of ?&nbsp;400&nbsp;ng/ml
+    and who have been previously treated with sorafenib.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Eli Lilly Nederland B.V.
+  european_commission_decision_date: 16/01/2026
+  marketing_authorisation_date: 19/12/2014
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '22'
+metadata:
+  first_published: 12/02/2018
+  last_updated: 16/01/2026
+  latest_procedure: VR/0000315508
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cyramza

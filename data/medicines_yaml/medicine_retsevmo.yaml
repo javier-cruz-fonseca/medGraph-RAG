@@ -1,0 +1,51 @@
+name: Retsevmo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005375
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: selpercatinib
+  active_substance: selpercatinib
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Non-Small-Cell Lung;Thyroid Neoplasms
+  atc_code_human: L01EX22
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Retsevmo as monotherapy is indicated for the treatment of
+    adults with:&nbsp;– advanced RET fusion positive non small cell lung cancer (NSCLC)
+    not previously treated with a RET inhibitor– advanced RET fusion positive solid
+    tumours, when treatment options not targeting RET provide limited clinical benefit,
+    or have been exhausted (see sections 4.4 and 5.1)Retsevmo as monotherapy is indicated
+    for the treatment of adults and adolescents 12 years and older with:– advanced
+    RET fusion positive thyroid cancer who are radioactive iodine-refractory (if radioactive
+    iodine is appropriate)– advanced RET mutant medullary thyroid cancer (MTC)
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Eli Lilly Nederland B.V.
+  european_commission_decision_date: 10/02/2026
+  marketing_authorisation_date: 11/02/2021
+  opinion_adopted_date: 10/12/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '20'
+metadata:
+  first_published: 23/04/2021
+  last_updated: 12/02/2026
+  latest_procedure: PSUR/0000288253
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/retsevmo

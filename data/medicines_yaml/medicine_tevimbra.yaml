@@ -1,0 +1,76 @@
+name: Tevimbra
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005919
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: tislelizumab
+  active_substance: tislelizumab
+therapeutic_information:
+  therapeutic_area_mesh: Esophageal Squamous Cell Carcinoma;Carcinoma, Non-Small-Cell
+    Lung;Small Cell Lung Carcinoma;Nasopharyngeal Carcinoma;Stomach Neoplasms
+  atc_code_human: L01FF09
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Non-small cell lung cancer (NSCLC) Tevimbra, in combination
+    with platinum-containing chemotherapy as neoadjuvant treatment and then continued
+    as monotherapy as adjuvant treatment, is indicated for the treatment of adult
+    patients with resectable NSCLC at high risk of recurrence (for selection criteria,
+    see section 5.1).Tevimbra in combination with pemetrexed and platinum containing
+    chemotherapy is indicated for the first-line treatment of adult patients with
+    non-squamous NSCLC&nbsp; whose tumours have PD-L1 expression on ≥50% of tumour
+    cells with no EGFR or ALK positive mutations and who have:  locally advanced NSCLC
+    and are not candidates for surgical resection or platinum-based chemoradiation,
+    or metastatic NSCLC.  Tevimbra in combination with carboplatin and either paclitaxel
+    or nab-paclitaxel is indicated for the first-line treatment of adult patients
+    with squamous NSCLC who have:  locally advanced NSCLC and are not candidates for
+    surgical resection or platinum-based chemoradiation, or metastatic NSCLC.  Tevimbra
+    as monotherapy is indicated for the treatment of adult patients with locally advanced
+    or metastatic NSCLC after prior platinum-based therapy. Patients with EGFR mutant
+    or ALK positive NSCLC should also have received targeted therapies before receiving
+    tislelizumab. Small Cell Lung Cancer (SCLC)Tevimbra, in combination with etoposide
+    and platinum chemotherapy, is indicated for the first-line treatment of adult
+    patients with extensive-stage SCLC. Gastric or gastroesophageal junction (G/GEJ)
+    adenocarcinomaTevimbra, in combination with platinum and fluoropyrimidine-based
+    chemotherapy, is indicated for the first-line treatment of adult patients with
+    HER-2-negative locally advanced unresectable or metastatic gastric or gastroesophageal
+    junction (G/GEJ) adenocarcinoma whose tumours express PD L1 with a tumour area
+    positivity (TAP) score ≥ 5% (see section 5.1).Oesophageal squamous cell carcinoma
+    (OSCC)Tevimbra, in combination with platinum-based chemotherapy, is indicated
+    for the first-line treatment of adult patients with unresectable, locally advanced
+    or metastatic OSCC whose tumours express PD L1 with a TAP score ≥ 5% (see section
+    5.1).Tevimbra as monotherapy is indicated for the treatment of adult patients
+    with unresectable, locally advanced or metastatic OSCC after prior platinum-based
+    chemotherapy. Nasopharyngeal carcinoma (NPC)Tevimbra, in combination with gemcitabine
+    and cisplatin, is indicated for the first-line treatment of adult patients with
+    recurrent, not amenable to curative surgery or radiotherapy, or metastatic NPC.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Beone Medicines Ireland Limited
+  european_commission_decision_date: 24/10/2025
+  marketing_authorisation_date: 15/09/2023
+  opinion_adopted_date: 20/07/2023
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '16'
+metadata:
+  first_published: 17/07/2023
+  last_updated: 26/01/2026
+  latest_procedure: VR/0000269879
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tevimbra

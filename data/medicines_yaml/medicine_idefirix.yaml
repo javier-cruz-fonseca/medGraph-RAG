@@ -1,0 +1,48 @@
+name: Idefirix
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004849
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: imlifidase
+  active_substance: imlifidase
+therapeutic_information:
+  therapeutic_area_mesh: Desensitization, Immunologic;Kidney Transplantation
+  atc_code_human: L04AA
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Idefirix is indicated for desensitisation treatment of highly
+    sensitised adult kidney transplant patients with positive crossmatch against an
+    available deceased donor. The use of Idefirix should be reserved for patients
+    unlikely to be transplanted under the available kidney allocation system including
+    prioritisation programmes for highly sensitised patients.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Hansa Biopharma AB
+  european_commission_decision_date: 25/06/2025
+  marketing_authorisation_date: 25/08/2020
+  opinion_adopted_date: 25/06/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 28/08/2020
+  last_updated: 02/07/2025
+  latest_procedure: R/0000249767
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/idefirix

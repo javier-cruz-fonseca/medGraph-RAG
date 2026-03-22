@@ -1,0 +1,46 @@
+name: Artesunate Amivas
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005550
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: artesunate
+  active_substance: artesunate
+therapeutic_information:
+  therapeutic_area_mesh: Malaria
+  atc_code_human: P01BE03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Artesunate Amivas is indicated for the initial treatment
+    of severe malaria in adults and children. Consideration should be given to official
+    guidance on the appropriate use of antimalarial agents.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Amivas Ireland Ltd
+  european_commission_decision_date: 20/05/2025
+  marketing_authorisation_date: 22/11/2021
+  opinion_adopted_date: 16/08/2023
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 04/01/2022
+  last_updated: 20/05/2025
+  latest_procedure: VR/0000268080
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/artesunate-amivas

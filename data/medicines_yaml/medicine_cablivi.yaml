@@ -1,0 +1,46 @@
+name: Cablivi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004426
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: caplacizumab
+  active_substance: Caplacizumab
+therapeutic_information:
+  therapeutic_area_mesh: Purpura, Thrombotic Thrombocytopenic
+  atc_code_human: B01A
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Cablivi is indicated for the treatment of adults experiencing
+    an episode of acquired thrombotic thrombocytopenic purpura (aTTP), in conjunction
+    with plasma exchange and immunosuppression.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Ablynx NV
+  european_commission_decision_date: 22/11/2024
+  marketing_authorisation_date: 30/08/2018
+  opinion_adopted_date: 31/05/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '10'
+metadata:
+  first_published: 31/08/2018
+  last_updated: 05/01/2026
+  latest_procedure: II/0050
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cablivi

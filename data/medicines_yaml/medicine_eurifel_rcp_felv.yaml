@@ -1,0 +1,55 @@
+name: Eurifel RCP FeLV
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000067
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: vaccine against feline viral rhinotracheitis, calicivirosis, panleucopenia
+    and leukaemia in cats
+  active_substance: canarypox virus expressing feline leukemia virus, live;feline
+    calicivirus, strain 255, inactivated;feline panleucopenia virus, strain PLI IV,
+    live;feline rhinotracheitis virus, strain C27, antigen
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI06AH
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Vaccine against feline viral rhinotracheitis, feline calicivirosis,
+    feline panleucopenia and feline leukaemia. Stimulates active immunity against
+    feline rhinotracheitis virus, feline calicivirus, feline panleucopenia virus and
+    feline leukaemia virus. The feline leukaemia vaccine strain is a recombinant canarypox
+    virus expressing the env and gag genes of FeLV-A. Under field conditions, only
+    sub-group A is infective and immunisation against subgroup A provides full protection
+    against A, B and C. After inoculation, the virus expresses the protective proteins,
+    but does not replicate in the cat. As a consequence, the vaccine induces an immune
+    status against feline leukaemia virus.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merial
+  european_commission_decision_date: 23/07/2004
+  marketing_authorisation_date: 08/03/2002
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 23/07/2004
+  last_updated: 23/07/2004
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/eurifel-rcp-felv

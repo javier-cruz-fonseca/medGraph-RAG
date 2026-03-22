@@ -1,0 +1,56 @@
+name: Breyanzi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004731
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: lisocabtagene maraleucel
+  active_substance: lisocabtagene maraleucel
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Large B-Cell, Diffuse;Lymphoma, Follicular;Mediastinal
+    Neoplasms
+  atc_code_human: L01XL08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Breyanzi is indicated for the treatment of adult patients
+    with diffuse large B-cell lymphoma (DLBCL), high grade B-cell lymphoma (HGBCL),
+    primary mediastinal large B-cell lymphoma (PMBCL) and follicular lymphoma grade
+    3B (FL3B), who relapsed within 12 months from completion of, or are refractory
+    to, first-line chemoimmunotherapy.&nbsp;&nbsp;   Breyanzi is indicated for the
+    treatment of adult patients with relapsed or refractory DLBCL, PMBCL and FL3B,
+    after two or more lines of systemic therapy.&nbsp; Breyanzi is indicated for the
+    treatment of adult patients with relapsed or refractory follicular lymphoma (FL)
+    after two or more lines of systemic therapy.&nbsp;&nbsp;   Breyanzi is indicated
+    for the treatment of adult patients with relapsed or refractory mantle cell lymphoma
+    (MCL) after at least two lines of systemic therapy including a Bruton’s tyrosine
+    kinase (BTK) inhibitor.&nbsp;
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG
+  european_commission_decision_date: 21/11/2025
+  marketing_authorisation_date: 04/04/2022
+  opinion_adopted_date: 27/01/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '11'
+metadata:
+  first_published: 24/01/2022
+  last_updated: 18/12/2025
+  latest_procedure: VR/0000265024
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/breyanzi

@@ -1,0 +1,48 @@
+name: Tobi Podhaler
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002155
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: tobramycin
+  active_substance: tobramycin
+therapeutic_information:
+  therapeutic_area_mesh: Cystic Fibrosis;Respiratory Tract Infections
+  atc_code_human: J01GB01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Tobi Podhaler is indicated for the suppressive therapy of
+    chronic pulmonary infection due to Pseudomonas aeruginosa in adults and children
+    aged 6 years and older with cystic fibrosis. See sections 4.4 and 5.1 regarding
+    data in different age groups. Consideration should be given to official guidance
+    on the appropriate use of antibacterial agents.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Viatris Healthcare Limited
+  european_commission_decision_date: 11/12/2025
+  marketing_authorisation_date: 20/07/2011
+  opinion_adopted_date: 23/09/2010
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '24'
+metadata:
+  first_published: 23/04/2018
+  last_updated: 11/12/2025
+  latest_procedure: N/0000316739
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tobi-podhaler

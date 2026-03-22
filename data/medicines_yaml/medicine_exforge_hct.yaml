@@ -1,0 +1,47 @@
+name: Exforge HCT
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001068
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: amlodipine besilate;valsartan;hydrochlorothiazide
+  active_substance: valsartan;hydrochlorothiazide;amlodipine besilate
+therapeutic_information:
+  therapeutic_area_mesh: Hypertension
+  atc_code_human: C09DX01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of essential hypertension as substitution therapy
+    in adult patients whose blood pressure is adequately controlled on the combination
+    of amlodipine, valsartan and hydrochlorothiazide (HCT), taken either as three
+    single-component formulations or as a dual-component and a single-component formulation.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 05/02/2026
+  marketing_authorisation_date: 15/10/2009
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '28'
+metadata:
+  first_published: 07/06/2018
+  last_updated: 06/02/2026
+  latest_procedure: VR/0000321249
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/exforge-hct

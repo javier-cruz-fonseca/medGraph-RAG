@@ -1,0 +1,49 @@
+name: Activyl Tick Plus
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/002234
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: indoxacarb;permethrin
+  active_substance: indoxacarb;permethrin
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QP53AC54
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of flea infestations (Ctenocephalides felis);
+    the product has persistent insecticidal efficacy for up to 4 weeks against Ctenocephalides
+    felis. The product has persistent acaricidal efficacy for up to 5 weeks against
+    Ixodes ricinus and up to 3 weeks against Rhipicephalus sanguineus. One treatment
+    provides repellent (anti-feeding) activity against sand flies (Phlebotomus perniciosus)
+    for up to 3 weeks.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Intervet International BV
+  european_commission_decision_date: 29/09/2022
+  marketing_authorisation_date: 09/01/2012
+  opinion_adopted_date: 10/11/2011
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '9'
+metadata:
+  first_published: 15/03/2018
+  last_updated: 04/10/2022
+  latest_procedure: IB/0016
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/activyl-tick-plus

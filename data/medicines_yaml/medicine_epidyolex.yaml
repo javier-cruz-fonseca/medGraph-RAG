@@ -1,0 +1,46 @@
+name: Epidyolex
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004675
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: cannabidiol
+  active_substance: cannabidiol
+therapeutic_information:
+  therapeutic_area_mesh: Lennox Gastaut Syndrome;Epilepsies, Myoclonic
+  atc_code_human: N03AX
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Epidyolex is indicated for use as adjunctive therapy of
+    seizures associated with Lennox Gastaut syndrome (LGS) or Dravet syndrome (DS),
+    in conjunction with clobazam, for patients 2 years of age and older.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Jazz Pharmaceuticals Ireland Limited
+  european_commission_decision_date: 15/01/2026
+  marketing_authorisation_date: 19/09/2019
+  opinion_adopted_date: 25/07/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '20'
+metadata:
+  first_published: 04/10/2019
+  last_updated: 27/02/2026
+  latest_procedure: VR/0000303067
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/epidyolex

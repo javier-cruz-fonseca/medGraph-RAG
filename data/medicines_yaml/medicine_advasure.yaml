@@ -1,0 +1,47 @@
+name: Advasure
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000053
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: adjuvanted vaccine against classical swine fever
+  active_substance: E2 glycoprotein of classical swine fever virus
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI09AA06
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Active immunisation of pigs, over the age of 2 weeks, against
+    Classical Swine Fever (CSF), to preventmortality, reduce clinical signs of the
+    disease and the excretion of field virus.The onset of protection is 2 weeks.The
+    duration of protection is 6 months.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Limited
+  european_commission_decision_date: 06/02/2008
+  marketing_authorisation_date: 02/02/2001
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 06/02/2008
+  last_updated: 17/03/2008
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/advasure

@@ -1,0 +1,53 @@
+name: Telzir
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000534
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: fosamprenavir
+  active_substance: fosamprenavir calcium
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AE07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Telzir in combination with low-dose ritonavir is indicated
+    for the treatment of human-immunodeficiency-virus-type-1-infected adults, adolescents
+    and children of six years and above in combination with other antiretroviral medicinal
+    products. In moderately antiretroviral-experienced adults, Telzir in combination
+    with low-dose ritonavir has not been shown to be as effective as lopinavir / ritonavir.
+    No comparative studies have been undertaken in children or adolescents. In heavily
+    pretreated patients, the use of Telzir in combination with low-dose ritonavir
+    has not been sufficiently studied. In protease-inhibitor-experienced patients,
+    the choice of Telzir should be based on individual viral resistance testing and
+    treatment history.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: ViiV Healthcare BV
+  european_commission_decision_date: 19/08/2022
+  marketing_authorisation_date: 12/07/2004
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 21/11/2025
+  suspension_date: ''
+  revision_number: '48'
+metadata:
+  first_published: 10/03/2017
+  last_updated: 05/01/2026
+  latest_procedure: IG1531
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/telzir

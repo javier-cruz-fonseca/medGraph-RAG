@@ -1,0 +1,47 @@
+name: Riarify (previously CHF 5993 Chiesi Farmaceutici S.p.A.)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004836
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: beclometasone;formoterol
+  active_substance: formoterol fumarate dihydrate;glycopyrronium;beclometasone dipropionate
+therapeutic_information:
+  therapeutic_area_mesh: Pulmonary Disease, Chronic Obstructive
+  atc_code_human: R03AL09
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Maintenance treatment in adult patients with moderate to
+    severe chronic obstructive pulmonary disease (COPD) who are not adequately treated
+    by a combination of an inhaled corticosteroid and a long-acting beta2-agonist
+    (for effects on symptoms control and prevention of exacerbations see section 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Chiesi Farmaceutici S.p.A.
+  european_commission_decision_date: 04/11/2024
+  marketing_authorisation_date: 23/04/2018
+  opinion_adopted_date: 22/02/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 06/03/2025
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 23/04/2018
+  last_updated: 18/03/2025
+  latest_procedure: N/0034
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/riarify

@@ -1,0 +1,48 @@
+name: Cystadane
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000678
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: betaine anhydrous
+  active_substance: Betaine anhydrous
+therapeutic_information:
+  therapeutic_area_mesh: Homocystinuria
+  atc_code_human: A16AA06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Adjunctive treatment of homocystinuria, involving deficiencies
+    or defects in:  cystathionine beta-synthase (CBS); 5,10-methylene-tetrahydrofolate
+    reductase (MTHFR); cobalamin cofactor metabolism (cbl).  Cystadane should be used
+    as supplement to other therapies such as vitamin B6 (pyridoxine), vitamin B12
+    (cobalamin), folate and a specific diet.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Recordati Rare Diseases
+  european_commission_decision_date: 10/12/2024
+  marketing_authorisation_date: 14/02/2007
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '15'
+metadata:
+  first_published: 24/07/2018
+  last_updated: 12/12/2024
+  latest_procedure: IAIN/0042/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cystadane

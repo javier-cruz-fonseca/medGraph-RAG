@@ -1,0 +1,49 @@
+name: Dexamethasone Taw
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005740
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: dexamethasone phosphate
+  active_substance: Dexamethasone (sodium phosphate)
+therapeutic_information:
+  therapeutic_area_mesh: COVID-19 virus infection;Brain Edema;Respiratory Distress
+    Syndrome, Adult;Asthma;Skin Diseases;Autoimmune Diseases;Arthritis;Vomiting;Inflammation;Eye
+    Diseases;Postoperative Nausea and Vomiting
+  atc_code_human: H02AB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Indicated for cerebral oedema, post-traumatic shock-lung
+    syndrome, asthma, skin diseases, autoimmune diseases, rheumatoid arthritis, prophylaxis
+    and treatment of post-operative or cytostatic-induced vomiting, treatment of COVID-19,
+    eye inflammation and infection.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Taw Pharma (Ireland) Ltd
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 20/01/2021
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 29/01/2021
+  last_updated: 19/03/2021
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/dexamethasone-taw

@@ -1,0 +1,47 @@
+name: Zulvac 1 Ovis
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/002335
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: inactivated bluetongue virus, serotype-1
+  active_substance: inactivated bluetongue virus, serotype-1
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI04AA02
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Active immunisation of sheep from 1.5 months of age for
+    the prevention of viraemia caused by bluetongue virus, serotypes-1. Onset of immunity:
+    21 days after completion of the primary vaccination scheme. Duration of immunity:
+    12 months.'
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Zoetis Belgium SA
+  european_commission_decision_date: 21/06/2019
+  marketing_authorisation_date: 05/08/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 23/03/2017
+  last_updated: 01/04/2020
+  latest_procedure: IB/00017
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/zulvac-1-ovis

@@ -1,0 +1,56 @@
+name: Otezla
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003746
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: apremilast
+  active_substance: apremilast
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Psoriatic;Psoriasis;Behcet Syndrome
+  atc_code_human: L04AA32
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Psoriatic arthritisOtezla, alone or in combination with
+    Disease Modifying Antirheumatic Drugs (DMARDs), is indicated for the treatment
+    of active psoriatic arthritis (PsA) in adult patients who have had an inadequate
+    response or who have been intolerant to a prior DMARD therapy.&nbsp;PsoriasisOtezla
+    is indicated for the treatment of moderate to severe chronic plaque psoriasis
+    (PSOR) in adult patients who failed to respond to or who have a contraindication
+    to, or are intolerant to other systemic therapy including cyclosporine, methotrexate
+    or psoralen and ultraviolet-A light (PUVA).&nbsp;Paediatric psoriasisOtezla is
+    indicated for the treatment of moderate to severe plaque psoriasis in children
+    and adolescents from the age of 6 years and weighing at least 20 kg who are candidates
+    for systemic therapy.Behçet’s diseaseOtezla is indicated for the treatment of
+    adult patients with oral ulcers associated with Behçet’s disease (BD) who are
+    candidates for systemic therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Amgen Europe B.V.
+  european_commission_decision_date: 13/01/2026
+  marketing_authorisation_date: 15/01/2015
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '25'
+metadata:
+  first_published: 02/08/2018
+  last_updated: 04/03/2026
+  latest_procedure: PSUR/0000282235
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/otezla

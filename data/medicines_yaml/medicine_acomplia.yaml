@@ -1,0 +1,46 @@
+name: Acomplia
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000666
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: rimonabant
+  active_substance: rimonabant
+therapeutic_information:
+  therapeutic_area_mesh: Obesity
+  atc_code_human: A08AX01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: As an adjunct to diet and exercise for the treatment of
+    obese patients (BMI 30 kg/m2), or overweight patients (BMI 27 kg/m2) with associated
+    risk factor(s), such as type 2 diabetes or dyslipidaemia (see section 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: sanofi-aventis
+  european_commission_decision_date: 17/07/2008
+  marketing_authorisation_date: 19/06/2006
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 16/01/2009
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 17/07/2008
+  last_updated: 30/01/2009
+  latest_procedure: II/0011
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/acomplia

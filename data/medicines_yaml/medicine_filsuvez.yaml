@@ -1,0 +1,47 @@
+name: Filsuvez
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005035
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: birch bark extract
+  active_substance: 'dry extract from birch bark (DER 5-10 : 1), extraction solvent
+    n-heptane 95% (w/w)'
+therapeutic_information:
+  therapeutic_area_mesh: Epidermolysis Bullosa Dystrophica;Epidermolysis Bullosa,
+    Junctional
+  atc_code_human: D03AX13
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of partial thickness wounds associated with dystrophic
+    and junctional epidermolysis bullosa (EB) in patients 6 months and older.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Chiesi Farmaceutici S.p.A
+  european_commission_decision_date: 15/05/2025
+  marketing_authorisation_date: 21/06/2022
+  opinion_adopted_date: 22/04/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 13/04/2022
+  last_updated: 11/07/2025
+  latest_procedure: VR/0000249374
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/filsuvez

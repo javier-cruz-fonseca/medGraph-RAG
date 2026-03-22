@@ -1,0 +1,56 @@
+name: Entecavir Accord
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004458
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: entecavir
+  active_substance: Entecavir
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis B, Chronic
+  atc_code_human: J05AF10
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Entecavir Accord is indicated for the treatment of chronic
+    hepatitis B virus (HBV) infection in adults with:  compensated liver disease and
+    evidence of active viral replication, persistently elevated serum alanine aminotransferase
+    (ALT) levels and histological evidence of active inflammation and/or fibrosis.
+    decompensated liver disease.  For both compensated and decompensated liver disease,
+    this indication is based on clinical trial data in nucleoside naive patients with
+    HBeAg positive and HBeAg negative HBV infection. With respect to patients with
+    lamivudine-refractory hepatitis B. Entecavir Accord is also indicated for the
+    treatment of chronic HBV infection in nucleoside naive paediatric patients from
+    2 to &lt;18 years of age with compensated liver disease who have evidence of active
+    viral replication and persistently elevated serum ALT levels, or histological
+    evidence of moderate to severe inflammation and/or fibrosis. With respect to the
+    decision to initiate treatment in paediatric patients.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 01/07/2022
+  marketing_authorisation_date: 25/09/2017
+  opinion_adopted_date: 19/07/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 26/09/2017
+  last_updated: 24/07/2024
+  latest_procedure: R/0011
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/entecavir-accord

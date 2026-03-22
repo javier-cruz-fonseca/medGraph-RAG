@@ -1,0 +1,49 @@
+name: Vimkunya
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005470
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: Chikungunya vaccine (recombinant, adsorbed)
+  active_substance: Chikungunya virus (CHIKV) virus-like particle (VLP) proteins (capsid
+    protein (C) and envelope proteins E1 and E2) derived from CHIKV Senegal strain
+    37997 produced in human embryonic kidney cells by recombinant DNA technology,
+    adsorbed on aluminium hydroxide, hydrated
+therapeutic_information:
+  therapeutic_area_mesh: Chikungunya virus
+  atc_code_human: ''
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Vimkunya is indicated for active immunisation for the prevention
+    of disease caused by chikungunya virus (CHIKV) in individuals 12 years and older.
+    The use of this vaccine should be in accordance with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bavarian Nordic A/S
+  european_commission_decision_date: 28/02/2025
+  marketing_authorisation_date: 28/02/2025
+  opinion_adopted_date: 30/01/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 24/03/2025
+  last_updated: 22/08/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vimkunya

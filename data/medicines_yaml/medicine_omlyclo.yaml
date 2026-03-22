@@ -1,0 +1,65 @@
+name: Omlyclo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005958
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: omalizumab
+  active_substance: omalizumab
+therapeutic_information:
+  therapeutic_area_mesh: Asthma;Urticaria
+  atc_code_human: R03DX05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Allergic asthma Omlyclo is indicated in adults, adolescents
+    and children (6 to &lt;12 years of age).&nbsp; Omlyclo treatment should only be
+    considered for patients with convincing IgE (immunoglobulin E) mediated asthma
+    (see section 4.2). Adults and adolescents (12 years of age and older) Omlyclo
+    is indicated as add-on therapy to improve asthma control in patients with severe
+    persistent allergic asthma who have a positive skin test or in vitro reactivity
+    to a perennial aeroallergen and who have reduced lung function (FEV1 &lt;80%)
+    as well as frequent daytime symptoms or night-time awakenings and who have had
+    multiple documented severe asthma exacerbations despite daily high-dose inhaled
+    corticosteroids, plus a long-acting inhaled beta2-agonist. Children (6 to &lt;12
+    years of age) Omlyclo is indicated as add-on therapy to improve asthma control
+    in patients with severe persistent allergic asthma who have a positive skin test
+    or in vitro reactivity to a perennial aeroallergen and frequent daytime symptoms
+    or night-time awakenings and who have had multiple documented severe asthma exacerbations
+    despite daily high-dose inhaled corticosteroids, plus a long-acting inhaled beta2-agonist.
+    Chronic rhinosinusitis with nasal polyps (CRSwNP) Omlyclo is indicated as an add-on
+    therapy with intranasal corticosteroids (INC) for the treatment of adults (18
+    years and above) with severe CRSwNP for whom therapy with INC does not provide
+    adequate disease control. Chronic spontaneous urticaria (CSU) Omlyclo is indicated
+    as add-on therapy for the treatment of chronic spontaneous urticaria in adult
+    and adolescent (12 years and above) patients with inadequate response to H1 antihistamine
+    treatment.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Celltrion Healthcare Hungary Kft.
+  european_commission_decision_date: 10/11/2025
+  marketing_authorisation_date: 16/05/2024
+  opinion_adopted_date: 21/03/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 22/03/2024
+  last_updated: 18/11/2025
+  latest_procedure: X/0000248400
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/omlyclo

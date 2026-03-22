@@ -1,0 +1,47 @@
+name: Raylumis
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005189
+  medicine_status: Refused
+  opinion_status: ''
+  inn_common_name: tanezumab
+  active_substance: tanezumab
+therapeutic_information:
+  therapeutic_area_mesh: Osteoarthritis;Pain
+  atc_code_human: N02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of moderate to severe chronic pain associated
+    with osteoarthritis (OA) of the hip or knee in adult patients for whom treatment
+    with non-steroidal anti-inflammatory drugs (NSAIDs) and/or any opioid is ineffective,
+    not tolerated or inappropriate.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Europe MA EEIG
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: 16/09/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: 15/11/2021
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 14/09/2021
+  last_updated: 15/02/2022
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/raylumis

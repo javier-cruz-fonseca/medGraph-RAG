@@ -1,0 +1,57 @@
+name: Zirabev
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004697
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: bevacizumab
+  active_substance: bevacizumab
+therapeutic_information:
+  therapeutic_area_mesh: Colorectal Neoplasms;Breast Neoplasms;Carcinoma, Non-Small-Cell
+    Lung;Carcinoma, Renal Cell;Uterine Cervical Neoplasms
+  atc_code_human: L01XC07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Zirabev in combination with fluoropyrimidine-based chemotherapy
+    is indicated for treatment of adult patients with metastatic carcinoma of the
+    colon or rectum. Zirabev in combination with paclitaxel is indicated for first-line
+    treatment of adult patients with metastatic breast cancer. For further information
+    as to human epidermal growth factor receptor 2 (HER2) status. Zirabev, in addition
+    to platinum-based chemotherapy, is indicated for first-line treatment of adult
+    patients with unresectable advanced, metastatic or recurrent non-small cell lung
+    cancer other than predominantly squamous cell histology. Zirabev in combination
+    with interferon alfa-2a is indicated for first line treatment of adult patients
+    with advanced and/or metastatic renal cell cancer. Zirabev, in combination with
+    paclitaxel and cisplatin or, alternatively, paclitaxel and topotecan in patients
+    who cannot receive platinum therapy, is indicated for the treatment of adult patients
+    with persistent, recurrent, or metastatic carcinoma of the cervix.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Europe MA EEIG
+  european_commission_decision_date: 18/12/2025
+  marketing_authorisation_date: 14/02/2019
+  opinion_adopted_date: 13/12/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '18'
+metadata:
+  first_published: 11/12/2018
+  last_updated: 28/01/2026
+  latest_procedure: PSUR/0000274402
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zirabev

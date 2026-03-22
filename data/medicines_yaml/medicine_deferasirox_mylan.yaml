@@ -1,0 +1,56 @@
+name: Deferasirox Mylan
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005014
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: deferasirox
+  active_substance: deferasirox
+therapeutic_information:
+  therapeutic_area_mesh: Iron Overload;beta-Thalassemia
+  atc_code_human: V03AC03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Deferasirox Mylan is indicated for  the treatment of chronic
+    iron overload due to frequent blood transfusions (?7 ml/kg/month of packed red
+    blood cells) in patients with beta thalassaemia major aged 6 years and older the
+    treatment of chronic iron overload due to blood transfusions when deferoxamine
+    therapy is contraindicated or inadequate in the following patient groups:  in
+    paediatric patients with beta thalassaemia major with iron overload due to frequent
+    blood transfusions (?7 ml/kg/month of packed red blood cells) aged 2 to 5 years,
+    in adult and paediatric patients with beta thalassaemia major with iron overload
+    due to infrequent blood transfusions (&lt;7 ml/kg/month of packed red blood cells)
+    aged 2 years and older, in adult and paediatric patients with other anaemias aged
+    2 years and older.   the treatment of chronic iron overload requiring chelation
+    therapy when deferoxamine therapy is contraindicated or inadequate in patients
+    with non-transfusion dependent thalassaemia syndromes aged 10 years and older.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Mylan Pharmaceuticals Limited
+  european_commission_decision_date: 30/04/2025
+  marketing_authorisation_date: 26/09/2019
+  opinion_adopted_date: 25/07/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '11'
+metadata:
+  first_published: 10/10/2019
+  last_updated: 29/09/2025
+  latest_procedure: VR/0000268284
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/deferasirox-mylan

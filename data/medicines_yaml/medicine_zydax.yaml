@@ -1,0 +1,47 @@
+name: Zydax
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/004375
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: ''
+  active_substance: ''
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QM09AX
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: For the treatment of lameness, pain and mobility impairment
+    of osteoarthritis (non-infectious arthrosis) and related musculoskeletal disorders
+    by therapeutic activity on the underlying pathological processes (disease modifying
+    osteoarthritis drug) in dogs.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Parnell Technologies (UK) Limited
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 03/12/2018
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 03/12/2018
+  last_updated: ''
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/zydax

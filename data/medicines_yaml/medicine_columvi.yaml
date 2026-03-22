@@ -1,0 +1,49 @@
+name: Columvi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005751
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: glofitamab
+  active_substance: Glofitamab
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Large B-Cell, Diffuse
+  atc_code_human: L01FX28
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Columvi in combination with gemcitabine and oxaliplatin
+    is indicated for the treatment of adult patients with relapsed or refractory diffuse
+    large B-cell lymphoma not otherwise specified (DLBCL NOS) who are ineligible for
+    autologous stem cell transplant (ASCT).Columvi as monotherapy is indicated for
+    the treatment of adult patients with relapsed or refractory diffuse large B cell
+    lymphoma (DLBCL), after two or more lines of systemic therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Roche Registration GmbH
+  european_commission_decision_date: 24/07/2025
+  marketing_authorisation_date: 07/07/2023
+  opinion_adopted_date: 26/04/2023
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 18/07/2023
+  last_updated: 24/10/2025
+  latest_procedure: VR/0000270570
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/columvi

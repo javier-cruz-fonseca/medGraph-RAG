@@ -1,0 +1,48 @@
+name: Niapelf
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006185
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: paliperidone
+  active_substance: paliperidone palmitate
+therapeutic_information:
+  therapeutic_area_mesh: Schizophrenia
+  atc_code_human: N05AX13
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: indicated for maintenance treatment of schizophrenia in
+    adult patients stabilised withpaliperidone or risperidone. In selected adult patients
+    with schizophrenia and previous responsiveness to oral paliperidone or risperidone,
+    Niapelf may be used without prior stabilisation with oral treatment if psychotic
+    symptoms are mild to moderate and a long-acting injectable treatment is needed.&nbsp;
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Neuraxpharm Pharmaceuticals S.L.
+  european_commission_decision_date: 21/03/2024
+  marketing_authorisation_date: 31/03/2024
+  opinion_adopted_date: 25/01/2023
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 04/04/2024
+  last_updated: ''
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/niapelf

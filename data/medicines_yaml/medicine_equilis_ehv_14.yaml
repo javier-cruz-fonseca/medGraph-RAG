@@ -1,0 +1,45 @@
+name: Equilis EHV 1+4
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/006147
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: Equine herpesvirus vaccine (inactivated)
+  active_substance: equine herpesvirus 1, strain RAC-H and equine herpesvirus 4, strain
+    2252
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI05AA05
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: ''
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Intervet International BV
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 19/07/2024
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 25/09/2025
+  last_updated: ''
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/equilis-ehv-14

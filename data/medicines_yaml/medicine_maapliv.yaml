@@ -1,0 +1,49 @@
+name: Maapliv
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005557
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: amino acids
+  active_substance: glycine,L-alanine,L-arginine,L-aspartic acid,L-cysteine hydrochloride
+    monohydrate,L-histidine,L-methionine,L-phenylalanine,L-proline,L-serine,L-threonine,L-tryptophan,L-tyrosine,L-glutamic
+    acid,L-lysine monohydrate,taurine
+therapeutic_information:
+  therapeutic_area_mesh: Maple Syrup Urine Disease
+  atc_code_human: B05BA01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Maapliv is indicated for the treatment of maple syrup urine
+    disease (MSUD) presenting with an acute decompensation episode in patients from
+    birth who are not eligible for an oral and enteral branched-chain amino acids
+    free (BCAA- free) formulation.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'Yes'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Recordati Rare Diseases
+  european_commission_decision_date: 28/07/2025
+  marketing_authorisation_date: 28/07/2025
+  opinion_adopted_date: 22/05/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 23/05/2025
+  last_updated: 30/09/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/maapliv

@@ -1,0 +1,49 @@
+name: Temybric Ellipta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005254
+  medicine_status: Lapsed
+  opinion_status: ''
+  inn_common_name: fluticasone furoate;umeclidinium;vilanterol
+  active_substance: fluticasone furoate;umeclidinium bromide;vilanterol trifenatate
+therapeutic_information:
+  therapeutic_area_mesh: Pulmonary Disease, Chronic Obstructive
+  atc_code_human: R03AL08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Temybric Ellipta is indicated as a maintenance treatment
+    in adult patients with moderate to severe chronic obstructive pulmonary disease
+    (COPD) who are not adequately treated by a combination of an inhaled corticosteroid
+    and a long-acting ?2-agonist or a combination of a long-acting ?2-agonist and
+    a long-acting muscarinic antagonist (for effects on symptom control and prevention
+    of exacerbations see section 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited
+  european_commission_decision_date: 11/12/2021
+  marketing_authorisation_date: 12/06/2019
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 14/06/2022
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 23/09/2019
+  last_updated: 24/11/2022
+  latest_procedure: WS/2130/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/temybric-ellipta

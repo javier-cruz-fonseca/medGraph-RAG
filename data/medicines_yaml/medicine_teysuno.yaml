@@ -1,0 +1,50 @@
+name: Teysuno
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001242
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: tegafur;gimeracil;oteracil
+  active_substance: tegafur;gimeracil;oteracil
+therapeutic_information:
+  therapeutic_area_mesh: Stomach Neoplasms
+  atc_code_human: L01BC53
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Teysuno is indicated in adults: - for the treatment of
+    advanced gastric cancer when given in combination with cisplatin (see section
+    5.1). - as monotherapy or in combination with oxaliplatin or irinotecan, with
+    or without bevacizumab, for the treatment of patients with metastatic colorectal
+    cancer for whom it is not possible to continue treatment with another fluoropyrimidine
+    due to hand-foot syndrome or cardiovascular toxicity that developed in the adjuvant
+    or metastatic setting.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Nordic Group B.V.
+  european_commission_decision_date: 30/10/2025
+  marketing_authorisation_date: 14/03/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '24'
+metadata:
+  first_published: 07/03/2018
+  last_updated: 30/10/2025
+  latest_procedure: VR/0000308441
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/teysuno

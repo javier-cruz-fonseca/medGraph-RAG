@@ -1,0 +1,53 @@
+name: Jylamvo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003756
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: methotrexate
+  active_substance: methotrexate
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Psoriatic;Precursor Cell Lymphoblastic Leukemia-Lymphoma;Psoriasis;Arthritis,
+    Rheumatoid;Arthritis
+  atc_code_human: L04AX03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: In rheumatological and dermatological diseases  Active rheumatoid
+    arthritis in adult patients. Polyarthritic forms of active, severe juvenile idiopathic
+    arthritis (JIA) in adolescents and children aged 3 years and over when the response
+    to non-steroidal anti-inflammatory drugs (NSAIDs) has been inadequate. Severe,
+    treatment-refractory, disabling psoriasis which does not respond sufficiently
+    to other forms of treatment such as phototherapy, psoralen and ultraviolet A radiation
+    (PUVA) therapy and retinoids, and severe psoriatic arthritis in adult patients.  In
+    oncology  Maintenance treatment of acute lymphoblastic leukaemia (ALL) in adults,
+    adolescents and children aged 3 years and over.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Oresund Pharma ApS
+  european_commission_decision_date: 21/10/2024
+  marketing_authorisation_date: 29/03/2017
+  opinion_adopted_date: 26/01/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '15'
+metadata:
+  first_published: 22/05/2018
+  last_updated: 24/10/2024
+  latest_procedure: IAIN/0023/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/jylamvo

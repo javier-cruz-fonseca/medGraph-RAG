@@ -1,0 +1,48 @@
+name: Tabrecta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004845
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: capmatinib
+  active_substance: capmatinib dihydrochloride monohydrate
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Non-Small-Cell Lung
+  atc_code_human: L01EX17
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Tabrecta as monotherapy is indicated for the treatment of
+    adult patients with advanced non small cell lung cancer (NSCLC) harbouring alterations
+    leading to mesenchymal epithelial transition factor gene exon 14 (METex14) skipping,
+    who require systemic therapy following prior treatment with immunotherapy and/or
+    platinum based chemotherapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 26/08/2025
+  marketing_authorisation_date: 20/06/2022
+  opinion_adopted_date: 22/04/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 13/04/2022
+  last_updated: 27/08/2025
+  latest_procedure: VR/0000293181
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tabrecta

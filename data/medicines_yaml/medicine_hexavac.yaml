@@ -1,0 +1,53 @@
+name: Hexavac
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000298
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: diphtheria, tetanus, acellular pertussis, inactivated poliomyelitis,
+    hepatitis B (recombinant) and Haemophilus influenzae type b conjugate vaccine,
+    adjuvanted
+  active_substance: purified diphtheria toxoid;purified tetanus toxoid;purified pertussis
+    toxoid;purified pertussis filamentous haemagglutinin;hepatitis B surface antigen;Inactivated
+    Type 1 Poliovirus (Mahoney);Inactivated Type 3 Poliovirus (Saukett);Haemophilus
+    influenzae type b polysaccharide
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis B;Tetanus;Immunization;Meningitis, Haemophilus;Whooping
+    Cough;Poliomyelitis;Diphtheria
+  atc_code_human: J07CA
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: This combined vaccine is indicated for primary and booster
+    vaccination of children against diphtheria, tetanus, pertussis, hepatitis B caused
+    by all known subtypes of viruses, poliomyelitis and invasive infections caused
+    by Haemophilus influenzae type b.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sanofi Pasteur MSD, SNC
+  european_commission_decision_date: 28/06/2012
+  marketing_authorisation_date: 23/10/2000
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 28/06/2012
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 28/06/2012
+  last_updated: 16/08/2012
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/hexavac

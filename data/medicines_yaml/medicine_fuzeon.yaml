@@ -1,0 +1,53 @@
+name: Fuzeon
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000514
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: enfuvirtide
+  active_substance: enfuvirtide
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AX07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Fuzeon is indicated in combination with other antiretroviral
+    medicinal products for the treatment of HIV-1-infected patients who have received
+    treatment with and failed on regimens containing at least one medicinal product
+    from each of the following antiretroviral classes: protease inhibitors, non-nucleoside
+    reverse-transcriptase inhibitors and nucleoside reverse-transcriptase inhibitors,
+    or who have intolerance to previous antiretroviral regimens. In deciding on a
+    new regimen for patients who have failed an antiretroviral regimen, careful consideration
+    should be given to the treatment history of the individual patient and the patterns
+    of mutations associated with different medicinal products. Where available, resistance
+    testing may be appropriate.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Roche Registration GmbH
+  european_commission_decision_date: 16/10/2023
+  marketing_authorisation_date: 27/05/2003
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '25'
+metadata:
+  first_published: 06/04/2018
+  last_updated: 23/02/2024
+  latest_procedure: IB/0065
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/fuzeon

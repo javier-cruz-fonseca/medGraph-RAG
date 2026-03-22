@@ -1,0 +1,45 @@
+name: Rayvow
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005332
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: lasmiditan
+  active_substance: lasmiditan succinate
+therapeutic_information:
+  therapeutic_area_mesh: Migraine Disorders
+  atc_code_human: N02CC08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: RAYVOW is indicated for the acute treatment of the headache
+    phase of migraine attacks, with or without aura in adults.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Eli Lilly Nederland B.V.
+  european_commission_decision_date: 05/02/2026
+  marketing_authorisation_date: 17/08/2022
+  opinion_adopted_date: 16/12/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 14/09/2021
+  last_updated: 06/02/2026
+  latest_procedure: VR/0000315499
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/rayvow

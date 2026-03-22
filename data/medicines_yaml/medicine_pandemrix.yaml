@@ -1,0 +1,49 @@
+name: Pandemrix
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000832
+  medicine_status: Expired
+  opinion_status: ''
+  inn_common_name: influenza vaccine (H1N1)v (split virion, inactivated, adjuvanted)
+  active_substance: split influenza virus inactivated, containing antigen equivalent
+    to A/California/07/2009 (H1N1)-derived strain used NYMC X-179A
+therapeutic_information:
+  therapeutic_area_mesh: Influenza, Human;Immunization;Disease Outbreaks
+  atc_code_human: J07BB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Prophylaxis of influenza caused by A (H1N1)v 2009 virus.
+    Pandemrix should only be used if the recommended annual seasonal trivalent / quadrivalent
+    influenza vaccines are not available and if immunisation against (H1N1)v is considered
+    necessary (see sections 4.4 and 4.8). Pandemrix should be used in accordance with
+    Official Guidance.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A.
+  european_commission_decision_date: 28/04/2016
+  marketing_authorisation_date: 20/05/2008
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 13/08/2015
+  suspension_date: ''
+  revision_number: '23'
+metadata:
+  first_published: 28/04/2016
+  last_updated: 10/06/2016
+  latest_procedure: II/0079
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pandemrix

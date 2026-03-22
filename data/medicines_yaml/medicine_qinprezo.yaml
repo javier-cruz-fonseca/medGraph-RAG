@@ -1,0 +1,44 @@
+name: Qinprezo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004118
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: ''
+  active_substance: vosaroxin
+therapeutic_information:
+  therapeutic_area_mesh: Leukemia, Myeloid, Acute
+  atc_code_human: L01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment acute myeloid leukaemia
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sunesis Europe Ltd
+  european_commission_decision_date: 19/05/2017
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 10/05/2017
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 19/05/2017
+  last_updated: 15/08/2017
+  latest_procedure: '-'
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/qinprezo

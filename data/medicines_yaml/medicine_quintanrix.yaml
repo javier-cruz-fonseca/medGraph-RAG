@@ -1,0 +1,51 @@
+name: Quintanrix
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000556
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: diphtheria, tetanus, pertussis (whole cell), hepatitis B (rDNA)
+    and Haemophilus influenzae type B conjugate vaccine (absorbed)
+  active_substance: Diphtheria toxoid;tetanus toxoid;inactivated Bordetella pertussis;hepatitis
+    B surface antigen (rDNA);Haemophilus influenzae type b polysaccharide
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis B;Tetanus;Immunization;Meningitis, Haemophilus;Whooping
+    Cough;Diphtheria
+  atc_code_human: J07CA10
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Quintanrix is indicated for primary immunisation of infants
+    (during the first year of life) against diphtheria, tetanus, pertussis, hepatitis
+    B and invasive disease caused by Haemophilus influenzae type b and for booster
+    immunisation of young children during the second year of life.The use of Quintanrix
+    should be determined on the basis of official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A.
+  european_commission_decision_date: 11/12/2007
+  marketing_authorisation_date: 17/02/2005
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 28/08/2008
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 11/12/2007
+  last_updated: 10/09/2008
+  latest_procedure: II/0008
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/quintanrix

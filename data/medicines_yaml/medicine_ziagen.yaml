@@ -1,0 +1,51 @@
+name: Ziagen
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000252
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: abacavir
+  active_substance: abacavir
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AF06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ziagen is indicated in antiretroviral combination therapy
+    for the treatment of Human Immunodeficiency Virus (HIV) infection in adults, adolescents
+    and children. The demonstration of the benefit of Ziagen is mainly based on results
+    of studies performed with a twice daily regimen, in treatment-naïve adult patients
+    on combination therapy. Before initiating treatment with abacavir, screening for
+    carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient,
+    irrespective of racial origin. Abacavir should not be used in patients known to
+    carry the HLA-B*5701 allele.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: ViiV Healthcare B.V.
+  european_commission_decision_date: 15/01/2026
+  marketing_authorisation_date: 08/07/1999
+  opinion_adopted_date: 25/03/1999
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '50'
+metadata:
+  first_published: 01/03/2018
+  last_updated: 19/01/2026
+  latest_procedure: VR/0000296309
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ziagen

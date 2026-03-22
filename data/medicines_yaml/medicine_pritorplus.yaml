@@ -1,0 +1,51 @@
+name: PritorPlus
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000414
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: telmisartan;hydrochlorothiazide
+  active_substance: telmisartan;hydrochlorothiazide
+therapeutic_information:
+  therapeutic_area_mesh: Hypertension
+  atc_code_human: C09DA07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of essential hypertension. PritorPlus fixed-dose
+    combination (40 mg telmisartan / 12.5 mg hydrochlorothiazide, 80mg telmisartan
+    / 12.5 mg hydrochlorothiazide) is indicated in patients whose blood pressure is
+    not adequately controlled on telmisartan alone. PritorPlus fixed-dose combination
+    (80 mg telmisartan / 25 mg hydrochlorothiazide) is indicated in patients whose
+    blood pressure is not adequately controlled on PritorPlus (80 mg telmisartan /
+    12.5 mg hydrochlorothiazide) or patients who have been previously stabilised on
+    telmisartan and hydrochlorothiazide given separately.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bayer AG
+  european_commission_decision_date: 07/01/2025
+  marketing_authorisation_date: 22/04/2002
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '39'
+metadata:
+  first_published: 13/04/2018
+  last_updated: 17/01/2025
+  latest_procedure: IG1812
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pritorplus

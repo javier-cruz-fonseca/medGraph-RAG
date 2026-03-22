@@ -1,0 +1,49 @@
+name: Nimenrix
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002226
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: meningococcal groups A, C, W-135 and Y conjugate vaccine
+  active_substance: Neisseria meningitidis group A polysaccharide conjugated to tetanus
+    toxoid;Neisseria meningitidis group C polysaccharide conjugated to tetanus toxoid;Neisseria
+    meningitidis group W-135 polysaccharide conjugated to tetanus toxoid;Neisseria
+    meningitidis group Y polysaccharide conjugated to tetanus toxoid
+therapeutic_information:
+  therapeutic_area_mesh: Meningitis, Meningococcal
+  atc_code_human: J07AH08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Nimenrix is indicated for active immunisation of individuals
+    from the age of 6 weeks against invasive meningococcal diseases caused by Neisseria
+    meningitidis group A, C, W-135, and Y.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Europe MA EEIG
+  european_commission_decision_date: 12/02/2025
+  marketing_authorisation_date: 20/04/2012
+  opinion_adopted_date: 16/02/2012
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '41'
+metadata:
+  first_published: 15/03/2018
+  last_updated: 13/02/2025
+  latest_procedure: VR/0000248574
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/nimenrix

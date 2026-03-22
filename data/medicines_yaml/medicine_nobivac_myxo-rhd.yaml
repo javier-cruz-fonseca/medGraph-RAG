@@ -1,0 +1,48 @@
+name: Nobivac Myxo-RHD
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/002004
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: live myxoma-vectored rabbit-haemorrhagic-disease virus strain 009
+  active_substance: live myxoma-vectored rabbit-haemorrhagic-disease virus strain
+    009
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI08AD
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'For active immunisation of rabbits from five weeks of age
+    onwards to reduce mortality and clinical signs of myxomatosis and to prevent mortality
+    due to rabbit haemorrhagic disease. Onset of immunity: 3 weeks. Duration of immunity:
+    1 year.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Intervet International BV
+  european_commission_decision_date: 18/03/2021
+  marketing_authorisation_date: 07/09/2011
+  opinion_adopted_date: 14/07/2011
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 05/08/2016
+  last_updated: 12/09/2023
+  latest_procedure: IG/1348
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/nobivac-myxo-rhd

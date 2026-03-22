@@ -1,0 +1,51 @@
+name: Elucirem
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005626
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: gadopiclenol
+  active_substance: Gadopiclenol
+therapeutic_information:
+  therapeutic_area_mesh: Magnetic Resonance Imaging
+  atc_code_human: V08CA12
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: This medicinal product is for diagnostic use only.Elucirem
+    is indicated in adults and children from birth for contrast-enhanced magnetic
+    resonance imaging (MRI) to improve detection and visualization of pathologies
+    with disruption of the blood-brain-barrier (BBB) and/or abnormal vascularity of:-
+    the brain, spine, and associated tissues of the central nervous system (CNS);-
+    the liver, kidney, pancreas, breast, lung, prostate, and musculoskeletal system.It
+    should be used only when diagnostic information is essential and not available
+    with unenhanced MRI.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Guerbet
+  european_commission_decision_date: 22/01/2026
+  marketing_authorisation_date: 07/12/2023
+  opinion_adopted_date: 12/10/2023
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 13/10/2023
+  last_updated: 12/03/2026
+  latest_procedure: VR/0000249008
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/elucirem

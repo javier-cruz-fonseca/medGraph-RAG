@@ -1,0 +1,47 @@
+name: Nerlynx
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004030
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: neratinib
+  active_substance: neratinib
+therapeutic_information:
+  therapeutic_area_mesh: Breast Neoplasms
+  atc_code_human: L01EH02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Nerlynx is indicated for the extended adjuvant treatment
+    of adult patients with early stage hormone receptor positive HER2-overexpressed/amplified
+    breast cancer and who are less than one year from the completion of prior adjuvant
+    trastuzumab based therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pierre Fabre Medicament
+  european_commission_decision_date: 22/05/2025
+  marketing_authorisation_date: 31/08/2018
+  opinion_adopted_date: 28/06/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '14'
+metadata:
+  first_published: 31/08/2018
+  last_updated: 23/05/2025
+  latest_procedure: VR/0000265110
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/nerlynx

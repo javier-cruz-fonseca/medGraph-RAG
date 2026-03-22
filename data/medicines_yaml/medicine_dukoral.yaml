@@ -1,0 +1,51 @@
+name: Dukoral
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000476
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: cholera vaccine (inactivated, oral)
+  active_substance: recombinant cholera toxin B subunit;vibrio cholerae 01
+therapeutic_information:
+  therapeutic_area_mesh: Cholera;Immunization
+  atc_code_human: J07AE01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Dukoral is indicated for active immunisation against disease
+    caused by Vibrio cholerae serogroup O1 in adults and children from 2 years of
+    age who will be visiting endemic/epidemic areas. The use of Dukoral should be
+    determined on the basis of official recommendations taking into consideration
+    the variability of epidemiology and the risk of contracting disease in different
+    geographical areas and travelling conditions. Dukoral should not replace standard
+    protective measures. In the event of diarrhoea measures of rehydration should
+    be instituted.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Valneva Sweden AB
+  european_commission_decision_date: 07/01/2021
+  marketing_authorisation_date: 28/04/2004
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '14'
+metadata:
+  first_published: 16/03/2015
+  last_updated: 06/04/2022
+  latest_procedure: II/0062/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/dukoral

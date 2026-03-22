@@ -1,0 +1,52 @@
+name: Nordimet
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003983
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: methotrexate
+  active_substance: methotrexate
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Psoriatic;Psoriasis;Arthritis, Juvenile Rheumatoid;Arthritis,
+    Rheumatoid
+  atc_code_human: L04AX03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Nordimet is indicated for the treatment of:  active rheumatoid
+    arthritis in adult patients, polyarthritic forms of severe, active juvenile idiopathic
+    arthritis (JIA), when the response to nonsteroidal anti-inflammatory drugs (NSAIDs)
+    has been inadequate, moderate to severe plaque&nbsp;psoriasis in adults who are
+    candidates&nbsp;for systemic therapy, and severe psoriatic arthritis in adult
+    patients,&nbsp; induction of remission in moderate steroid-dependent Crohn''s
+    disease in adult patients, in combination with corticosteroids and for maintenance
+    of remission, as monotherapy, in patients who have responded to methotrexate.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Nordic Group B.V.
+  european_commission_decision_date: 15/07/2025
+  marketing_authorisation_date: 18/08/2016
+  opinion_adopted_date: 23/06/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '25'
+metadata:
+  first_published: 16/05/2018
+  last_updated: 17/07/2025
+  latest_procedure: VR/0000282579
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/nordimet

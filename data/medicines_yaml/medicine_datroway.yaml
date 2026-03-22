@@ -1,0 +1,47 @@
+name: Datroway
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006547
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: datopotamab deruxtecan
+  active_substance: datopotamab deruxtecan
+therapeutic_information:
+  therapeutic_area_mesh: Breast Neoplasms
+  atc_code_human: L01FX35
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Breast cancerDatroway as monotherapy is indicated for the
+    treatment of adult patients with unresectable or metastatic hormone receptor (HR)-positive,
+    HER2-negative breast cancer who have received endocrine therapy and at least one
+    line of chemotherapy in the advanced setting.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Daiichi Sankyo Europe GmbH
+  european_commission_decision_date: 09/02/2026
+  marketing_authorisation_date: 04/04/2025
+  opinion_adopted_date: 30/01/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 31/01/2025
+  last_updated: 09/02/2026
+  latest_procedure: VR/0000325249
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/datroway

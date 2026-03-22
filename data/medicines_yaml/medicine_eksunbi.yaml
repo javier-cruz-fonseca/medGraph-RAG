@@ -1,0 +1,62 @@
+name: Eksunbi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006448
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: ustekinumab
+  active_substance: ustekinumab
+therapeutic_information:
+  therapeutic_area_mesh: Crohn Disease;Colitis, Ulcerative;Psoriasis;Arthritis, Psoriatic
+  atc_code_human: L04AC05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Crohn’s DiseaseEksunbi is indicated for the treatment of
+    adult patients with moderately to severely active Crohn’s disease who have had
+    an inadequate response with, lost response to, or were intolerant to either conventional
+    therapy or a TNFα antagonist or have medical contraindications to such therapies.Ulcerative
+    colitisEksunbi is indicated for the treatment of adult patients with moderately
+    to severely active ulcerative colitis who have had an inadequate response with,
+    lost response to, or were intolerant to either conventional therapy or a biologic
+    or have medical contraindications to such therapies (see section 5.1).Plaque psoriasisEksunbi
+    is indicated for the treatment of moderate to severe plaque psoriasis in adults
+    who failed to respond to, or who have a contraindication to, or are intolerant
+    to other systemic therapies including ciclosporin, methotrexate (MTX) or PUVA
+    (psoralen and ultraviolet A) (see section 5.1).Paediatric plaque psoriasisEksunbi
+    is indicated for the treatment of moderate to severe plaque psoriasis in children
+    and adolescent patients from the age of 6 years and older, who are inadequately
+    controlled by, or are intolerant to, other systemic therapies or phototherapies
+    (see section 5.1).Psoriatic arthritis (PsA)Eksunbi, alone or in combination with
+    MTX, is indicated for the treatment of active psoriatic arthritis in adult patients
+    when the response to previous non-biological disease-modifying anti-rheumatic
+    drug (DMARD) therapy has been inadequate (see section 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Samsung Bioepis NL B.V.
+  european_commission_decision_date: 23/05/2025
+  marketing_authorisation_date: 12/09/2024
+  opinion_adopted_date: 25/07/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 19/08/2025
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 26/07/2024
+  last_updated: 08/09/2025
+  latest_procedure: VR/0000267789
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/eksunbi

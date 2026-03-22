@@ -1,0 +1,51 @@
+name: Divence Penta
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/006175
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: bovine parainfluenza virus 3, strain SF-4 Reisinger, inactivated;bovine
+    respiratory syncytial virus, strain LYM-56, live;bovine viral diarrhoea virus
+    1, E2 recombinant protein;bovine viral diarrhoea virus 2, E2 recombinant protein;infectious
+    bovine rhinotracheitis virus, strain CEDDEL, gE- tk- double-gene deleted, live
+  active_substance: bovine parainfluenza virus 3, strain SF-4 Reisinger, inactivated;live
+    attenuated bovine respiratory syncytial virus (BRSV), strain Lym-56;bovine viral
+    diarrhoea virus 1, E2 recombinant protein;bovine viral diarrhoea virus 2, E2 recombinant
+    protein;infectious bovine rhinotracheitis virus, strain CEDDEL, gE- tk- double-gene
+    deleted, live
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: ''
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: ''
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 16/02/2024
+  last_updated: 31/05/2024
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/divence-penta

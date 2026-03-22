@@ -1,0 +1,53 @@
+name: Dasatinib Accordpharma
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005317
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: dasatinib (anhydrous)
+  active_substance: dasatinib
+therapeutic_information:
+  therapeutic_area_mesh: Precursor Cell Lymphoblastic Leukemia-Lymphoma;Leukemia,
+    Myelogenous, Chronic, BCR-ABL Positive
+  atc_code_human: L01EA02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Dasatinib Accordpharma is indicated for the treatment of
+    adult patients with:  newly diagnosed Philadelphia chromosome positive (Ph+) chronic
+    myelogenous leukaemia (CML) in the chronic phase. chronic, accelerated or blast
+    phase CML with resistance or intolerance to prior therapy including imatinib.
+    Ph+ acute lymphoblastic leukaemia (ALL) and lymphoid blast CML with resistance
+    or intolerance to prior therapy. Dasatinib Accordpharma is indicated for the treatment
+    of paediatric patients with: newly diagnosed Ph+ CML in chronic phase (Ph+ CML-CP)
+    or Ph+ CML-CP resistant or intolerant to prior therapy including imatinib. newly
+    diagnosed Ph+ ALL in combination with chemotherapy.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 22/06/2022
+  marketing_authorisation_date: 24/03/2022
+  opinion_adopted_date: 27/01/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 24/01/2022
+  last_updated: 30/03/2023
+  latest_procedure: IB/0001
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/dasatinib-accordpharma

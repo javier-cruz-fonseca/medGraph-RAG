@@ -1,0 +1,62 @@
+name: Omnitrope
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000607
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: somatropin
+  active_substance: somatropin
+therapeutic_information:
+  therapeutic_area_mesh: Turner Syndrome;Prader-Willi Syndrome;Dwarfism, Pituitary
+  atc_code_human: H01AC01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Infants, children and adolescents  Growth disturbance due
+    to insufficient secretion of growth hormone (GH). Growth disturbance associated
+    with Turner syndrome. Growth disturbance associated with chronic renal insufficiency.
+    Growth disturbance (current height standard-deviation score (SDS) &lt; -2.5 and
+    parental adjusted SDS &lt; -1) in short children / adolescents born small for
+    gestational age (SGA), with a birth weight and / or length below -2 standard deviations
+    (SDs), who failed to show catch-up growth (height velocity (HV) SDS &lt; 0 during
+    the last year) by four years of age or later. Prader-Willi syndrome (PWS), for
+    improvement of growth and body composition. The diagnosis of PWS should be confirmed
+    by appropriate genetic testing.  Adults  Replacement therapy in adults with pronounced
+    growth hormone deficiency. Patients with severe growth hormone deficiency in adulthood
+    are defined as patients with known hypothalamic pituitary pathology and at least
+    one known deficiency of a pituitary hormone not being prolactin. These patients
+    should undergo a single dynamic test in order to diagnose or exclude a growth
+    hormone deficiency. In patients with childhood-onset isolated GH deficiency (no
+    evidence of hypothalamic-pituitary disease or cranial irradiation), two dynamic
+    tests should be recommended, except for those having low insulin-like-growth-factor-I
+    (IGF-I) concentrations (SDS &lt; -2) who may be considered for one test. The cut-off
+    point of the dynamic test should be strict.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sandoz GmbH
+  european_commission_decision_date: 05/08/2025
+  marketing_authorisation_date: 12/04/2006
+  opinion_adopted_date: 26/06/2003
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '23'
+metadata:
+  first_published: 27/02/2018
+  last_updated: 05/08/2025
+  latest_procedure: VR/0000268066
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/omnitrope

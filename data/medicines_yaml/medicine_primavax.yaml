@@ -1,0 +1,49 @@
+name: Primavax
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000156
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: diphtheria, tetanus and hepatitis B (rDNA) vaccine (adsorbed)
+  active_substance: Diphtheria toxoid;hepatitis B, recombinant surface antigen;tetanus
+    toxoid
+therapeutic_information:
+  therapeutic_area_mesh: Hepatitis B;Tetanus;Immunization;Diphtheria
+  atc_code_human: J07CA
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: This vaccine is indicated for active immunization against
+    hepatitis B, caused by all known subtypes, diphtheria and tetanus in infants :-
+    for primary vaccination- for boosteraccording to national vaccination policies.This
+    vaccine should not be administered to neonates.This vaccine is not intended for
+    use in adolescents or adults.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pasteur Mà¨rieux MSD
+  european_commission_decision_date: 27/07/2000
+  marketing_authorisation_date: 05/02/1998
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 27/07/2000
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 27/07/2000
+  last_updated: 04/12/2000
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/primavax

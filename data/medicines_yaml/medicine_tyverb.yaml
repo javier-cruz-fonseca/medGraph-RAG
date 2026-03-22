@@ -1,0 +1,55 @@
+name: Tyverb
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000795
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: lapatinib
+  active_substance: lapatinib
+therapeutic_information:
+  therapeutic_area_mesh: Breast Neoplasms
+  atc_code_human: L01EH01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Tyverb is indicated for the treatment of patients with
+    breast cancer, whose tumours overexpress HER2 (ErbB2):  in combination with capecitabine
+    for patients with advanced or metastatic disease with progression following prior
+    therapy, which must have included anthracyclines and taxanes and therapy with
+    trastuzumab in the metastatic setting; in combination with trastuzumab for patients
+    with hormone-receptor-negative metastatic disease that has progressed on prior
+    trastuzumab therapy or therapies in combination with chemotherapy; in combination
+    with an aromatase inhibitor for post-menopausal women with hormone-receptor-positive
+    metastatic disease, not currently intended for chemotherapy. The patients in the
+    registration study had not previously been treated with trastuzumab or an aromatase
+    inhibitor. No data are available on the efficacy of this combination relative
+    to trastuzumab in combination with an aromatase inhibitor in this patient population.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 05/01/2026
+  marketing_authorisation_date: 10/06/2008
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '39'
+metadata:
+  first_published: 30/07/2018
+  last_updated: 06/01/2026
+  latest_procedure: VR/0000320526
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tyverb

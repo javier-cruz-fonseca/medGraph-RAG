@@ -1,0 +1,46 @@
+name: Zynyz
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005632
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: retifanlimab
+  active_substance: retifanlimab
+therapeutic_information:
+  therapeutic_area_mesh: Anus Neoplasms;Carcinoma, Squamous Cell
+  atc_code_human: L01FX06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of locally advanced or metastatic squamous carcinoma
+    of the anal canal (SCAC) who have progressed on or who are intolerant of platinum-based
+    chemotherapy
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Incyte Biosciences Distribution B.V.
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 14/10/2021
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 15/10/2021
+  last_updated: 29/11/2021
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zynyz-0

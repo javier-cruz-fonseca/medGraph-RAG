@@ -1,0 +1,57 @@
+name: Actos
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000285
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: pioglitazone
+  active_substance: pioglitazone hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Diabetes Mellitus, Type 2
+  atc_code_human: A10BG03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Pioglitazone is indicated in the treatment of type-2 diabetes
+    mellitus:  as monotherapy:  in patients (particularly overweight patients) inadequately
+    controlled by diet and exercise for whom metformin is inappropriate because of
+    contraindications or intolerance;   as dual oral therapy in combination with:  metformin,
+    in patients (particularly overweight patients) with insufficient glycaemic control
+    despite maximal tolerated dose of monotherapy with metformin; a sulphonylurea,
+    only in patients who show intolerance to metformin or for whom metformin is contraindicated,
+    with insufficient glycaemic control despite maximal tolerated dose of monotherapy
+    with a sulphonylurea;   as triple oral therapy in combination with:  metformin
+    and a sulphonylurea, in patients (particularly overweight patients) with insufficient
+    glycaemic control despite dual oral therapy.    Pioglitazone is also indicated
+    for combination with insulin in type-2 diabetes mellitus patients with insufficient
+    glycaemic control on insulin for whom metformin is inappropriate because of contraindications
+    or intolerance.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: CHEPLAPHARM Arzneimittel GmbH
+  european_commission_decision_date: 11/08/2023
+  marketing_authorisation_date: 13/10/2000
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '30'
+metadata:
+  first_published: 26/05/2016
+  last_updated: 28/08/2023
+  latest_procedure: IA/0088/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/actos

@@ -1,0 +1,45 @@
+name: Alkindi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004416
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: hydrocortisone
+  active_substance: hydrocortisone
+therapeutic_information:
+  therapeutic_area_mesh: Adrenal Insufficiency
+  atc_code_human: H02AB09
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Replacement therapy of adrenal insufficiency in infants,
+    children and adolescents (from birth to &lt; 18 years old).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Immedica Netherlands B.V.
+  european_commission_decision_date: 10/03/2026
+  marketing_authorisation_date: 09/02/2018
+  opinion_adopted_date: 14/12/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 29/06/2018
+  last_updated: 10/03/2026
+  latest_procedure: VR/0000334727
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/alkindi

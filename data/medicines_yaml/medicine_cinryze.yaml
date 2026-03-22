@@ -1,0 +1,49 @@
+name: Cinryze
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001207
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: C1 inhibitor (human)
+  active_substance: C1 inhibitor (human)
+therapeutic_information:
+  therapeutic_area_mesh: Angioedemas, Hereditary
+  atc_code_human: B06AC01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment and pre-procedure prevention of angioedema attacks
+    in adults, adolescents and children (2 years old and above) with hereditary angioedema
+    (HAE). Routine prevention of angioedema attacks in adults, adolescents and children
+    (6 years old and above) with severe and recurrent attacks of hereditary angioedema
+    (HAE), who are intolerant to or insufficiently protected by oral prevention treatments,
+    or patients who are inadequately managed with repeated acute treatment.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda Manufacturing Austria AG
+  european_commission_decision_date: 08/05/2025
+  marketing_authorisation_date: 15/06/2011
+  opinion_adopted_date: 17/03/2011
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '25'
+metadata:
+  first_published: 20/03/2018
+  last_updated: 18/06/2025
+  latest_procedure: II/0104
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cinryze

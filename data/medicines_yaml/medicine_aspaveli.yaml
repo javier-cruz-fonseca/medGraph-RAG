@@ -1,0 +1,49 @@
+name: Aspaveli
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005553
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: pegcetacoplan
+  active_substance: pegcetacoplan
+therapeutic_information:
+  therapeutic_area_mesh: Hemoglobinuria, Paroxysmal
+  atc_code_human: L04AJ03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Aspaveli is indicated as monotherapy in the treatment of
+    adult patients with paroxysmal nocturnal haemoglobinuria (PNH) who have haemolytic
+    anaemia. Aspaveli is indicated for the treatment of adult and adolescent patients
+    aged 12 to 17 years with C3 glomerulopathy (C3G) or primary immune-complex membranoproliferative
+    glomerulonephritis (IC-MPGN) in combination with a renin-angiotensin system (RAS)
+    inhibitor, unless RAS inhibitor treatment is not tolerated or contraindicated.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Swedish Orphan Biovitrum AB (publ)
+  european_commission_decision_date: 15/01/2026
+  marketing_authorisation_date: 13/12/2021
+  opinion_adopted_date: 16/09/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 16/12/2021
+  last_updated: 26/01/2026
+  latest_procedure: VR/0000248937
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/aspaveli

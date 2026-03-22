@@ -1,0 +1,46 @@
+name: Xoanacyl
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006402
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ferric citrate coordination complex
+  active_substance: ferric citrate coordination complex
+therapeutic_information:
+  therapeutic_area_mesh: Iron Deficiencies;Renal Insufficiency, Chronic;Hyperphosphatemia
+  atc_code_human: V03AE08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Xoanacyl is indicated for the treatment of concomitant elevated
+    serum phosphorous and iron deficiency in adult patients with chronic kidney disease
+    (CKD).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Averoa
+  european_commission_decision_date: ''
+  marketing_authorisation_date: 11/06/2025
+  opinion_adopted_date: 27/03/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 28/03/2025
+  last_updated: 06/11/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/xoanacyl

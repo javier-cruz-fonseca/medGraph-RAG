@@ -1,0 +1,57 @@
+name: Edurant
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002264
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: rilpivirine
+  active_substance: rilpivirine hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AG05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: EDURANT, in combination with other antiretroviral medicinal
+    products, is indicated for the treatment of human immunodeficiency virus type
+    1 (HIV 1) infection in paediatric patients 2 to less than 18 years of age and
+    weighing at least 14 kg to less than 25 kg without known mutations associated
+    with resistance to the non-nucleoside reverse transcriptase inhibitor (NNRTI)
+    class, and with a viral load ≤ 100,000 HIV 1 RNA copies/ml (see sections 4.4 and
+    5.1).Genotypic resistance testing should guide the use of EDURANT (see sections
+    4.4 and 5.1).EDURANT, in combination with other antiretroviral medicinal products,
+    is indicated for the treatment of human immunodeficiency virus type 1 (HIV 1)
+    infection in adults and paediatric patients weighing at least 25 kg without known
+    mutations associated with resistance to the non-nucleoside reverse transcriptase
+    inhibitor (NNRTI) class, and with a viral load ≤ 100,000 HIV 1 RNA copies/ml (see
+    sections 4.4 and 5.1).Genotypic resistance testing should guide the use of EDURANT
+    (see sections 4.4 and 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Janssen-Cilag International N.V.
+  european_commission_decision_date: 11/04/2025
+  marketing_authorisation_date: 28/11/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '22'
+metadata:
+  first_published: 08/05/2018
+  last_updated: 11/04/2025
+  latest_procedure: N/0000265340
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/edurant

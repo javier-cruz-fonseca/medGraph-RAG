@@ -1,0 +1,50 @@
+name: Holoclar
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002450
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ex vivo expanded autologous human corneal epithelial cells containing
+    stem cells
+  active_substance: ex vivo expanded autologous human corneal epithelial cells containing
+    stem cells
+therapeutic_information:
+  therapeutic_area_mesh: Stem Cell Transplantation;Corneal Diseases
+  atc_code_human: S01XA19
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of adult patients with moderate to severe limbal
+    stem cell deficiency (defined by the presence of superficial corneal neovascularisation
+    in at least two corneal quadrants, with central corneal involvement, and severely
+    impaired visual acuity), unilateral or bilateral, due to physical or chemical
+    ocular burns. A minimum of 1-2 mm2 of undamaged limbus is required for biopsy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Holostem s.r.l.
+  european_commission_decision_date: 07/07/2025
+  marketing_authorisation_date: 17/02/2015
+  opinion_adopted_date: 18/12/2014
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 22/06/2017
+  last_updated: 08/07/2025
+  latest_procedure: VR/0000262697
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/holoclar

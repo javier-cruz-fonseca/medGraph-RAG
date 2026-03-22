@@ -1,0 +1,52 @@
+name: Opsumit
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002697
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: macitentan
+  active_substance: macitentan
+therapeutic_information:
+  therapeutic_area_mesh: Hypertension, Pulmonary
+  atc_code_human: C02KX04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Adults&nbsp;Opsumit, as monotherapy or in combination, is
+    indicated for the long-term treatment of pulmonary arterial hypertension (PAH)
+    in adult patients of WHO Functional Class (FC) II to III. Paediatric populationOpsumit,
+    as monotherapy or in combination, is indicated for the long-term treatment of
+    pulmonary arterial hypertension (PAH) in paediatric patients aged less than 18
+    years and bodyweight ≥ 40 kg with WHO Functional Class (FC) II to III. Opsumit,
+    as monotherapy or in combination, is indicated for the long-term treatment of
+    pulmonary arterial hypertension (PAH) in paediatric patients aged 2 years to less
+    than 18 years with WHO Functional Class (FC) II to III.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Janssen-Cilag International N.V.
+  european_commission_decision_date: 16/12/2025
+  marketing_authorisation_date: 20/12/2013
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 23/08/2018
+  last_updated: 16/12/2025
+  latest_procedure: VR/0000313635
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/opsumit

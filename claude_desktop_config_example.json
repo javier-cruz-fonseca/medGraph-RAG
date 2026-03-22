@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "medgraph": {
+      "command": "C:\\Development\\medGraph-RAG\\run_mcp_server.bat",
+      "args": [],
+      "env": {}
+    }
+  }
+}

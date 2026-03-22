@@ -1,0 +1,48 @@
+name: Lyrica
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000546
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: pregabalin
+  active_substance: pregabalin
+therapeutic_information:
+  therapeutic_area_mesh: Epilepsy;Anxiety Disorders;Neuralgia
+  atc_code_human: N02BF02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Neuropathic pain  Lyrica is indicated for the treatment
+    of peripheral and central neuropathic pain in adults.  Epilepsy  Lyrica is indicated
+    as adjunctive therapy in adults with partial seizures with or without secondary
+    generalisation.  Generalised anxiety disorder  Lyrica is indicated for the treatment
+    of generalised anxiety disorder (GAD) in adults.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Upjohn EESV
+  european_commission_decision_date: 15/09/2025
+  marketing_authorisation_date: 05/07/2004
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '71'
+metadata:
+  first_published: 16/11/2017
+  last_updated: 18/09/2025
+  latest_procedure: N/0000296271
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/lyrica

@@ -1,0 +1,50 @@
+name: Strimvelis
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003854
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: autologous CD34+ enriched cell fraction that contains CD34+ cells
+    transduced with retroviral vector that encodes for the human ADA cDNA sequence
+  active_substance: autologous CD34+ enriched cell fraction that contains CD34+ cells
+    transduced with retroviral vector that encodes for the human adenosine deaminase
+    (ADA) cDNA sequence from human haematopoietic stem/progenitor (CD34+) cells
+therapeutic_information:
+  therapeutic_area_mesh: Severe Combined Immunodeficiency
+  atc_code_human: L03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Strimvelis is indicated for the treatment of patients with
+    severe combined immunodeficiency due to adenosine deaminase deficiency (ADA-SCID),
+    for whom no suitable human leukocyte antigen (HLA)-matched related stem cell donor
+    is available (see section 4.2 and section 4.4).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Fondazione Telethon ETS
+  european_commission_decision_date: 04/07/2025
+  marketing_authorisation_date: 26/05/2016
+  opinion_adopted_date: 31/03/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 23/08/2018
+  last_updated: 18/12/2025
+  latest_procedure: VR/0000282063
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/strimvelis

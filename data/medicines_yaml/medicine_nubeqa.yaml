@@ -1,0 +1,49 @@
+name: Nubeqa
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004790
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: darolutamide
+  active_substance: darolutamide
+therapeutic_information:
+  therapeutic_area_mesh: Prostatic Neoplasms, Castration-Resistant
+  atc_code_human: L02BB
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: NUBEQA is indicated for the treatment of adult men with  non‑metastatic
+    castration resistant prostate cancer (nmCRPC) who are at high risk of developing
+    metastatic disease (see section&nbsp;5.1). metastatic hormone‑sensitive prostate
+    cancer (mHSPC) in combination with androgen deprivation therapy (see section&nbsp;5.1).
+    metastatic hormone‑sensitive prostate cancer (mHSPC) in combination with docetaxel
+    and androgen deprivation therapy (see section&nbsp;5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bayer AG
+  european_commission_decision_date: 19/08/2025
+  marketing_authorisation_date: 27/03/2020
+  opinion_adopted_date: 30/01/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '10'
+metadata:
+  first_published: 01/04/2020
+  last_updated: 29/08/2025
+  latest_procedure: N/0000291956
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/nubeqa

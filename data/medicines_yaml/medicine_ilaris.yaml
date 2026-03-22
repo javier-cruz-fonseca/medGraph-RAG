@@ -1,0 +1,70 @@
+name: Ilaris
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001109
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: canakinumab
+  active_substance: Canakinumab
+therapeutic_information:
+  therapeutic_area_mesh: Cryopyrin-Associated Periodic Syndromes;Arthritis, Juvenile
+    Rheumatoid;Arthritis, Gouty
+  atc_code_human: L04AC08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Periodic fever syndromes Ilaris is indicated for the treatment
+    of the following autoinflammatory periodic fever syndromes in adults, adolescents
+    and children aged 2 years and older: Cryopyrin-associated periodic syndromes Ilaris
+    is indicated for the treatment of cryopyrin-associated periodic syndromes (CAPS)
+    including:  Muckle-Wells syndrome (MWS), Neonatal-onset multisystem inflammatory
+    disease (NOMID) / chronic infantile neurological, cutaneous, articular syndrome
+    (CINCA), Severe forms of familial cold autoinflammatory syndrome (FCAS) / familial
+    cold urticaria (FCU) presenting with signs and symptoms beyond cold-induced urticarial
+    skin rash.  Tumour necrosis factor receptor associated periodic syndrome (TRAPS)
+    Ilaris is indicated for the treatment of tumour necrosis factor (TNF) receptor
+    associated periodic syndrome (TRAPS). Hyperimmunoglobulin D syndrome (HIDS)/mevalonate
+    kinase deficiency (MKD) Ilaris is indicated for the treatment of hyperimmunoglobulin
+    D syndrome (HIDS)/mevalonate kinase deficiency (MKD). Familial Mediterranean fever
+    (FMF) Ilaris is indicated for the treatment of Familial Mediterranean Fever (FMF).
+    Ilaris should be given in combination with colchicine, if appropriate. Ilaris
+    is also indicated for the treatment of: Still’s disease Ilaris is indicated for
+    the treatment of active Still’s disease including adult-onset Still’s disease
+    (AOSD) and systemic juvenile idiopathic arthritis (SJIA) in patients aged 2 years
+    and older who have responded inadequately to previous therapy with non-steroidal
+    anti-inflammatory drugs (NSAIDs) and systemic corticosteroids. Ilaris can be given
+    as monotherapy or in combination with methotrexate. Gouty arthritis Ilaris is
+    indicated for the symptomatic treatment of adult patients with frequent gouty
+    arthritis attacks (at least 3 attacks in the previous 12 months) in whom non-steroidal
+    anti-inflammatory drugs (NSAIDs) and colchicine are contraindicated, are not tolerated,
+    or do not provide an adequate response, and in whom repeated courses of corticosteroids
+    are not appropriate.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 04/02/2025
+  marketing_authorisation_date: 23/10/2009
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '34'
+metadata:
+  first_published: 30/07/2018
+  last_updated: 13/10/2025
+  latest_procedure: VR/0000246279
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ilaris

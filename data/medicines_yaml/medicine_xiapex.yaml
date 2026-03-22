@@ -1,0 +1,47 @@
+name: Xiapex
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002048
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: collagenase Clostridium histolyticum
+  active_substance: collagenase Clostridium histolyticum
+therapeutic_information:
+  therapeutic_area_mesh: Dupuytren Contracture
+  atc_code_human: M09AB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: The treatment of Dupuytren’s contracture in adult patients
+    with a palpable cord. The treatment of adult men with Peyronie’s disease with
+    a palpable plaque and curvature deformity of at least 30 degrees at the start
+    of therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Swedish Orphan Biovitrum AB
+  european_commission_decision_date: 28/11/2019
+  marketing_authorisation_date: 28/02/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '20'
+metadata:
+  first_published: 08/12/2017
+  last_updated: 02/03/2020
+  latest_procedure: PSUSA/00000871/201902
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/xiapex

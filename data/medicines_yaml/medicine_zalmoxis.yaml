@@ -1,0 +1,50 @@
+name: Zalmoxis
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002801
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: allogeneic T cells genetically modified with a retroviral vector
+    encoding for a truncated form of the human low affinity nerve growth factor receptor
+    (ΔLNGFR) and the herpes simplex I virus thymidine kinase (HSV-TK Mut2)
+  active_substance: allogeneic T cells genetically modified with a retroviral vector
+    encoding for a truncated form of the human low affinity nerve growth factor receptor
+    (ΔLNGFR) and the herpes simplex I virus thymidine kinase (HSV-TK Mut2)
+therapeutic_information:
+  therapeutic_area_mesh: Hematopoietic Stem Cell Transplantation;Graft vs Host Disease
+  atc_code_human: L01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Zalmoxis is indicated as adjunctive treatment in haploidentical
+    haematopoietic stem cell transplantation (HSCT) of adult patients with high-risk
+    haematological malignancies.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: MolMed SpA
+  european_commission_decision_date: 26/07/2018
+  marketing_authorisation_date: 18/08/2016
+  opinion_adopted_date: 23/06/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 26/07/2018
+  last_updated: 14/02/2020
+  latest_procedure: II/0009/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zalmoxis

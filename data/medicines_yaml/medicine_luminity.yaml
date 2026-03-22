@@ -1,0 +1,50 @@
+name: Luminity
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000654
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: perflutren
+  active_substance: perflutren
+therapeutic_information:
+  therapeutic_area_mesh: Echocardiography
+  atc_code_human: V08DA04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: This medicinal product is for diagnostic use only. Luminity
+    is an ultrasound contrast-enhancing agent for use in patients in whom non-contrast
+    echocardiography was suboptimal (suboptimal is considered to indicate that at
+    least two of six segments in the 4- or 2-chamber view of the ventricular border
+    were not evaluable) and who have suspected or established coronary artery disease,
+    to provide opacification of cardiac chambers and improvement of left ventricular
+    endocardial border delineation at both rest and stress.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Lantheus EU Limited
+  european_commission_decision_date: 01/06/2023
+  marketing_authorisation_date: 20/09/2006
+  opinion_adopted_date: 27/07/2006
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '17'
+metadata:
+  first_published: 04/05/2018
+  last_updated: 28/06/2023
+  latest_procedure: 0042/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/luminity

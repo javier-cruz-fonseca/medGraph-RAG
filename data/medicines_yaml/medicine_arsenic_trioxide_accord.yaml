@@ -1,0 +1,52 @@
+name: Arsenic trioxide Accord
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005175
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: arsenic trioxide
+  active_substance: arsenic trioxide
+therapeutic_information:
+  therapeutic_area_mesh: Leukemia, Promyelocytic, Acute
+  atc_code_human: L01XX27
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Arsenic trioxide is indicated for induction of remission,
+    and consolidation in adult patients with:  Newly diagnosed low-to-intermediate
+    risk acute promyelocytic leukaemia (APL) (white blood cell count, ? 10 x 103/?l)
+    in combination with all-trans-retinoic acid (ATRA) Relapsed/refractory acute promyelocytic
+    leukaemia (APL)(Previous treatment should have included a retinoid and chemotherapy)
+    characterised by the presence of the t(15;17) translocation and/or the presence
+    of the promyelocytic leukaemia/retinoic-acid-receptor-alpha (PML/RAR-alpha) gene.The
+    response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide
+    has not been examined.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 13/03/2026
+  marketing_authorisation_date: 14/11/2019
+  opinion_adopted_date: 19/09/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 26/11/2019
+  last_updated: 13/03/2026
+  latest_procedure: VR/0000319865
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-accord

@@ -1,0 +1,61 @@
+name: Tocilizumab STADA (previously Tofidence)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005984
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: tocilizumab
+  active_substance: tocilizumab
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Rheumatoid;COVID-19 virus infection;Arthritis,
+    Juvenile Rheumatoid
+  atc_code_human: L04AC07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Rheumatoid arthritis (RA): - the treatment of severe, active
+    and progressive rheumatoid arthritis (RA) in adults not previously treated with
+    methotrexate (MTX) (monotherapy or in combination with MTX). - the treatment of
+    moderate to severe active RA in adult patients who have either responded inadequately
+    to, or who were intolerant to, previous therapy with one or more disease-modifying
+    anti-rheumatic drugs (DMARDs) or tumor necrosis factor (TNF) antagonists (monotherapy
+    or in combination with MTX). Coronavirus disease 2019 (COVID-19): the treatment
+    of coronavirus disease 2019 (COVID-19) in adults who are receiving systemic corticosteroids
+    and require supplemental oxygen or mechanical ventilation. Polyarticular juvenile
+    idiopathic arthritis (pJIA): the treatment of juvenile idiopathic polyarthritis
+    (PJIA; rheumatoid factor positive or negative and extended oligoarthritis) in
+    patients 2 years of age and older, who have responded inadequately to previous
+    therapy with MTX (monotherapy or in combination with MTX). Systemic juvenile idiopathic
+    arthritis (sJIA): the treatment of active systemic juvenile idiopathic arthritis
+    (sJIA) in patients 2 years of age and older, who have responded inadequately to
+    previous therapy with NSAIDs and systemic corticosteroids (monotherapy or in combination
+    with MTX).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: STADA Arzneimittel AG
+  european_commission_decision_date: 15/01/2026
+  marketing_authorisation_date: 20/06/2024
+  opinion_adopted_date: 25/04/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 10/07/2024
+  last_updated: 05/02/2026
+  latest_procedure: VR/0000320498
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tocilizumab-stada

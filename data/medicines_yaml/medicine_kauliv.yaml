@@ -1,0 +1,49 @@
+name: Kauliv
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004932
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: teriparatide
+  active_substance: teriparatide
+therapeutic_information:
+  therapeutic_area_mesh: Osteoporosis;Osteoporosis, Postmenopausal
+  atc_code_human: H05AA02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Kauliv is indicated in adults. Treatment of osteoporosis
+    in postmenopausal women and in men at increased risk of fracture (see section
+    5.1). In postmenopausal women, a significant reduction in the incidence of vertebral
+    and non-vertebral fractures but not hip fractures has been demonstrated. Treatment
+    of osteoporosis associated with sustained systemic glucocorticoid therapy in women
+    and men at increased risk for fracture (see section 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Strides Pharma (Cyprus) Limited
+  european_commission_decision_date: 22/11/2024
+  marketing_authorisation_date: 12/01/2023
+  opinion_adopted_date: 10/11/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 18/07/2022
+  last_updated: 25/11/2024
+  latest_procedure: IA/0005/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/kauliv

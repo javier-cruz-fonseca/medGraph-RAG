@@ -1,0 +1,49 @@
+name: Ervebo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004554
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: Ebola Zaire vaccine (rVSV∆G-ZEBOV-GP, live)
+  active_substance: recombinant vesicular stomatitis virus (strain indiana) with a
+    deletion of the envelope glycoprotein, replaced with the zaire ebolavirus (strain
+    kikwit 1995) surface glycoprotein
+therapeutic_information:
+  therapeutic_area_mesh: Hemorrhagic Fever, Ebola
+  atc_code_human: ''
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ervebo is indicated for active immunization of individuals
+    1&nbsp;year&nbsp;of age or older to protect against Ebola Virus Disease (EVD)
+    caused by Zaire Ebola virus. The use of Ervebo should be in accordance with official
+    recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merck Sharp & Dohme B.V.
+  european_commission_decision_date: 27/11/2025
+  marketing_authorisation_date: 11/11/2019
+  opinion_adopted_date: 17/10/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 12/12/2019
+  last_updated: 16/01/2026
+  latest_procedure: VR/0000280470
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ervebo

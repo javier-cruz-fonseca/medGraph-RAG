@@ -1,0 +1,53 @@
+name: Adenuric
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000777
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: febuxostat
+  active_substance: febuxostat
+therapeutic_information:
+  therapeutic_area_mesh: Gout
+  atc_code_human: M04AA03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: '80 mg strength:  Treatment of chronic hyperuricaemia in
+    conditions where urate deposition has already occurred (including a history, or
+    presence of, tophus and/or gouty arthritis). Adenuric is indicated in adults.  120
+    mg strength:  Adenuric is indicated for the treatment of chronic hyperuricaemia
+    in conditions where urate deposition has already occurred (including a history,
+    or presence of, tophus and/or gouty arthritis). Adenuric is indicated for the
+    prevention and treatment of hyperuricaemia in adult patients undergoing chemotherapy
+    for haematologic malignancies at intermediate to high risk of Tumor Lysis Syndrome
+    (TLS). Adenuric is indicated in adults.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Menarini International Operations Luxembourg S.A.
+    (MIOL)
+  european_commission_decision_date: 12/09/2024
+  marketing_authorisation_date: 21/04/2008
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '25'
+metadata:
+  first_published: 31/05/2018
+  last_updated: 26/02/2026
+  latest_procedure: N/0073
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/adenuric

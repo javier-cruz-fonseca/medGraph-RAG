@@ -1,0 +1,54 @@
+name: DaTSCAN
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000266
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ioflupane (123l)
+  active_substance: ioflupane (123l)
+therapeutic_information:
+  therapeutic_area_mesh: Tomography, Emission-Computed, Single-Photon;Lewy Body Disease;Parkinson
+    Disease;Alzheimer Disease
+  atc_code_human: V09AB03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'This medicinal product is for diagnostic use only. DaTSCAN
+    is indicated for detecting loss of functional dopaminergic neuron terminals in
+    the striatum:  In adult patients with clinically uncertain Parkinsonian syndromes,
+    for example those with early symptoms, in order to help differentiate essential
+    tremor from Parkinsonian syndromes related to idiopathic Parkinson’s disease,
+    multiple system atrophy and progressive supranuclear palsy. DaTSCAN is unable
+    to discriminate between Parkinson''s disease, multiple system atrophy and progressive
+    supranuclear palsy. In adult patients, to help differentiate probable dementia
+    with Lewy bodies from Alzheimer’s disease. DaTSCAN is unable to discriminate between
+    dementia with Lewy bodies and Parkinson’s disease dementia.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GE Healthcare B.V.
+  european_commission_decision_date: 22/01/2026
+  marketing_authorisation_date: 27/07/2000
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 19/07/2018
+  last_updated: 25/02/2026
+  latest_procedure: VR/0000310773
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/datscan

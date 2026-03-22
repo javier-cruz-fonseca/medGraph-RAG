@@ -1,0 +1,55 @@
+name: Calquence
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005299
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: acalabrutinib
+  active_substance: acalabrutinib;acalabrutinib maleate
+therapeutic_information:
+  therapeutic_area_mesh: Leukemia, Lymphocytic, Chronic, B-Cell
+  atc_code_human: L01EL02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Calquence as monotherapy or in combination with obinutuzumab
+    is indicated for the treatment of adult patients with previously untreated chronic
+    lymphocytic leukaemia (CLL).Calquence in combination with venetoclax with or without
+    obinutuzumab is indicated for the treatment of adult patients with previously
+    untreated chronic lymphocytic leukaemia (CLL).Calquence as monotherapy is indicated
+    for the treatment of adult patients with chronic lymphocytic leukaemia (CLL) who
+    have received at least one prior therapy.Calquence in combination with bendamustine
+    and rituximab (BR) is indicated for the treatment of adult patients with previously
+    untreated mantle cell lymphoma (MCL) who are not eligible for autologous stem
+    cell transplant (ASCT).Calquence as monotherapy is indicated for the treatment
+    of adult patients with relapsed or refractory mantle cell lymphoma (MCL) not previously
+    treated with a BTK inhibitor.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: AstraZeneca AB
+  european_commission_decision_date: 28/08/2025
+  marketing_authorisation_date: 05/11/2020
+  opinion_adopted_date: 05/11/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '11'
+metadata:
+  first_published: 11/11/2020
+  last_updated: 19/09/2025
+  latest_procedure: R/0000247050
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/calquence

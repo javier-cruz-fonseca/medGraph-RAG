@@ -1,0 +1,56 @@
+name: Ketek
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000354
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: telithromycin
+  active_substance: telithromycin
+therapeutic_information:
+  therapeutic_area_mesh: Sinusitis;Tonsillitis;Bronchitis, Chronic;Pharyngitis;Community-Acquired
+    Infections;Pneumonia, Bacterial
+  atc_code_human: J01FA15
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'When prescribing Ketek, consideration should be given to
+    official guidance on the appropriate use ofantibacterial agents and the local
+    prevalence of resistance. Ketek is indicated for the treatment of the following
+    infections: In patients of 18 years and older  community-acquired pneumonia, mild
+    or moderate. when treating infections caused by known or suspected beta-lactam-
+    and / or macrolide-resistant strains (according to history of patients or national
+    and / or regional resistance data) covered by the antibacterial spectrum of telithromycin:  acute
+    exacerbation of chronic bronchitis; acute sinusitis;    In patients of 12 years
+    and older  tonsillitis / pharyngitis caused by Streptococcus pyogenes, as an alternative
+    when beta-lactam antibiotics are not appropriate in countries / regions with a
+    significant prevalence of macrolide-resistant S. pyogenes, when mediated by ermTR
+    or mefA.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Aventis Pharma S.A.
+  european_commission_decision_date: 07/02/2017
+  marketing_authorisation_date: 09/07/2001
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 07/06/2019
+  suspension_date: ''
+  revision_number: '25'
+metadata:
+  first_published: 07/02/2017
+  last_updated: 19/06/2019
+  latest_procedure: N/0068
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ketek

@@ -1,0 +1,72 @@
+name: Imfinzi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004771
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: durvalumab
+  active_substance: durvalumab
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Non-Small-Cell Lung
+  atc_code_human: L01XC28
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Non-Small Cell Lung Cancer (NSCLC)IMFINZI in combination
+    with platinum-based chemotherapy as neoadjuvant treatment, followed by IMFINZI
+    as monotherapy as adjuvant treatment, is indicated for the treatment of adults
+    with resectable NSCLC at high risk of recurrence and no EGFR mutations or ALK
+    rearrangements (for selection criteria, see section 5.1). IMFINZI as monotherapy
+    is indicated for the treatment of locally advanced, unresectable non small cell
+    lung cancer (NSCLC) in adults whose tumours express PD-L1 on ≥ 1% of tumour cells
+    and whose disease has not progressed following platinum based chemoradiation therapy
+    (see section 5.1).IMFINZI in combination with tremelimumab and platinum-based
+    chemotherapy is indicated for the first-line treatment of adults with metastatic
+    NSCLC with no sensitising EGFR mutations or ALK positive mutations. Small Cell
+    Lung Cancer (SCLC)IMFINZI in combination with etoposide and either carboplatin
+    or cisplatin is indicated for the first-line treatment of adults with extensive-stage
+    small cell lung cancer (ES-SCLC). Biliary Tract Cancer (BTC)IMFINZI in combination
+    with gemcitabine and cisplatin is indicated for the first line treatment of adults
+    with unresectable or metastatic biliary tract cancer (BTC). Hepatocellular Carcinoma
+    (HCC)IMFINZI as monotherapy is indicated for the first line treatment of adults
+    with advanced or unresectable hepatocellular carcinoma (HCC).&nbsp; IMFINZI in
+    combination with tremelimumab is indicated for the first line treatment of adults
+    with advanced or unresectable hepatocellular carcinoma (HCC). Endometrial Cancer&nbsp;IMFINZI
+    in combination with carboplatin and paclitaxel is indicated for the first-line
+    treatment of adults with primary advanced or recurrent endometrial cancer who
+    are candidates for systemic therapy, followed by maintenance treatment with:&nbsp;-
+    IMFINZI as monotherapy in endometrial cancer that is mismatch repair deficient
+    (dMMR)&nbsp;- IMFINZI in combination with olaparib in endometrial cancer that
+    is mismatch repair proficient (pMMR). Muscle Invasive Bladder Cancer (MIBC)&nbsp;IMFINZI
+    in combination with gemcitabine and cisplatin as neoadjuvant treatment, followed
+    by IMFINZI as monotherapy adjuvant treatment after radical cystectomy, is indicated
+    for the treatment of adults with resectable muscle invasive bladder cancer (MIBC).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: AstraZeneca AB
+  european_commission_decision_date: 12/02/2026
+  marketing_authorisation_date: 21/09/2018
+  opinion_adopted_date: 26/07/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '27'
+metadata:
+  first_published: 30/10/2018
+  last_updated: 19/02/2026
+  latest_procedure: VR/0000296305
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/imfinzi

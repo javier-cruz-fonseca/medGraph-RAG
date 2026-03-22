@@ -1,0 +1,47 @@
+name: Ixense
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000328
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: apomorphine
+  active_substance: apomorphine hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Erectile Dysfunction
+  atc_code_human: G04BE
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of men with erectile dysfunction, which is the
+    inability to achieve or maintain a penile erection sufficient for satisfactory
+    sexual performance.In order for Ixense to be effective, sexual stimulation is
+    required.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda Europe R Centre Ltd.
+  european_commission_decision_date: 28/09/2004
+  marketing_authorisation_date: 28/05/2001
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 28/09/2004
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 28/09/2004
+  last_updated: 10/11/2004
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ixense

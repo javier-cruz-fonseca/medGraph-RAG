@@ -1,0 +1,45 @@
+name: Versiguard SARS CoV2
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/005988
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: recombinant SARS CoV2 spike protein
+  active_substance: recombinant SARS CoV2 spike protein
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: QI20CX
+  atcvet_code_veterinary: QI20CX
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Active immunisation of mink from 6 weeks of age to reduce
+    infection and virus shedding following infection with SARS CoV2.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Zoetis Belgium
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 15/09/2022
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 25/01/2023
+  last_updated: ''
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/versiguard-sars-cov2

@@ -1,0 +1,45 @@
+name: Pantoloc Control
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001100
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: pantoprazole
+  active_substance: pantoprazole
+therapeutic_information:
+  therapeutic_area_mesh: Gastroesophageal Reflux
+  atc_code_human: A02BC02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Short-term treatment of reflux symptoms (e.g. heartburn,
+    acid regurgitation) in adults.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda GmbH
+  european_commission_decision_date: 14/01/2021
+  marketing_authorisation_date: 11/06/2009
+  opinion_adopted_date: 19/02/2009
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '18'
+metadata:
+  first_published: 25/06/2018
+  last_updated: 18/01/2022
+  latest_procedure: WS/1891/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pantoloc-control

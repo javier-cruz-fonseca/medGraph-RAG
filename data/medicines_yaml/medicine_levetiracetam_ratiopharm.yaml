@@ -1,0 +1,52 @@
+name: Levetiracetam ratiopharm
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002244
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: levetiracetam
+  active_substance: levetiracetam
+therapeutic_information:
+  therapeutic_area_mesh: Epilepsy
+  atc_code_human: N03AX14
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Levetiracetam ratiopharm is indicated as monotherapy in
+    the treatment of partial onset seizures with or without secondary generalisation
+    in patients from 16 years of age with newly diagnosed epilepsy. Levetiracetam
+    ratiopharm is indicated as adjunctive therapy:  in the treatment of partial onset
+    seizures with or without secondary generalisation in adults, children and infants
+    from 1 month of age with epilepsy; in the treatment of myoclonic seizures in adults
+    and adolescents from 12 years of age with juvenile myoclonic epilepsy; in the
+    treatment of primary generalised tonic-clonic seizures in adults and adolescents
+    from 12 years of age with idiopathic generalised epilepsy.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: ratiopharm GmbH
+  european_commission_decision_date: 22/01/2026
+  marketing_authorisation_date: 26/08/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '17'
+metadata:
+  first_published: 10/08/2017
+  last_updated: 26/01/2026
+  latest_procedure: VR/0000308189
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-ratiopharm

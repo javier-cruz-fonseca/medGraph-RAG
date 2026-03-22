@@ -1,0 +1,45 @@
+name: Vimizim
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002779
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: elosulfase alfa
+  active_substance: recombinant human n-acetylgalactosamine-6-sulfatase
+therapeutic_information:
+  therapeutic_area_mesh: Mucopolysaccharidosis IV
+  atc_code_human: A16AB12
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Vimizim is indicated for the treatment of mucopolysaccharidosis,
+    type IVA (Morquio A Syndrome, MPS IVA) in patients of all ages.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: BioMarin International Limited
+  european_commission_decision_date: 09/04/2021
+  marketing_authorisation_date: 27/04/2014
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 16/11/2017
+  last_updated: 23/10/2025
+  latest_procedure: IB/0043
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vimizim

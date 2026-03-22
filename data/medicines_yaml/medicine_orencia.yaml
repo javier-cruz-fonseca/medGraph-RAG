@@ -1,0 +1,62 @@
+name: Orencia
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000701
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: abatacept
+  active_substance: abatacept
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Psoriatic;Arthritis, Juvenile Rheumatoid;Arthritis,
+    Rheumatoid
+  atc_code_human: L04AA24
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Rheumatoid arthritisOrencia, in combination with methotrexate,
+    is indicated for:  the treatment of moderate to severe active rheumatoid arthritis
+    (RA) in adult patients who responded inadequately to previous therapy with one
+    or more disease-modifying anti-rheumatic drugs (DMARDs) including methotrexate
+    (MTX) or a tumour necrosis factor (TNF)-alpha inhibitor. the treatment of highly
+    active and progressive disease in adult patients with rheumatoid arthritis not
+    previously treated with methotrexate.  A reduction in the progression of joint
+    damage and improvement of physical function have been demonstrated during combination
+    treatment with abatacept and methotrexate. Psoriatic arthritis Orencia, alone
+    or in combination with methotrexate (MTX), is indicated for the treatment of active
+    psoriatic arthritis (PsA) in adult patients when the response to previous DMARD
+    therapy including MTX has been inadequate, and for whom additional systemic therapy
+    for psoriatic skin lesions is not required.  Polyarticular juvenile idiopathic
+    arthritis Orencia in combination with methotrexate is indicated for the treatment
+    of moderate to severe active polyarticular juvenile idiopathic arthritis (pJIA)
+    in paediatric patients 2 years of age and older who have had an inadequate response
+    to previous DMARD therapy. Orencia can be given as monotherapy in case of intolerance
+    to methotrexate or when treatment with methotrexate is inappropriate.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG
+  european_commission_decision_date: 24/06/2024
+  marketing_authorisation_date: 21/05/2007
+  opinion_adopted_date: 22/03/2007
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '41'
+metadata:
+  first_published: 25/07/2017
+  last_updated: 19/05/2025
+  latest_procedure: IB/0168
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/orencia

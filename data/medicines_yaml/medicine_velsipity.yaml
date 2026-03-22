@@ -1,0 +1,47 @@
+name: Velsipity
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006007
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: etrasimod
+  active_substance: Etrasimod arginine
+therapeutic_information:
+  therapeutic_area_mesh: Colitis, Ulcerative
+  atc_code_human: L04AE05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Velsipity is indicated for the treatment of patients 16
+    years of age and older with moderately to severely active ulcerative colitis (UC)
+    who have had an inadequate response, lost response, or were intolerant to either
+    conventional therapy, or a biological agent.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Europe MA EEIG
+  european_commission_decision_date: 11/09/2025
+  marketing_authorisation_date: 16/02/2024
+  opinion_adopted_date: 14/12/2023
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 21/02/2024
+  last_updated: 12/09/2025
+  latest_procedure: EMA/VR/0000293340
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/velsipity

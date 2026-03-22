@@ -1,0 +1,47 @@
+name: Lumoxiti
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005322
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: moxetumomab pasudotox
+  active_substance: moxetumomab pasudotox
+therapeutic_information:
+  therapeutic_area_mesh: Leukemia, Hairy Cell
+  atc_code_human: L01X
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Lumoxiti as monotherapy is indicated for the treatment of
+    adult patients with relapsed or refractory hairy cell leukaemia (HCL) after receiving
+    at least two prior systemic therapies, including treatment with a purine nucleoside
+    analogue (PNA).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: AstraZeneca AB
+  european_commission_decision_date: 23/07/2021
+  marketing_authorisation_date: 08/02/2021
+  opinion_adopted_date: 10/12/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 09/03/2021
+  last_updated: 11/08/2021
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/lumoxiti

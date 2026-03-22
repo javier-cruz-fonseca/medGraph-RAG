@@ -1,0 +1,54 @@
+name: Beyfortus
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005304
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: nirsevimab
+  active_substance: nirsevimab
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: J06BD08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Beyfortus is indicated for the prevention of Respiratory
+    Syncytial Virus (RSV) lower respiratory tract disease in:i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Neonates and infants during their first RSV season.ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Children up to 24 months of age who remain vulnerable to severe RSV disease through
+    their second RSV season (see section 5.1).Beyfortus should be used in accordance
+    with official recommendations. Beyfortus is indicated for the prevention of Respiratory
+    Syncytial Virus (RSV) lower respiratory tract disease in:i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Neonates and infants during their first RSV season.ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    Children up to 24 months of age who remain vulnerable to severe RSV disease through
+    their second RSV season (see section 5.1).Beyfortus should be used in accordance
+    with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sanofi Winthrop Industrie
+  european_commission_decision_date: 20/02/2026
+  marketing_authorisation_date: 31/10/2022
+  opinion_adopted_date: 15/09/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 14/09/2022
+  last_updated: 23/02/2026
+  latest_procedure: VR/0000324927
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/beyfortus

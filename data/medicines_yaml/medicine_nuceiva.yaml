@@ -1,0 +1,47 @@
+name: Nuceiva
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004587
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: botulinum toxin type a
+  active_substance: Botulinum toxin type A
+therapeutic_information:
+  therapeutic_area_mesh: Skin Aging
+  atc_code_human: M03AX01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Temporary improvement in the appearance of moderate to severe
+    vertical lines between the eyebrows seen at maximum frown (glabellar lines), when
+    the severity of the above facial lines has an important psychological impact in
+    adults below 65 years of age.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Evolus Pharma B.V.
+  european_commission_decision_date: 17/05/2024
+  marketing_authorisation_date: 27/09/2019
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 14/10/2019
+  last_updated: 28/05/2024
+  latest_procedure: R/0037
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/nuceiva

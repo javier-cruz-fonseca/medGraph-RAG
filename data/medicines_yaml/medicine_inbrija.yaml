@@ -1,0 +1,46 @@
+name: Inbrija
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004786
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: levodopa
+  active_substance: levodopa
+therapeutic_information:
+  therapeutic_area_mesh: Parkinson Disease
+  atc_code_human: N04BA01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Inbrija is indicated for the intermittent treatment of episodic
+    motor fluctuations (OFF episodes) in adult patients with Parkinson’s disease (PD)
+    treated with a levodopa/dopa-decarboxylase inhibitor.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merz Therapeutics GmbH
+  european_commission_decision_date: 21/11/2025
+  marketing_authorisation_date: 19/09/2019
+  opinion_adopted_date: 25/07/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 30/09/2019
+  last_updated: 09/12/2025
+  latest_procedure: T/0000303317
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/inbrija

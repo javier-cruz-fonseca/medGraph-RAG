@@ -1,0 +1,60 @@
+name: Absimky
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006585
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: ustekinumab
+  active_substance: ustekinumab
+therapeutic_information:
+  therapeutic_area_mesh: Crohn Disease;Colitis, Ulcerative
+  atc_code_human: L04AC05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Plaque psoriasis ABSIMKY is indicated for the treatment
+    of moderate to severe plaque psoriasis in adults who failed to respond to, or
+    who have a contraindication to, or are intolerant to other systemic therapies
+    including ciclosporin, methotrexate (MTX) or PUVA (psoralen and ultraviolet A).
+    Paediatric plaque psoriasis ABSIMKY is indicated for the treatment of moderate
+    to severe plaque psoriasis in children and adolescent patients from the age of
+    6 years and older, who are inadequately controlled by, or are intolerant to, other
+    systemic therapies or phototherapies. Psoriatic arthritis (PsA) ABSIMKY, alone
+    or in combination with MTX, is indicated for the treatment of active psoriatic
+    arthritis in adult patients when the response to previous non-biological disease-modifying
+    antirheumatic drug (DMARD) therapy has been inadequate. Crohn’s Disease Absimky&nbsp;is&nbsp;indicated&nbsp;for&nbsp;the&nbsp;treatment&nbsp;of&nbsp;adult&nbsp;patients&nbsp;with&nbsp;moderately&nbsp;to&nbsp;severely&nbsp;active&nbsp;Crohn’s
+    disease who have had an inadequate response with, lost response to, or were intolerant
+    to either conventional therapy or a TNFα antagonist or have medical contraindications
+    to such therapies. Ulcerative&nbsp;colitis Absimky&nbsp;is&nbsp;indicated&nbsp;for&nbsp;the&nbsp;treatment&nbsp;of&nbsp;adult&nbsp;patients&nbsp;with&nbsp;moderately&nbsp;to&nbsp;severely&nbsp;active&nbsp;ulcerative
+    colitis who have had an inadequate response with, lost response to, or were intolerant
+    to either conventional therapy or a biologic or have medical contraindications
+    to such therapies.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 20/06/2025
+  marketing_authorisation_date: 12/12/2024
+  opinion_adopted_date: 17/10/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 15/12/2025
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 18/10/2024
+  last_updated: 18/12/2025
+  latest_procedure: VR/0000272447
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/absimky

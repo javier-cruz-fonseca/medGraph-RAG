@@ -1,0 +1,52 @@
+name: Gripovac 3
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000157
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: inactivated influenza-A virus
+  active_substance: inactivated influenza-A virus
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI09AA03
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Active immunisation of pigs from the age of 56 days onwards
+    including pregnant sows against swine influenza caused by subtypes H1N1, H3N2
+    and H1N2 to reduce clinical signs and viral lung load after infection. Onset of
+    immunity: 7 days after primary vaccination. Duration of immunity: 4 months in
+    pigs vaccinated between the age of 56 and 96 days and 6 months in pigs vaccinated
+    for the first time at 96 days and above. Active immunisation of pregnant sows
+    after finished primary immunisation by administration of a single dose 14 days
+    prior to farrowing to develop high colostral immunity which provides clinical
+    protection of piglets for at least 33 days after birth.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merial S.A.S.
+  european_commission_decision_date: 04/12/2014
+  marketing_authorisation_date: 14/01/2010
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 04/12/2014
+  last_updated: 04/09/2018
+  latest_procedure: R/0005
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/gripovac-3

@@ -1,0 +1,50 @@
+name: Brilique
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001241
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ticagrelor
+  active_substance: ticagrelor
+therapeutic_information:
+  therapeutic_area_mesh: Peripheral Vascular Diseases;Acute Coronary Syndrome
+  atc_code_human: B01AC24
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Brilique, co administered with acetylsalicylic acid (ASA),
+    is indicated for the prevention of atherothrombotic events in adult patients with  acute
+    coronary syndromes (ACS) or a history of myocardial infarction (MI) and a high
+    risk of developing an atherothrombotic event  Brilique, co-administered with acetyl
+    salicylic acid (ASA), is indicated for the prevention of atherothrombotic events
+    in adult patients with a history of myocardial infarction (MI occurred at least
+    one year ago) and a high risk of developing an atherothrombotic event.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: AstraZeneca AB
+  european_commission_decision_date: 05/09/2024
+  marketing_authorisation_date: 03/12/2010
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '23'
+metadata:
+  first_published: 18/05/2017
+  last_updated: 24/04/2025
+  latest_procedure: II/0063
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/brilique

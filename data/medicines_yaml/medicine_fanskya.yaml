@@ -1,0 +1,45 @@
+name: Fanskya
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005537
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: Mozafancogene autotemcel
+  active_substance: mozafancogene autotemcel
+therapeutic_information:
+  therapeutic_area_mesh: Fanconi Anemia
+  atc_code_human: ''
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: '&nbsp;Treatment of paediatric patients with Fanconi Anaemia
+    Type A'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Rocket Pharmaceuticals B.V.
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 22/08/2025
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 22/08/2025
+  last_updated: 27/10/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/fanskya

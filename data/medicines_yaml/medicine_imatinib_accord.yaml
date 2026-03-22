@@ -1,0 +1,72 @@
+name: Imatinib Accord
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002681
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: imatinib
+  active_substance: imatinib
+therapeutic_information:
+  therapeutic_area_mesh: Precursor Cell Lymphoblastic Leukemia-Lymphoma;Dermatofibrosarcoma;Myelodysplastic-Myeloproliferative
+    Diseases;Leukemia, Myelogenous, Chronic, BCR-ABL Positive;Hypereosinophilic Syndrome
+  atc_code_human: L01EA01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Imatinib Accord is indicated for the treatment of  adult
+    and paediatric patients with newly diagnosed Philadelphia chromosome (bcr-abl)
+    positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marrow transplantation
+    is not considered as the first line of treatment. adult and paediatric patients
+    with Ph+ CML in chronic phase after failure of interferon-alpha therapy, or in
+    accelerated phase or blast crisis.&nbsp; adult and paediatric patients with newly
+    diagnosed Philadelphia chromosome positive acute lymphoblastic leukaemia (Ph+
+    ALL) integrated with chemotherapy.&nbsp; adult patients with relapsed or refractory
+    Ph+ ALL as monotherapy.&nbsp; adult patients with myelodysplastic/myeloproliferative
+    diseases (MDS/MPD) associated with platelet-derived growth factor receptor (PDGFR)
+    gene re-arrangements.&nbsp; adult patients with advanced hypereosinophilic syndrome
+    (HES) and/or chronic eosinophilic leukaemia (CEL) with FIP1L1-PDGFR? rearrangement.&nbsp;
+    adult patients with unresectable dermatofibrosarcoma protuberans (DFSP) and adult
+    patients with recurrent and/or metastatic DFSP who are not eligible for surgery.
+    the treatment of adult patients with Kit (CD 117) positive unresectable and/or
+    metastatic malignant gastrointestinal stromal tumours (GIST).&nbsp; the adjuvant
+    treatment of adult patients who are at significant risk of relapse following resection
+    of Kit (CD117)-positive GIST.&nbsp;  Patients who have a low or very low risk
+    of recurrence should not receive adjuvant treatment The effect of imatinib on
+    the outcome of bone marrow transplantation has not been determined. In adult and
+    paediatric patients, the effectiveness of imatinib is based on overall haematological
+    and cytogenetic response rates and progression-free survival in CML, on haematological
+    and cytogenetic response rates in Ph+ ALL, MDS/MPD, on haematological response
+    rates in HES/CEL and on objective response rates in adult patients with unresectable
+    and/or metastatic DFSP. The experience with imatinib in patients with MDS/MPD
+    associated with PDGFR gene re-arrangements is very limited (see section 5.1).
+    Except in newly diagnosed chronic phase CML, there are no controlled trials demonstrating
+    a clinical benefit or increased survival for these diseases.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 05/05/2025
+  marketing_authorisation_date: 30/06/2013
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '25'
+metadata:
+  first_published: 16/05/2017
+  last_updated: 06/05/2025
+  latest_procedure: N/0000268278
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/imatinib-accord

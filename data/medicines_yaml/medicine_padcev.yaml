@@ -1,0 +1,49 @@
+name: Padcev
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005392
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: enfortumab vedotin
+  active_substance: Enfortumab vedotin
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Transitional Cell;Urologic Neoplasms
+  atc_code_human: L01FX13
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Padcev, in combination with pembrolizumab, is indicated
+    for the first-line treatment of adult patients with unresectable or metastatic
+    urothelial cancer who are eligible for platinum-containing chemotherapy.&nbsp;
+    Padcev as monotherapy is indicated for the treatment of adult patients with locally
+    advanced or metastatic urothelial cancer who have previously received a platinum-containing
+    chemotherapy and a programmed death receptor 1 or programmed death ligand 1 inhibitor.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Astellas Pharma Europe B.V.
+  european_commission_decision_date: 17/09/2025
+  marketing_authorisation_date: 13/04/2022
+  opinion_adopted_date: 24/02/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 05/05/2022
+  last_updated: 25/09/2025
+  latest_procedure: PSUSA/00010989/202412
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/padcev

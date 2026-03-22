@@ -1,0 +1,44 @@
+name: Pelgraz Paediatric
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006348
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: pegfilgrastim
+  active_substance: pegfilgrastim
+therapeutic_information:
+  therapeutic_area_mesh: Neutropenia;Febrile Neutropenia;Cancer
+  atc_code_human: L03AA13
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of neutropenia in paediatric patients
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 20/02/2025
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 28/02/2025
+  last_updated: 04/06/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pelgraz-paediatric

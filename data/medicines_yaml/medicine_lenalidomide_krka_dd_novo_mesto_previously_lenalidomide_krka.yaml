@@ -1,0 +1,66 @@
+name: Lenalidomide Krka d.d. Novo mesto (previously Lenalidomide Krka)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005734
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: lenalidomide
+  active_substance: lenalidomide hydrochloride monohydrate
+therapeutic_information:
+  therapeutic_area_mesh: Multiple Myeloma;Lymphoma, Follicular
+  atc_code_human: L04AX04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Multiple myelomaLenalidomide krka d.d. Novo mesto as monotherapy
+    is indicated for the maintenance treatment of adult patients with newly diagnosed
+    multiple myeloma who have undergone autologous stem cell transplantation. Lenalidomide
+    krka d.d. Novo mesto as combination therapy with dexamethasone, or bortezomib
+    and dexamethasone, or melphalan and prednisone (see section 4.2) is indicated
+    for the treatment of adult patients with previously untreated multiple myeloma
+    who are not eligible for transplant. Lenalidomide krka d.d. Novo mesto in combination
+    with dexamethasone is indicated for the treatment of multiple myeloma in adult
+    patients who have received at least one prior therapy. Follicular lymphomaLenalidomide
+    krka d.d. Novo mesto in combination with rituximab (anti-CD20 antibody) is indicated
+    for the treatment of adult patients with previously treated follicular lymphoma
+    (Grade 1 – 3a). Multiple myelomaLenalidomide krka d.d. Novo mesto as monotherapy
+    is indicated for the maintenance treatment of adult patients with newly diagnosed
+    multiple myeloma who have undergone autologous stem cell transplantation. Lenalidomide
+    krka d.d. Novo mesto as combination therapy with dexamethasone, or bortezomib
+    and dexamethasone, or melphalan and prednisone (see section 4.2) is indicated
+    for the treatment of adult patients with previously untreated multiple myeloma
+    who are not eligible for transplant. Lenalidomide krka d.d. Novo mesto in combination
+    with dexamethasone is indicated for the treatment of multiple myeloma in adult
+    patients who have received at least one prior therapy. Follicular lymphomaLenalidomide
+    krka d.d. Novo mesto in combination with rituximab (anti-CD20 antibody) is indicated
+    for the treatment of adult patients with previously treated follicular lymphoma
+    (Grade 1 – 3a).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Krka, d.d., Novo mesto
+  european_commission_decision_date: 13/12/2021
+  marketing_authorisation_date: 11/02/2021
+  opinion_adopted_date: 10/12/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 18/02/2021
+  last_updated: 17/12/2021
+  latest_procedure: IB/0004
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/lenalidomide-krka-dd-novo-mesto

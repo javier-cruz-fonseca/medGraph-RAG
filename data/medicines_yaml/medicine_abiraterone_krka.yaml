@@ -1,0 +1,51 @@
+name: Abiraterone Krka
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005649
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: abiraterone acetate
+  active_substance: abiraterone acetate
+therapeutic_information:
+  therapeutic_area_mesh: Prostatic Neoplasms
+  atc_code_human: L02BX03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Abiraterone Krka is indicated with prednisone or prednisolone
+    for:  the treatment of newly diagnosed high risk metastatic hormone sensitive
+    prostate cancer (mHSPC) in adult men in combination with androgen deprivation
+    therapy (ADT) (see section 5.1) the treatment of metastatic castration resistant
+    prostate cancer (mCRPC) in adult men who are asymptomatic or mildly symptomatic
+    after failure of androgen deprivation therapy in whom chemotherapy is not yet
+    clinically indicated (see section 5.1) the treatment of mCRPC in adult men whose
+    disease has progressed on or after a docetaxel-based chemotherapy regimen.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Krka, d.d., Novo mesto
+  european_commission_decision_date: 18/12/2025
+  marketing_authorisation_date: 24/06/2021
+  opinion_adopted_date: 22/04/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 23/11/2021
+  last_updated: 16/01/2026
+  latest_procedure: R/0000284809
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/abiraterone-krka

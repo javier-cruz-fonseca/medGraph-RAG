@@ -1,0 +1,58 @@
+name: Ibaflin
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000052
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: ibafloxacin
+  active_substance: ibafloxacin
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QJ01MA96
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Dogs: Ibaflin is indicated for the treatment of the following
+    conditions in dogs:  dermal infections (pyoderma - superficial and deep, wounds,
+    abscesses) caused by susceptible strains of Staphylococci, Escherichia coli and
+    Proteus mirabilis; acute, uncomplicated urinary-tract infections, caused by susceptible
+    strains of Staphylococci, Proteus species, Enterobacter spp., E. coli and Klebsiella
+    spp.; respiratory-tract infections (upper tract) caused by susceptible strains
+    of Staphylococci, E. coli, and Klebsiella spp.  Ibaflin gel is indicated in dogs
+    for the treatment of the following conditions:  dermal infections (pyoderma -
+    superficial and deep, wounds, abscesses) caused by susceptible pathogens such
+    as Staphylococcus spp., E. coli and P. mirabilis.  Cats: Ibaflin gel is indicated
+    in cats for treatment of the following conditions:  dermal infections (soft-tissue
+    infections - wounds, abscesses) caused by susceptible pathogens such as Staphylococcus
+    spp., E. coli, Proteus spp. and Pasteurella spp.; upper respiratory-tract infections
+    caused by susceptible pathogens such as Staphylococcus spp., E. coli, Klebsiella
+    spp. and Pasteurella spp.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Intervet International BV
+  european_commission_decision_date: 26/05/2010
+  marketing_authorisation_date: 13/06/2000
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 26/05/2010
+  last_updated: 10/07/2013
+  latest_procedure: R/0019
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/ibaflin

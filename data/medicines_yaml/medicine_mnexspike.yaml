@@ -1,0 +1,49 @@
+name: mNexspike
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006428
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: COVID-19 mRNA vaccine
+  active_substance: single-stranded, 5’-capped messenger RNA (mRNA) produced using
+    a cell-free in vitro transcription from the corresponding DNA template, encoding
+    the N-terminal domain and receptor-binding domain of the viral spike (S) protein
+    of SARS-CoV-2
+therapeutic_information:
+  therapeutic_area_mesh: COVID-19 virus infection
+  atc_code_human: J07BN01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: mNEXSPIKE is indicated for active immunisation to prevent
+    COVID-19 caused by SARS-CoV-2 in individuals 12 years of age and older. The use
+    of this vaccine should be in accordance with official recommendations.&nbsp;
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Moderna Biotech Spain, S.L.
+  european_commission_decision_date: ''
+  marketing_authorisation_date: 12/02/2026
+  opinion_adopted_date: 11/12/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 12/12/2025
+  last_updated: 04/03/2026
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/mnexspike

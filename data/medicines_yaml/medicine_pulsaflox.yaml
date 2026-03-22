@@ -1,0 +1,48 @@
+name: Pulsaflox
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000060
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: difloxacin
+  active_substance: difloxacin
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QJ01MA
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: In chickens and turkeys Pulsaflox oral solution is indicated
+    for treatment of chronic respiratory infections caused by sensitive strains of
+    Escherichia coli and Mycoplasma gallisepticum.In turkeys Pulsaflox oral solution
+    is also indicated for the treatment of infections caused by Pasteurella multocida.Pulsaflox
+    oral solution should only be used based on susceptibility testing.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Virbac S.A.
+  european_commission_decision_date: 25/03/2010
+  marketing_authorisation_date: 16/11/2000
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 25/03/2010
+  last_updated: 25/03/2010
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/pulsaflox

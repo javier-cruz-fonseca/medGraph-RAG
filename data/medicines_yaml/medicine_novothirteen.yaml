@@ -1,0 +1,45 @@
+name: NovoThirteen
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002284
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: catridecacog
+  active_substance: catridecacog
+therapeutic_information:
+  therapeutic_area_mesh: Blood Coagulation Disorders, Inherited
+  atc_code_human: B02BD11
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Long-term prophylactic treatment of bleeding in adult and
+    paediatric patients 6 years and above with congenital factor-XIII-A-subunit deficiency.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novo Nordisk A/S
+  european_commission_decision_date: 27/08/2020
+  marketing_authorisation_date: 03/09/2012
+  opinion_adopted_date: 24/05/2012
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 24/05/2017
+  last_updated: 21/03/2022
+  latest_procedure: II/0026
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/novothirteen

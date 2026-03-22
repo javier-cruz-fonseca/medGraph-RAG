@@ -1,0 +1,51 @@
+name: Welireg
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005636
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: belzutifan
+  active_substance: belzutifan
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Renal Cell;von Hippel-Lindau Disease
+  atc_code_human: L01XX74
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Renal cell carcinoma (RCC)  Welireg is indicated as monotherapy
+    for the treatment of adult patients with advanced clear cell renal cell carcinoma
+    that progressed following two or more lines of therapy that included a PD-(L)1
+    inhibitor and at least two VEGF-targeted therapies.  von Hippel-Lindau (VHL) disease-associated
+    tumours  Welireg is indicated as monotherapy for the treatment of adult patients
+    with von Hippel-Lindau disease who require therapy for associated, localised renal
+    cell carcinoma (RCC), central nervous system (CNS) haemangioblastomas, or pancreatic
+    neuroendocrine tumours (pNET), and for whom localised procedures are unsuitable.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merck Sharp & Dohme B.V.
+  european_commission_decision_date: 08/01/2026
+  marketing_authorisation_date: 12/02/2025
+  opinion_adopted_date: 12/12/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 13/12/2024
+  last_updated: 13/01/2026
+  latest_procedure: R/0000290222
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/welireg

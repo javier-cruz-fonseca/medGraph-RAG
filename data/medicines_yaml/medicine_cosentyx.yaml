@@ -1,0 +1,67 @@
+name: Cosentyx
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003729
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: secukinumab
+  active_substance: secukinumab
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Psoriatic;Psoriasis;Spondylitis, Ankylosing
+  atc_code_human: L04AC10
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Plaque psoriasis Cosentyx is indicated for the treatment
+    of moderate to severe plaque psoriasis in adults and children from the age of
+    6 years old who are candidates for systemic therapy. Hidradenitis suppurativa
+    (HS) Cosentyx is indicated for the treatment of active moderate to severe hidradenitis
+    suppurativa (acne inversa) in adults with an inadequate response to conventional
+    systemic HS therapy. Psoriatic arthritis Cosentyx, alone or in combination with
+    methotrexate (MTX), is indicated for the treatment of active psoriatic arthritis
+    in adult patients when the response to previous disease modifying anti rheumatic
+    drug (DMARD) therapy has been inadequate. Axial spondyloarthritis (axSpA) Ankylosing
+    spondylitis (AS, radiographic axial spondyloarthritis) Cosentyx is indicated for
+    the treatment of active ankylosing spondylitis in adults who have responded inadequately
+    to conventional therapy. Non-radiographic axial spondyloarthritis (nr-axSpA) Cosentyx
+    is indicated for the treatment of active non-radiographic axial spondyloarthritis
+    with objective signs of inflammation as indicated by elevated C-reactive protein
+    (CRP) and/or magnetic resonance imaging (MRI) evidence in adults who have responded
+    inadequately to non steroidal anti inflammatory drugs (NSAIDs). Juvenile idiopathic
+    arthritis (JIA) Enthesitis-related arthritis (ERA) Cosentyx, alone or in combination
+    with methotrexate (MTX), is indicated for the treatment of active enthesitis-related
+    arthritis in patients 6 years and older whose disease has responded inadequately
+    to, or who cannot tolerate, conventional therapy. Juvenile psoriatic arthritis
+    (JPsA) Cosentyx, alone or in combination with methotrexate (MTX), is indicated
+    for the treatment of active juvenile psoriatic arthritis in patients 6 years and
+    older whose disease has responded inadequately to, or who cannot tolerate, conventional
+    therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 16/10/2025
+  marketing_authorisation_date: 14/01/2015
+  opinion_adopted_date: 20/11/2014
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '43'
+metadata:
+  first_published: 07/06/2018
+  last_updated: 18/12/2025
+  latest_procedure: VR/0000304436
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cosentyx

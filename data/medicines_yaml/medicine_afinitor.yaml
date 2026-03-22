@@ -1,0 +1,56 @@
+name: Afinitor
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001038
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: everolimus
+  active_substance: everolimus
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Renal Cell;Breast Neoplasms;Pancreatic Neoplasms
+  atc_code_human: L01XE10
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Hormone-receptor-positive advanced breast cancer Afinitor
+    is indicated for the treatment of hormone-receptor-positive, HER2/neu-negative
+    advanced breast cancer, in combination with exemestane, in post-menopausal women
+    without symptomatic visceral disease after recurrence or progression following
+    a non-steroidal aromatase inhibitor. Neuroendocrine tumours of pancreatic origin
+    Afinitor is indicated for the treatment of unresectable or metastatic, well or
+    moderately differentiated neuroendocrine tumours of pancreatic origin in adults
+    with progressive disease. Neuroendocrine tumours of gastrointestinal or lung origin
+    Afinitor is indicated for the treatment of unresectable or metastatic, well-differentiated
+    (Grade 1 or Grade 2) non-functional neuroendocrine tumours of gastrointestinal
+    or lung origin in adults with progressive disease. Renal-cell carcinoma Afinitor
+    is indicated for the treatment of patients with advanced renal-cell carcinoma,
+    whose disease has progressed on or after treatment with VEGF-targeted therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 20/11/2025
+  marketing_authorisation_date: 02/08/2009
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '33'
+metadata:
+  first_published: 08/05/2018
+  last_updated: 20/11/2025
+  latest_procedure: VR/0000310437
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/afinitor

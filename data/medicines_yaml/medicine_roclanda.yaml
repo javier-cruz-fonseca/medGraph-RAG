@@ -1,0 +1,47 @@
+name: Roclanda
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005107
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: latanoprost / netarsudil
+  active_substance: Latanoprost;netarsudil mesilate
+therapeutic_information:
+  therapeutic_area_mesh: Glaucoma, Open-Angle;Ocular Hypertension
+  atc_code_human: S01EE
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Roclanda is indicated for the reduction of elevated intraocular
+    pressure (IOP) in adult patients with primary open-angle glaucoma or ocular hypertension
+    for whom monotherapy with a prostaglandin or netarsudil provides insufficient
+    IOP reduction.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Santen Oy
+  european_commission_decision_date: 14/08/2025
+  marketing_authorisation_date: 07/01/2021
+  opinion_adopted_date: 12/11/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '11'
+metadata:
+  first_published: 21/01/2021
+  last_updated: 15/01/2026
+  latest_procedure: R/0000255956
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/roclanda

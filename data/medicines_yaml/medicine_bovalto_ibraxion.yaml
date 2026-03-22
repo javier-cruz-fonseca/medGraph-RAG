@@ -1,0 +1,46 @@
+name: Bovalto Ibraxion
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000051
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: infectious bovine rhinotracheitis vaccine (inactivated)
+  active_substance: inactivated IBR virus
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI02AA03
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Active immunisation of cattle to reduce the clinical signs
+    of infectious bovine rhinotracheitis (IBR) and field virus excretion.The onset
+    of immunity is 14 days and the duration of immunity is 6 months.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merial
+  european_commission_decision_date: 10/08/2016
+  marketing_authorisation_date: 09/03/2000
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '10'
+metadata:
+  first_published: 10/08/2016
+  last_updated: 13/08/2019
+  latest_procedure: IAIN/0016
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/bovalto-ibraxion

@@ -1,0 +1,48 @@
+name: VidPrevtyn Beta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005754
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: COVID-19 Vaccine (recombinant, adjuvanted)
+  active_substance: SARS-CoV-2 prefusion Spike delta TM protein, recombinant (B.1.351
+    strain)
+therapeutic_information:
+  therapeutic_area_mesh: COVID-19 virus infection
+  atc_code_human: J07BN04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: VidPrevtyn Beta is indicated as a booster for active immunisation
+    to prevent COVID-19 in adults who have previously received an mRNA or adenoviral
+    vector COVID-19 vaccine (see sections 4.2 and 5.1 in&nbsp;product information
+    document). The use of this vaccine should be in accordance with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sanofi Pasteur
+  european_commission_decision_date: 11/03/2024
+  marketing_authorisation_date: 10/11/2022
+  opinion_adopted_date: 10/11/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 18/03/2024
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 11/11/2022
+  last_updated: 30/07/2024
+  latest_procedure: II/0007/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vidprevtyn-beta

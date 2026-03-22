@@ -1,0 +1,47 @@
+name: BTVPUR AlSap 2-4
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000139
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: inactivated adjuvanted vaccine against bluetongue virus serotype
+    2 and 4 infections
+  active_substance: bluetongue-virus serotype-2 antigen;bluetongue-virus serotype-4
+    antigen
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI04AA02
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Active immunisation of sheep to prevent viraemia and to
+    reduce clinical signs caused by bluetongue virus serotypes 2 and 4.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Mérial
+  european_commission_decision_date: 01/06/2018
+  marketing_authorisation_date: 04/11/2010
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 31/07/2015
+  last_updated: 13/11/2018
+  latest_procedure: R/0006
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/btvpur-alsap-2-4

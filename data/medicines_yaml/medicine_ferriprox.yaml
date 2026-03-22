@@ -1,0 +1,49 @@
+name: Ferriprox
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000236
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: deferiprone
+  active_substance: Deferiprone
+therapeutic_information:
+  therapeutic_area_mesh: beta-Thalassemia;Iron Overload
+  atc_code_human: V03AC02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ferriprox monotherapy is indicated for the treatment of
+    iron overload in patients with thalassaemia major when current chelation therapy
+    is contraindicated or inadequate. Ferriprox in combination with another chelator
+    is indicated in patients with thalassaemia major when monotherapy with any iron
+    chelator is ineffective, or when prevention or treatment of life-threatening consequences
+    of iron overload (mainly cardiac overload) justifies rapid or intensive correction.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Chiesi Farmaceutici S.p.A.
+  european_commission_decision_date: 12/08/2025
+  marketing_authorisation_date: 25/08/1999
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '33'
+metadata:
+  first_published: 04/07/2017
+  last_updated: 13/08/2025
+  latest_procedure: N/0000291625
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ferriprox

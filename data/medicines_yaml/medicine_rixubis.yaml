@@ -1,0 +1,45 @@
+name: Rixubis
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003771
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: nonacog gamma
+  active_substance: nonacog gamma
+therapeutic_information:
+  therapeutic_area_mesh: Hemophilia B
+  atc_code_human: B02BD04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment and prophylaxis of bleeding in patients with haemophilia
+    B (congenital factor IX deficiency).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Baxalta Innovations GmbH
+  european_commission_decision_date: 22/09/2022
+  marketing_authorisation_date: 19/12/2014
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 13/06/2017
+  last_updated: 27/11/2024
+  latest_procedure: N/0045
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/rixubis

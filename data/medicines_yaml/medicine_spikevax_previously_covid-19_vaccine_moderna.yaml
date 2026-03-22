@@ -1,0 +1,65 @@
+name: Spikevax (previously COVID-19 Vaccine Moderna)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005791
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: COVID-19 mRNA vaccine
+  active_substance: single-stranded, 5’-capped messenger RNA (mRNA) produced using
+    a cell-free in vitro transcription from the corresponding DNA templates, encoding
+    the viral spike (S) protein of SARS-CoV-2
+therapeutic_information:
+  therapeutic_area_mesh: COVID-19 virus infection
+  atc_code_human: J07BN01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Spikevax is indicated for active immunisation to prevent
+    COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older. The use
+    of this vaccine should be in accordance with official recommendations. Spikevax
+    bivalent Original/Omicron BA.1 is indicated for active immunisation to prevent
+    COVID-19 caused by SARS-CoV-2 in individuals 6 years of age and older who have
+    previously received at least a primary vaccination course against COVID-19. The
+    use of this vaccine should be in accordance with official recommendations. Spikevax
+    bivalent Original/Omicron BA.4-5 is indicated for active immunisation to prevent
+    COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older.&nbsp;The
+    use of this vaccine should be in accordance with official recommendations. Spikevax
+    XBB.1.5 is indicated for active immunisation to prevent COVID-19 caused by SARS-CoV-2
+    in individuals 6 months of age and older. Spikevax JN.1 is indicated for active
+    immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals 6 months
+    of age and older.&nbsp;The use of this vaccine should be in accordance with official
+    recommendations. Spikevax JN.1 is indicated for active immunisation to prevent
+    COVID-19 caused by SARS-CoV-2 in individuals 6 months of age and older.&nbsp;The
+    use of this vaccine should be in accordance with official recommendations. Spikevax
+    LP.8.1 is indicated for active immunisation to prevent COVID 19 caused by SARS-CoV-2
+    in individuals 6 months of age and older. The use of this vaccine should be in
+    accordance with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Moderna Biotech Spain, S.L.
+  european_commission_decision_date: 20/01/2026
+  marketing_authorisation_date: 06/01/2021
+  opinion_adopted_date: 04/01/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '61'
+metadata:
+  first_published: 20/01/2021
+  last_updated: 27/02/2026
+  latest_procedure: VR/0000316350
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/spikevax

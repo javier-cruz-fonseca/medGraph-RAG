@@ -1,0 +1,50 @@
+name: Avzivi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005574
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: bevacizumab
+  active_substance: bevacizumab
+therapeutic_information:
+  therapeutic_area_mesh: Colorectal Neoplasms;Carcinoma, Non-Small-Cell Lung;Carcinoma,
+    Renal Cell;Ovarian Neoplasms;Fallopian Tube Neoplasms;Peritoneal Neoplasms;Uterine
+    Cervical Neoplasms
+  atc_code_human: L01XC07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of metastatic carcinoma of the colon or rectum,
+    metastatic breast cancer and recurrence of platinum-sensitive epithelial ovarian,
+    fallopian tube or primary peritoneal cancer first-line treatment of patients with
+    unresectable advanced, metastatic or recurrent non-small cell lung cancer. first
+    line treatment of patients with advanced and/or metastatic renal cell cancer.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: FGK Representative Service GmbH
+  european_commission_decision_date: 27/01/2026
+  marketing_authorisation_date: 26/07/2024
+  opinion_adopted_date: 30/05/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 08/08/2024
+  last_updated: 05/02/2026
+  latest_procedure: VR/0000322269
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/avzivi

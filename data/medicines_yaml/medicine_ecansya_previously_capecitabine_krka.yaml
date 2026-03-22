@@ -1,0 +1,54 @@
+name: Ecansya (previously Capecitabine Krka)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002605
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: capecitabine
+  active_substance: capecitabine
+therapeutic_information:
+  therapeutic_area_mesh: Colonic Neoplasms;Breast Neoplasms;Colorectal Neoplasms;Stomach
+    Neoplasms
+  atc_code_human: L01BC06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ecansya is indicated for the adjuvant treatment of patients
+    following surgery of stage-III (Dukes’ stage-C) colon cancer. Ecansya is indicated
+    for the treatment of metastatic colorectal cancer. Ecansya is indicated for first-line
+    treatment of advanced gastric cancer in combination with a platinum-based regimen.
+    Ecansya in combination with docetaxel is indicated for the treatment of patients
+    with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy.
+    Previous therapy should have included an anthracycline. Ecansya is also indicated
+    as monotherapy for the treatment of patients with locally advanced or metastatic
+    breast cancer after failure of taxanes and an anthracycline containing chemotherapy
+    regimen or for whom further anthracycline therapy is not indicated.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Krka, d.d., Novo mesto
+  european_commission_decision_date: 04/04/2025
+  marketing_authorisation_date: 20/04/2012
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '16'
+metadata:
+  first_published: 09/12/2016
+  last_updated: 05/05/2025
+  latest_procedure: PSUSA/00000531/202404
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ecansya

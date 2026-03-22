@@ -1,0 +1,48 @@
+name: Onsenal
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000466
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: celecoxib
+  active_substance: celecoxib
+therapeutic_information:
+  therapeutic_area_mesh: Adenomatous Polyposis Coli
+  atc_code_human: L01XX33
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Onsenal is indicated for the reduction of the number of
+    adenomatous intestinal polyps in familial adenomatous polyposis (FAP), as an adjunct
+    to surgery and further endoscopic surveillance (see section 4.4). The effect of
+    Onsenal-induced reduction of polyp burden on the risk of intestinal cancer has
+    not been demonstrated (see sections 4.4 and 5.1)
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'Yes'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Limited
+  european_commission_decision_date: 28/03/2011
+  marketing_authorisation_date: 17/10/2003
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 28/11/2008
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 28/03/2011
+  last_updated: 06/04/2011
+  latest_procedure: II/0028
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/onsenal

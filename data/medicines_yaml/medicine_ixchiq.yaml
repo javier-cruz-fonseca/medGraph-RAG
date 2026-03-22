@@ -1,0 +1,46 @@
+name: Ixchiq
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005797
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: Chikungunya vaccine (live)
+  active_substance: Chikungunya virus, strain CHIKV LR2006-OPY1, live attenuated
+therapeutic_information:
+  therapeutic_area_mesh: Chikungunya virus
+  atc_code_human: ''
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ixchiq is indicated for active immunisation for the prevention
+    of disease caused by chikungunya virus (CHIKV) in individuals between 12 years
+    older.&nbsp;The use of this vaccine should be in accordance with official recommendations.&nbsp;
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'Yes'
+authorization_details:
+  marketing_authorisation_holder: Valneva Austria GmbH
+  european_commission_decision_date: 12/09/2025
+  marketing_authorisation_date: 28/06/2024
+  opinion_adopted_date: 30/05/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 31/05/2024
+  last_updated: 24/09/2025
+  latest_procedure: EMA/REF/0000269473
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ixchiq

@@ -1,0 +1,46 @@
+name: Toviaz
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000723
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: fesoterodine
+  active_substance: fesoterodine fumarate
+therapeutic_information:
+  therapeutic_area_mesh: Urinary Bladder, Overactive
+  atc_code_human: G04BD11
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of the symptoms (increased urinary frequency and
+    / or urgency and / or urgency incontinence) that may occur in patients with overactive-bladder
+    syndrome.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Europe MA EEIG
+  european_commission_decision_date: 03/03/2025
+  marketing_authorisation_date: 20/04/2007
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '30'
+metadata:
+  first_published: 30/07/2018
+  last_updated: 04/03/2025
+  latest_procedure: VR/0000256192
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/toviaz

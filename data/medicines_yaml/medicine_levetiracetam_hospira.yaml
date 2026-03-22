@@ -1,0 +1,54 @@
+name: Levetiracetam Hospira
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002783
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: levetiracetam
+  active_substance: levetiracetam
+therapeutic_information:
+  therapeutic_area_mesh: Epilepsy
+  atc_code_human: N03AX14
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Levetiracetam Hospira is indicated as monotherapy in the
+    treatment of partial onset seizures with or without secondary generalisation in
+    adults and adolescents from 16 years of age with newly diagnosed epilepsy. Levetiracetam
+    Hospira is indicated as adjunctive therapy  in the treatment of partial onset
+    seizures with or without secondary generalisation in adults, adolescents and children
+    from 4 years of age with epilepsy. in the treatment of myoclonic seizures in adults
+    and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy. in the
+    treatment of primary generalised tonic-clonic seizures in adults and adolescents
+    from 12 years of age with Idiopathic Generalised Epilepsy.  Levetiracetam Hospira
+    concentrate is an alternative for patients when oral administration is temporarily
+    not feasible.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Europe MA EEIG
+  european_commission_decision_date: 12/12/2025
+  marketing_authorisation_date: 07/01/2014
+  opinion_adopted_date: 23/10/2013
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '28'
+metadata:
+  first_published: 01/11/2017
+  last_updated: 15/12/2025
+  latest_procedure: VR/0000315806
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/levetiracetam-hospira

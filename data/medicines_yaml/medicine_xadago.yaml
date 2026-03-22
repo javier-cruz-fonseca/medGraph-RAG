@@ -1,0 +1,47 @@
+name: Xadago
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002396
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: safinamide
+  active_substance: safinamide methanesulfonate
+therapeutic_information:
+  therapeutic_area_mesh: Parkinson Disease
+  atc_code_human: N04B
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Xadago is indicated for the treatment of adult patients
+    with idiopathic Parkinson’s disease (PD) as add-on therapy to a stable dose of
+    Levodopa (L-dopa) alone or in combination with other PD medicinal products in
+    mid-to late-stage fluctuating patients.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Zambon SpA
+  european_commission_decision_date: 09/02/2026
+  marketing_authorisation_date: 23/02/2015
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '16'
+metadata:
+  first_published: 20/12/2017
+  last_updated: 09/02/2026
+  latest_procedure: N/0000327326
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/xadago

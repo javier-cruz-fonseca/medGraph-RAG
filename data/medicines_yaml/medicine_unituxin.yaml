@@ -1,0 +1,49 @@
+name: Unituxin
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002800
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: dinutuximab
+  active_substance: Dinutuximab
+therapeutic_information:
+  therapeutic_area_mesh: Neuroblastoma
+  atc_code_human: L01FX06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Unituxin is indicated for the treatment of high-risk neuroblastoma
+    in patients aged 12 months to 17years, who have previously received induction
+    chemotherapy and achieved at least a partial response, followed by myeloablative
+    therapy and autologous stem cell transplantation (ASCT). It is administered in
+    combination with granulocyte-macrophage colony-stimulating factor (GM-CSF), interleukin-2
+    (IL-2), and isotretinoin.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: United Therapeutics Europe Ltd
+  european_commission_decision_date: 20/03/2017
+  marketing_authorisation_date: 14/08/2015
+  opinion_adopted_date: 21/05/2015
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 20/03/2017
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 20/03/2017
+  last_updated: 28/04/2017
+  latest_procedure: PSUSA/10420/201608
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/unituxin

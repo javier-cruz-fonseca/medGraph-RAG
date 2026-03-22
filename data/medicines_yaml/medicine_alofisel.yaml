@@ -1,0 +1,47 @@
+name: Alofisel
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004258
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: darvadstrocel
+  active_substance: darvadstrocel
+therapeutic_information:
+  therapeutic_area_mesh: Rectal Fistula
+  atc_code_human: L04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Alofisel is indicated for the treatment of complex perianal
+    fistulas in adult patients with non-active/mildly active luminal Crohn’s disease,
+    when fistulas have shown an inadequate response to at least one conventional or
+    biologic therapy. Alofisel should be used after conditioning of fistula.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda Pharma A/S
+  european_commission_decision_date: 14/09/2023
+  marketing_authorisation_date: 23/03/2018
+  opinion_adopted_date: 14/12/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 13/12/2024
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 08/05/2018
+  last_updated: 29/04/2025
+  latest_procedure: II/0044/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/alofisel

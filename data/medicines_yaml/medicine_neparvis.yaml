@@ -1,0 +1,48 @@
+name: Neparvis
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004343
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sacubitril;valsartan
+  active_substance: sacubitril;valsartan
+therapeutic_information:
+  therapeutic_area_mesh: Heart Failure
+  atc_code_human: C09DX04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Paediatric heart failure Neparvis is indicated in children
+    and adolescents aged one year or older for treatment of symptomatic chronic heart
+    failure with left ventricular systolic dysfunction (see section 5.1). Adult heart
+    failure Neparvis is indicated in adult patients for treatment of symptomatic chronic
+    heart failure with reduced&nbsp;ejection fraction (see section 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 12/01/2026
+  marketing_authorisation_date: 26/05/2016
+  opinion_adopted_date: 31/03/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 22/06/2018
+  last_updated: 13/01/2026
+  latest_procedure: VR/0000319973
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/neparvis

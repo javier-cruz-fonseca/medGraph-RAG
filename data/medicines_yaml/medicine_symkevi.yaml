@@ -1,0 +1,49 @@
+name: Symkevi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004682
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: tezacaftor;ivacaftor
+  active_substance: tezacaftor;ivacaftor
+therapeutic_information:
+  therapeutic_area_mesh: Cystic Fibrosis
+  atc_code_human: R07AX31
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Symkevi is indicated in a combination regimen with ivacaftor
+    tablets for the treatment of patients with cystic fibrosis (CF) aged 6 years and
+    older who are homozygous for the F508del mutation or who are heterozygous for
+    the F508del mutation and have one of the following mutations in the cystic fibrosis
+    transmembrane conductance regulator (CFTR) gene: P67L, R117C, L206W, R352Q, A455E,
+    D579G, 711+3A?G, S945L, S977F, R1070W, D1152H, 2789+5G?A, 3272 26A?G, and 3849+10kbC?T.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Vertex Pharmaceuticals (Ireland) Limited
+  european_commission_decision_date: 17/11/2025
+  marketing_authorisation_date: 31/10/2018
+  opinion_adopted_date: 27/06/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '17'
+metadata:
+  first_published: 22/11/2018
+  last_updated: 08/12/2025
+  latest_procedure: PSUR/0000269024
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/symkevi

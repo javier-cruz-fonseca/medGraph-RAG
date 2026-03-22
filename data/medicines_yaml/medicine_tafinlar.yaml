@@ -1,0 +1,51 @@
+name: Tafinlar
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002604
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: dabrafenib
+  active_substance: dabrafenib mesilate
+therapeutic_information:
+  therapeutic_area_mesh: Melanoma
+  atc_code_human: L01EC02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Melanoma Dabrafenib as monotherapy or in combination with
+    trametinib is indicated for the treatment of adult patients with unresectable
+    or metastatic melanoma with a BRAF V600 mutation (see sections 4.4 and 5.1). Adjuvant
+    treatment of melanoma Dabrafenib in combination with trametinib is indicated for
+    the adjuvant treatment of adult patients with Stage III melanoma with a BRAF V600
+    mutation, following complete resection. Non-small cell lung cancer (NSCLC) Dabrafenib
+    in combination with trametinib is indicated for the treatment of adult patients
+    with advanced non-small cell lung cancer with a BRAF V600 mutation.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 03/11/2025
+  marketing_authorisation_date: 26/08/2013
+  opinion_adopted_date: 27/06/2013
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '38'
+metadata:
+  first_published: 27/08/2018
+  last_updated: 04/11/2025
+  latest_procedure: VR/0000308071
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/tafinlar

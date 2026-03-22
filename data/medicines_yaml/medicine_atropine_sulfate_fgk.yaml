@@ -1,0 +1,46 @@
+name: Atropine sulfate FGK
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006385
+  medicine_status: Refused
+  opinion_status: Negative
+  inn_common_name: atropine
+  active_substance: atropine sulfate
+therapeutic_information:
+  therapeutic_area_mesh: Myopia
+  atc_code_human: S01FA01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Atropine sulfate FGK 0.1&nbsp;mg/ml is indicated to slow
+    myopia progression in children aged 6 to 10&nbsp;years with spherical equivalent
+    refraction (SER) in the range of -0.50 to ‑6.00&nbsp;diopter (D).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: FGK Representative Service GmbH
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: 18/09/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: 21/11/2025
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 23/05/2025
+  last_updated: 28/11/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/atropine-sulfate-fgk

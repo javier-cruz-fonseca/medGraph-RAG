@@ -1,0 +1,49 @@
+name: Sirturo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002614
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: bedaquiline
+  active_substance: bedaquiline fumarate
+therapeutic_information:
+  therapeutic_area_mesh: Tuberculosis, Multidrug-Resistant
+  atc_code_human: J04AK05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: '&nbsp;Sirturo is indicated for use as part of an appropriate
+    combination regimen in adult and paediatric patients (2 years to less than 18
+    years of age and weighing at least 7 kg) with pulmonary tuberculosis (TB) due
+    to Mycobacterium tuberculosis resistant to at least rifampicin and isoniazid.
+    Consideration should be given to official guidance on the appropriate use of antibacterial
+    agents. &nbsp;'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Janssen-Cilag International N.V.
+  european_commission_decision_date: 22/08/2025
+  marketing_authorisation_date: 05/03/2014
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '23'
+metadata:
+  first_published: 05/03/2018
+  last_updated: 24/11/2025
+  latest_procedure: VR/0000249065
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/sirturo

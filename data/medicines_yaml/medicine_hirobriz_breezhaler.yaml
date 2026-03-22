@@ -1,0 +1,46 @@
+name: Hirobriz Breezhaler
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001211
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: indacaterol
+  active_substance: indacaterol maleate
+therapeutic_information:
+  therapeutic_area_mesh: Pulmonary Disease, Chronic Obstructive
+  atc_code_human: R03AC18
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Hirobriz Breezhaler is indicated for maintenance bronchodilator
+    treatment of airflow obstruction in adult patients with chronic obstructive pulmonary
+    disease.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 18/11/2025
+  marketing_authorisation_date: 30/11/2009
+  opinion_adopted_date: 24/09/2009
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '21'
+metadata:
+  first_published: 23/08/2018
+  last_updated: 18/11/2025
+  latest_procedure: VR/0000308592
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/hirobriz-breezhaler

@@ -1,0 +1,53 @@
+name: Brukinsa
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004978
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: zanubrutinib
+  active_substance: zanubrutinib
+therapeutic_information:
+  therapeutic_area_mesh: Waldenstrom Macroglobulinemia
+  atc_code_human: L01EL03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Brukinsa&nbsp;as monotherapy is indicated for the treatment
+    of adult patients with Waldenström’s macroglobulinaemia (WM) who have received
+    at least one prior therapy, or in first line treatment for patients unsuitable
+    for chemo-immunotherapy. Brukinsa&nbsp;as monotherapy is indicated for the treatment
+    of adult patients with marginal zone lymphoma (MZL) who have received at least
+    one prior anti-CD20-based therapy. Brukinsa&nbsp;as monotherapy is indicated for
+    the treatment of adult patients with chronic lymphocytic leukemia (CLL). Brukinsa
+    in combination with obinutuzumab is indicated for the treatment of adult patients
+    with refractory or relapsed follicular lymphoma (FL) who have received at least
+    two prior systemic therapies.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: BeOne Medicines Ireland Limited
+  european_commission_decision_date: 24/10/2025
+  marketing_authorisation_date: 22/11/2021
+  opinion_adopted_date: 22/07/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '15'
+metadata:
+  first_published: 15/12/2021
+  last_updated: 24/11/2025
+  latest_procedure: VR/0000282181
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/brukinsa

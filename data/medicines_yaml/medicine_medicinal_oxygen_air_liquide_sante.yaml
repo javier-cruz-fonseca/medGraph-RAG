@@ -1,0 +1,45 @@
+name: Medicinal Oxygen Air Liquide Sante
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000111
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: oxygen
+  active_substance: oxygen
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QV03AN01
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: For oxygen supplementation and as a carrier gas during inhalation
+    anaesthesia.For oxygen supplementation during recovery.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Air Liquide Santé International
+  european_commission_decision_date: 20/12/2006
+  marketing_authorisation_date: 20/12/2006
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 20/12/2006
+  last_updated: 21/09/2010
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/medicinal-oxygen-air-liquide-sante

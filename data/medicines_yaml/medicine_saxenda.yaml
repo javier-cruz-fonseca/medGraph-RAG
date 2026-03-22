@@ -1,0 +1,66 @@
+name: Saxenda
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003780
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: liraglutide
+  active_substance: liraglutide
+therapeutic_information:
+  therapeutic_area_mesh: Obesity;Overweight
+  atc_code_human: A10BJ02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Saxenda is indicated as an adjunct to a reduced-calorie
+    diet and increased physical activity for weight management in adult patients with
+    an initial Body Mass Index (BMI) of • ≥ 30 kg/m² (obese), or• ≥ 27 kg/m² to &lt;
+    30 kg/m² (overweight) in the presence of at least one weight-related comorbidity
+    such as dysglycaemia (pre-diabetes or type 2 diabetes mellitus), hypertension,
+    dyslipidaemia or obstructive sleep apnoea. Treatment with Saxenda should be discontinued
+    after 12 weeks on the 3.0 mg/day dose if patients have not lost at least 5% of
+    their initial body weight. Adolescents (≥12 years) Saxenda can be used as an adjunct
+    to a healthy nutrition and increased physical activity for weight management in
+    adolescent patients from the age of 12 years and above with:  obesity (BMI corresponding
+    to ≥30 kg/m2 for adults by international cut-off points)* and body weight above
+    60 kg. Treatment with Saxenda should be discontinued and re-evaluated if patients
+    have not lost at least 4% of their BMI or BMI z score after 12 weeks on the 3.0
+    mg/day or maximum tolerated dose.  *IOTF BMI cut-off points for obesity by sex
+    between 12-18 years, in accordance with study design of the Trial 4180, see section
+    5.1. Children (6 to &lt;12 years)Saxenda is indicated as an adjunct to healthy
+    nutrition and increased physical activity for weight management in children from
+    the age of 6 to &lt;12 years with&nbsp;- obesity (BMI ≥95th percentile)* and-
+    body weight ≥45 kgTreatment with Saxenda should be discontinued and re-evaluated
+    if patients have not lost at least 4% of their BMI or BMI z score after 12 weeks
+    on the 3.0 mg/day or maximum tolerated dose. *CDC BMI cut-off points for obesity
+    (≥95th percentile) by sex between 6 to &lt;12 years, in accordance with study
+    design of the Trial 4392, see section 5.1.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novo Nordisk A/S
+  european_commission_decision_date: 25/06/2025
+  marketing_authorisation_date: 23/03/2015
+  opinion_adopted_date: 22/01/2015
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '19'
+metadata:
+  first_published: 28/06/2018
+  last_updated: 31/07/2025
+  latest_procedure: II/0042
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/saxenda

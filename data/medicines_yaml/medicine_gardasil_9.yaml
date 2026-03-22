@@ -1,0 +1,51 @@
+name: Gardasil 9
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003852
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: human papillomavirus 9-valent vaccine (recombinant, adsorbed)
+  active_substance: human papillomavirus vaccine [types 6, 11, 16, 18, 31, 33, 45,
+    52, 58] (recombinant, adsorbed)
+therapeutic_information:
+  therapeutic_area_mesh: Condylomata Acuminata;Papillomavirus Infections;Immunization;Uterine
+    Cervical Dysplasia
+  atc_code_human: J07BM03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Gardasil 9 is indicated for active immunisation of individuals
+    from the age of 9 years against the following HPV diseases:  Premalignant lesions
+    and cancers affecting the cervix, vulva, vagina and anus caused by vaccine HPV
+    types Genital warts (Condyloma acuminata) caused by specific HPV types.  See sections
+    4.4 and 5.1 for important information on the data that support these indications.
+    The use of Gardasil 9 should be in accordance with official recommendations.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merck Sharp & Dohme B.V.
+  european_commission_decision_date: 09/10/2025
+  marketing_authorisation_date: 10/06/2015
+  opinion_adopted_date: 25/03/2015
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '28'
+metadata:
+  first_published: 26/07/2018
+  last_updated: 09/10/2025
+  latest_procedure: N/0000303460
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/gardasil-9

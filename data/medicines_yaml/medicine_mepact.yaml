@@ -1,0 +1,48 @@
+name: Mepact
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000802
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: mifamurtide
+  active_substance: mifamurtide
+therapeutic_information:
+  therapeutic_area_mesh: Osteosarcoma
+  atc_code_human: L03AX15
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Mepact is indicated in children, adolescents and young adults
+    for the treatment of high-grade resectable non-metastatic osteosarcoma after macroscopically
+    complete surgical resection. It is used in combination with postoperative multi-agent
+    chemotherapy. Safety and efficacy have been assessed in studies of patients two
+    to 30 years of age at initial diagnosis.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Esteve Pharmaceuticals, S.A.
+  european_commission_decision_date: 18/12/2025
+  marketing_authorisation_date: 06/03/2009
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '22'
+metadata:
+  first_published: 14/12/2016
+  last_updated: 18/12/2025
+  latest_procedure: VR/0000319446
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/mepact

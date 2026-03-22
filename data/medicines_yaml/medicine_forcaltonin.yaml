@@ -1,0 +1,46 @@
+name: Forcaltonin
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000197
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: recombinant salmon calcitonin
+  active_substance: recombinant salmon calcitonin
+therapeutic_information:
+  therapeutic_area_mesh: Hypercalcemia;Osteitis Deformans;Bone Resorption
+  atc_code_human: H05BA01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Calcitonin is indicated for:  Prevention of acute bone
+    loss due to sudden immobilisation such as in patients with recent osteoporotic
+    fractures Paget''s disease Hypercalcaemia of malignancy'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Unigene UK Ltd.
+  european_commission_decision_date: 20/11/2008
+  marketing_authorisation_date: 11/01/1999
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 29/10/2008
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 20/11/2008
+  last_updated: 20/11/2008
+  latest_procedure: IA/0015
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/forcaltonin

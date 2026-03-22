@@ -1,0 +1,55 @@
+name: Adempas
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002737
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: riociguat
+  active_substance: riociguat
+therapeutic_information:
+  therapeutic_area_mesh: Hypertension, Pulmonary
+  atc_code_human: C02KX05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Chronic thromboembolic pulmonary hypertension (CTEPH) Adempas
+    is indicated for the treatment of adult patients with WHO Functional Class (FC)
+    II to III with  inoperable CTEPH, persistent or recurrent CTEPH after surgical
+    treatment, to improve exercise capacity.  Pulmonary arterial hypertension (PAH)
+    AdultsAdempas, as monotherapy or in combination with endothelin receptor antagonists,
+    is indicated for the treatment of adult patients with pulmonary arterial hypertension
+    (PAH) with WHO Functional Class (FC) II to III to improve exercise capacity. Efficacy
+    has been shown in a PAH population including aetiologies of idiopathic or heritable
+    PAH or PAH associated with connective tissue disease. PaediatricsAdempas is indicated
+    for the treatment of PAH in paediatric patients aged less than 18 years of age
+    and body weight ? 50 kg with WHO Functional Class (FC) II to III in combination
+    with endothelin receptor antagonists.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bayer AG
+  european_commission_decision_date: 06/08/2025
+  marketing_authorisation_date: 27/03/2014
+  opinion_adopted_date: 23/01/2014
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '17'
+metadata:
+  first_published: 07/03/2018
+  last_updated: 03/12/2025
+  latest_procedure: VR/0000285850
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/adempas

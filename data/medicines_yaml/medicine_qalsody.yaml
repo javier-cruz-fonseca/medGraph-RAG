@@ -1,0 +1,46 @@
+name: Qalsody
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005493
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: tofersen
+  active_substance: tofersen
+therapeutic_information:
+  therapeutic_area_mesh: Amyotrophic Lateral Sclerosis
+  atc_code_human: N07XX22
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Qalsody is indicated for the treatment of adults with&nbsp;amyotrophic
+    lateral sclerosis (ALS), associated with a mutation in the superoxide dismutase
+    1 (SOD1) gene.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'Yes'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Biogen Netherlands B.V.
+  european_commission_decision_date: 09/07/2024
+  marketing_authorisation_date: 29/05/2024
+  opinion_adopted_date: 22/02/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 14/06/2024
+  last_updated: 09/07/2024
+  latest_procedure: IB/0001
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/qalsody

@@ -1,0 +1,48 @@
+name: Intuniv
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003759
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: guanfacine
+  active_substance: guanfacine hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Attention Deficit Disorder with Hyperactivity
+  atc_code_human: C02AC02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Intuniv is indicated for the treatment of attention deficit
+    hyperactivity disorder (ADHD) in children and adolescents 6 17 years old for whom
+    stimulants are not suitable, not tolerated or have been shown to be ineffective.
+    Intuniv must be used as a part of a comprehensive ADHD treatment programme, typically
+    including psychological, educational and social measures.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland
+  european_commission_decision_date: 11/12/2025
+  marketing_authorisation_date: 17/09/2015
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '14'
+metadata:
+  first_published: 16/10/2017
+  last_updated: 16/01/2026
+  latest_procedure: VR/0000269598
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/intuniv

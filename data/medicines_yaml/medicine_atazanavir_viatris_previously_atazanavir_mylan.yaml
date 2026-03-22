@@ -1,0 +1,52 @@
+name: Atazanavir Viatris (previously Atazanavir Mylan)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004048
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: atazanavir
+  active_substance: atazanavir (as sulfate)
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AE08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Atazanavir Viatris, co-administered with low dose ritonavir,
+    is indicated for the treatment of HIV 1 infected adults and paediatric patients
+    6 years of age and older in combination with other antiretroviral medicinal products.Based
+    on available virological and clinical data from adult patients, no benefit is
+    expected in patients with strains resistant to multiple protease inhibitors (≥
+    4 PI mutations). There are very limited data available from children aged 6 to
+    less than 18 years.&nbsp;The choice of Atazanavir&nbsp; Viatrisin treatment experienced
+    adult and paediatric patients should be based on individual viral resistance testing
+    and the patient’s treatment history.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Viatris Limited
+  european_commission_decision_date: 14/05/2025
+  marketing_authorisation_date: 22/08/2016
+  opinion_adopted_date: 23/06/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '19'
+metadata:
+  first_published: 03/05/2018
+  last_updated: 18/06/2025
+  latest_procedure: VR/0000268126
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/atazanavir-mylan

@@ -1,0 +1,52 @@
+name: Erbitux
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000558
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: cetuximab
+  active_substance: cetuximab
+therapeutic_information:
+  therapeutic_area_mesh: Head and Neck Neoplasms;Colorectal Neoplasms
+  atc_code_human: L01FE01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Erbitux is indicated for the treatment of patients with
+    epidermal growth factor receptor (EGFR)-expressing, RAS wild-type metastatic colorectal
+    cancer:  in combination with irinotecan-based chemotherapy; in first-line in combination
+    with FOLFOX; as a single agent in patients who have failed oxaliplatin- and irinotecan-based
+    therapy and who are intolerant to irinotecan.  For details, see section 5.1. Erbitux
+    is indicated for the treatment of patients with squamous cell cancer of the head
+    and neck:  in combination with radiation therapy for locally advanced disease;
+    in combination with platinum-based chemotherapy for recurrent and/or metastatic
+    disease.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merck Europe B.V.
+  european_commission_decision_date: 28/01/2026
+  marketing_authorisation_date: 29/06/2004
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '35'
+metadata:
+  first_published: 02/06/2017
+  last_updated: 28/01/2026
+  latest_procedure: VR/0000323569
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/erbitux

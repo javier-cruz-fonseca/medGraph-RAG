@@ -1,0 +1,49 @@
+name: Lopinavir/Ritonavir Viatris (previously Ritonavir Mylan)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004025
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: lopinavir;ritonavir
+  active_substance: lopinavir;ritonavir
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AR10
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Lopinavir/ritonavir is indicated in combination with other
+    antiretroviral medicinal products for the treatment of human immunodeficiency
+    virus (HIV-1) infected adults, adolescents and children above the age of 2 years.
+    The choice of lopinavir/ritonavir to treat protease inhibitor experienced HIV-1
+    infected patients should be based on individual viral resistance testing and treatment
+    history of patients.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Viatris Limited
+  european_commission_decision_date: 05/09/2025
+  marketing_authorisation_date: 14/01/2016
+  opinion_adopted_date: 19/11/2015
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '22'
+metadata:
+  first_published: 14/06/2018
+  last_updated: 08/09/2025
+  latest_procedure: VR/0000291122
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/lopinavir-ritonavir-viatris

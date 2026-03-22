@@ -1,0 +1,50 @@
+name: Leganto
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002380
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: rotigotine
+  active_substance: rotigotine
+therapeutic_information:
+  therapeutic_area_mesh: Restless Legs Syndrome;Parkinson Disease
+  atc_code_human: N04BC09
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Leganto is indicated for the symptomatic treatment of moderate
+    to severe idiopathic restless-legs syndrome in adults. Leganto is indicated for
+    the treatment of the signs and symptoms of early-stage idiopathic Parkinson’s
+    disease as monotherapy (i.e. without levodopa) or in combination with levodopa,
+    i.e. over the course of the disease, through to late stages when the effect of
+    levodopa wears off or becomes inconsistent and fluctuations of the therapeutic
+    effect occur (end of dose or ‘on-off’ fluctuations).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: UCB Pharma S.A.
+  european_commission_decision_date: 14/12/2021
+  marketing_authorisation_date: 16/06/2011
+  opinion_adopted_date: 14/04/2011
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '19'
+metadata:
+  first_published: 24/04/2018
+  last_updated: 18/02/2022
+  latest_procedure: WS/1963
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/leganto

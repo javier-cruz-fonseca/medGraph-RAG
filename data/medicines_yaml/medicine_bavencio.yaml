@@ -1,0 +1,50 @@
+name: Bavencio
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004338
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: avelumab
+  active_substance: avelumab
+therapeutic_information:
+  therapeutic_area_mesh: Neuroendocrine Tumors
+  atc_code_human: L01FF04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Bavencio is indicated as monotherapy for the treatment of
+    adult patients with metastatic Merkel cell carcinoma (MCC). Bavencio in combination
+    with axitinib is indicated for the first-line treatment of adult patients with
+    advanced renal cell carcinoma (RCC). Bavencio is indicated as monotherapy for
+    the first?line maintenance treatment of adult patients with locally advanced or
+    metastatic urothelial carcinoma (UC) who are progression-free following platinum?based
+    chemotherapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merck Europe B.V.
+  european_commission_decision_date: 27/11/2025
+  marketing_authorisation_date: 18/09/2017
+  opinion_adopted_date: 20/07/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '22'
+metadata:
+  first_published: 31/08/2018
+  last_updated: 22/01/2026
+  latest_procedure: VR/0000279701
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/bavencio

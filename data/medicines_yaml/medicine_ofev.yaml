@@ -1,0 +1,46 @@
+name: Ofev
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003821
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: nintedanib
+  active_substance: nintedanib
+therapeutic_information:
+  therapeutic_area_mesh: Idiopathic Pulmonary Fibrosis;Lung Diseases, Interstitial;Pulmonary
+    Fibrosis;Scleroderma, Systemic
+  atc_code_human: L01EX09
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ofev is indicated in adults for the treatment of Idiopathic
+    Pulmonary Fibrosis (IPF).
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Boehringer Ingelheim International GmbH
+  european_commission_decision_date: 05/01/2026
+  marketing_authorisation_date: 14/01/2015
+  opinion_adopted_date: 20/11/2014
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '29'
+metadata:
+  first_published: 26/07/2018
+  last_updated: 06/01/2026
+  latest_procedure: VR/0000304681
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ofev

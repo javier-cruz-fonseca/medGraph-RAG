@@ -1,0 +1,52 @@
+name: Talzenna
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004674
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: talazoparib
+  active_substance: talazoparib
+therapeutic_information:
+  therapeutic_area_mesh: Breast Neoplasms
+  atc_code_human: L01XK04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Treatment with Talzenna should be initiated and supervised
+    by a physician experienced in the use of anticancer medicinal products. Patient
+    selection Breast cancer: Patients should be selected for the treatment of breast
+    cancer with Talzenna based on the presence of deleterious or suspected deleterious
+    germline BRCA mutations determined by an experienced laboratory using a validated
+    test method. Genetic counselling for patients with BRCA mutations should be performed
+    according to local regulations, as applicable. Prostate cancer: There is no requirement
+    for tumour mutation testing for selection of patients with mCRPC for treatment
+    with Talzenna.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Europe MA EEIG
+  european_commission_decision_date: 19/06/2025
+  marketing_authorisation_date: 20/06/2019
+  opinion_adopted_date: 26/04/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '11'
+metadata:
+  first_published: 08/07/2019
+  last_updated: 29/08/2025
+  latest_procedure: X/0022
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/talzenna

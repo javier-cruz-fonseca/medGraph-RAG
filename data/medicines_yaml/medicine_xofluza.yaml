@@ -1,0 +1,48 @@
+name: Xofluza
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004974
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: baloxavir marboxil
+  active_substance: Baloxavir marboxil
+therapeutic_information:
+  therapeutic_area_mesh: Influenza, Human
+  atc_code_human: ''
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of influenza Xofluza is indicated for the treatment
+    of uncomplicated influenza in patients aged 1 year and above. Post exposure prophylaxis
+    of influenza Xofluza is indicated for post-exposure prophylaxis of influenza in
+    individuals aged 1 year and above. Xofluza should be used in accordance with official
+    recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Roche Registration GmbH
+  european_commission_decision_date: 17/11/2025
+  marketing_authorisation_date: 07/01/2021
+  opinion_adopted_date: 12/11/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 22/01/2021
+  last_updated: 01/12/2025
+  latest_procedure: R/0000265299
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/xofluza

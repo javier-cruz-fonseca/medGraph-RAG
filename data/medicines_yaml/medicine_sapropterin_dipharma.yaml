@@ -1,0 +1,49 @@
+name: Sapropterin Dipharma
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005646
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sapropterin
+  active_substance: sapropterin dihydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Phenylketonurias
+  atc_code_human: A16AX07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Sapropterin Dipharma is indicated for the treatment of hyperphenylalaninaemia
+    (HPA) in adults and paediatric patients of all ages with phenylketonuria (PKU)
+    who have been shown to be responsive to such treatment. Sapropterin Dipharma is
+    also indicated for the treatment of hyperphenylalaninaemia (HPA) in adults and
+    paediatric patients of all ages with tetrahydrobiopterin (BH4) deficiency who
+    have been shown to be responsive to such treatment.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Dipharma Arzneimittel GmbH
+  european_commission_decision_date: 18/12/2025
+  marketing_authorisation_date: 16/02/2022
+  opinion_adopted_date: 16/12/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 14/12/2021
+  last_updated: 03/02/2026
+  latest_procedure: VR/0000319636
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/sapropterin-dipharma

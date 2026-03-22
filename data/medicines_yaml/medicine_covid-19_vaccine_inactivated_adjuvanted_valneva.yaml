@@ -1,0 +1,47 @@
+name: COVID-19 Vaccine (inactivated, adjuvanted) Valneva
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006019
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: COVID-19 vaccine (inactivated, adjuvanted, adsorbed)
+  active_substance: COVID-19 vaccine (inactivated, adjuvanted, adsorbed)
+therapeutic_information:
+  therapeutic_area_mesh: COVID-19 virus infection
+  atc_code_human: J07BX03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: COVID-19 Vaccine (inactivated, adjuvanted) Valneva is indicated
+    for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals
+    18 to 50 years of age.&nbsp; The use of this vaccine should be in accordance with
+    official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Valneva Austria GmbH
+  european_commission_decision_date: 12/10/2023
+  marketing_authorisation_date: 24/06/2022
+  opinion_adopted_date: 23/06/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 12/10/2023
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 27/06/2022
+  last_updated: 01/12/2023
+  latest_procedure: II/0004
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/covid-19-vaccine-inactivated-adjuvanted-valneva

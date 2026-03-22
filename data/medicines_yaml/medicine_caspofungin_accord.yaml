@@ -1,0 +1,50 @@
+name: Caspofungin Accord
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004134
+  medicine_status: Expired
+  opinion_status: ''
+  inn_common_name: caspofungin
+  active_substance: caspofungin acetate
+therapeutic_information:
+  therapeutic_area_mesh: Candidiasis;Aspergillosis
+  atc_code_human: J02AX04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of invasive candidiasis in adult or paediatric
+    patients. Treatment of invasive aspergillosis in adult or paediatric patients
+    who are refractory to or intolerant of amphotericin B, lipid formulations of amphotericin
+    B and/or itraconazole. Refractoriness is defined as progression of infection or
+    failure to improve after a minimum of 7 days of prior therapeutic doses of effective
+    antifungal therapy. Empirical therapy for presumed fungal infections (such as
+    Candida or Aspergillus) in febrile, neutropaenic adult or paediatric patients.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 06/02/2020
+  marketing_authorisation_date: 11/02/2016
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 20/12/2016
+  last_updated: 20/08/2021
+  latest_procedure: IB/0010
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/caspofungin-accord

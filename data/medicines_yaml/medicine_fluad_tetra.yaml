@@ -1,0 +1,48 @@
+name: Fluad Tetra
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004993
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: influenza vaccine (surface antigen, inactivated, adjuvanted)
+  active_substance: A/Victoria/4897/2022 (H1N1)pdm09-like strain (A/Victoria/4897/2022,
+    IVR-238) /  A/Thailand/8/2022 (H3N2)-like strain (A/Thailand/8/2022 IVR-237) /  B/Austria/1359417/2021-like
+    strain (B/Austria/1359417/2021, BVR-26) /  B/Phuket/3073/2013-like strain (B/Phuket/3073/2013,
+    BVR-1B) influenza virus
+therapeutic_information:
+  therapeutic_area_mesh: Influenza, Human
+  atc_code_human: J07BB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Prophylaxis of influenza in adults 50 years of age and older.
+    Fluad Tetra should be used in accordance with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Seqirus Netherlands B.V.
+  european_commission_decision_date: 19/12/2024
+  marketing_authorisation_date: 20/05/2020
+  opinion_adopted_date: 26/03/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 23/02/2026
+  suspension_date: ''
+  revision_number: '10'
+metadata:
+  first_published: 29/05/2020
+  last_updated: 26/02/2026
+  latest_procedure: R/0055
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/fluad-tetra

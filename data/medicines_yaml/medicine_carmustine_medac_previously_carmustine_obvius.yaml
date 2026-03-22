@@ -1,0 +1,52 @@
+name: Carmustine medac (previously Carmustine Obvius)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004326
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: carmustine
+  active_substance: carmustine
+therapeutic_information:
+  therapeutic_area_mesh: Hodgkin Disease;Lymphoma, Non-Hodgkin
+  atc_code_human: L01AD01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Carmustine is indicated n adults&nbsp;in the following
+    malignant neoplasms as a single agent or in combination with other antineoplastic
+    agents and/or other therapeutic measures (radiotherapy, surgery):  Brain tumours
+    (glioblastoma, brain-stem gliomas, medulloblastoma, astrocytoma and ependymoma),
+    brain metastases Secondary therapy in non-Hodgkin’s lymphoma and Hodgkin’s disease
+    as conditioning treatment prior to autologous haematopoietic progenitor cell transplantation
+    (HPCT) in malignant haematological diseases (Hodgkin’s disease / Non-hodgkin’s
+    lymphoma).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: medac Gesellschaft für klinische Spezialpräparate
+    mbH
+  european_commission_decision_date: 29/08/2024
+  marketing_authorisation_date: 18/07/2018
+  opinion_adopted_date: 26/04/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '11'
+metadata:
+  first_published: 19/07/2018
+  last_updated: 03/09/2024
+  latest_procedure: EMA/VR/0000182021
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/carmustine-medac

@@ -1,0 +1,49 @@
+name: Zynteglo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003691
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: betibeglogene autotemcel
+  active_substance: autologous CD34+ cell enriched population that contains haematopoietic
+    stem cells transduced with lentiviral vector encoding the βA-T87Q-globin gene
+therapeutic_information:
+  therapeutic_area_mesh: beta-Thalassemia
+  atc_code_human: B06A
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Zynteglo is indicated for the treatment of patients 12 years
+    and older with transfusion-dependent β thalassaemia (TDT) who do not have a β0/β0
+    genotype, for whom haematopoietic stem cell (HSC) transplantation is appropriate
+    but a human leukocyte antigen (HLA)-matched related HSC donor is not available.
+    &nbsp;
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: bluebird bio (Netherlands) B.V.
+  european_commission_decision_date: 09/12/2021
+  marketing_authorisation_date: 29/05/2019
+  opinion_adopted_date: 28/03/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 24/03/2022
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 03/06/2019
+  last_updated: 30/11/2022
+  latest_procedure: N/0030
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zynteglo

@@ -1,0 +1,64 @@
+name: Rivaroxaban Viatris (previously Rivaroxaban Mylan)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005600
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: rivaroxaban
+  active_substance: rivaroxaban
+therapeutic_information:
+  therapeutic_area_mesh: Venous Thromboembolism;Pulmonary Embolism;Acute Coronary
+    Syndrome;Stroke;Coronary Artery Disease;Peripheral Arterial Disease;Atrial Fibrillation
+  atc_code_human: B01AF01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Rivaroxaban Mylan co-administered with acetylsalicylic acid
+    (ASA) alone or with ASA plus clopidogrel or ticlopidine, is indicated for the
+    prevention of atherothrombotic events in adult patients after an acute coronary
+    syndrome (ACS) with elevated cardiac biomarkers.&nbsp; Rivaroxaban Mylan co-administered
+    with acetylsalicylic acid (ASA), is indicated for the prevention of atherothrombotic
+    events in adult patients with coronary artery disease (CAD) or symptomatic peripheral
+    artery disease (PAD) at high risk of ischaemic events.&nbsp; ------ Prevention
+    of venous thromboembolism (VTE) in adult patients undergoing elective hip or knee
+    replacement surgery.&nbsp; Treatment of deep vein thrombosis (DVT) and pulmonary
+    embolism (PE), and prevention of recurrent DVT and PE in adults. ------- Adults&nbsp;
+    Prevention of stroke and systemic embolism in adult &nbsp; patients with non-valvular
+    atrial fibrillation with one or more risk factors, such as congestive heart failure,
+    hypertension, age ? 75 years, diabetes mellitus, prior stroke or transient ischaemic
+    attack. Paediatric population&nbsp; Treatment of venous thromboembolism (VTE)
+    and prevention of VTE recurrence in children and adolescents aged less than 18
+    years and weighing from 30 kg to 50 kg after at least 5 days of initial parenteral
+    anticoagulation treatment. Paediatric population&nbsp; Treatment of venous thromboembolism
+    (VTE) and prevention of VTE recurrence in children and adolescents aged less than
+    18 years and weighing more than 50 kg after at least 5 days of initial parenteral
+    anticoagulation treatment. &nbsp;
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Viatris Limited
+  european_commission_decision_date: 05/11/2025
+  marketing_authorisation_date: 12/11/2021
+  opinion_adopted_date: 16/09/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '10'
+metadata:
+  first_published: 14/09/2021
+  last_updated: 05/11/2025
+  latest_procedure: VR/0000297251
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-viatris

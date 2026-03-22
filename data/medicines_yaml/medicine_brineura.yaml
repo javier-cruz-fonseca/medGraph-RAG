@@ -1,0 +1,46 @@
+name: Brineura
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004065
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: cerliponase alfa
+  active_substance: cerliponase alfa
+therapeutic_information:
+  therapeutic_area_mesh: Neuronal Ceroid-Lipofuscinoses
+  atc_code_human: A16AB
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Brineura is indicated for the treatment of neuronal ceroid
+    lipofuscinosis type 2 (CLN2) disease, also known as tripeptidyl peptidase 1 (TPP1)
+    deficiency
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'Yes'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: BioMarin International Limited
+  european_commission_decision_date: 11/12/2023
+  marketing_authorisation_date: 30/05/2017
+  opinion_adopted_date: 21/04/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 07/12/2017
+  last_updated: 12/12/2023
+  latest_procedure: II/0039
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/brineura

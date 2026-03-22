@@ -1,0 +1,46 @@
+name: Sibnayal
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005407
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: potassium citrate;potassium hydrogen carbonate
+  active_substance: potassium citrate monohydrated;potassium hydrogen carbonate
+therapeutic_information:
+  therapeutic_area_mesh: Acidosis, Renal Tubular
+  atc_code_human: A12BA30
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Sibnayal is indicated for the treatment of distal renal
+    tubular acidosis (dRTA) in adults, adolescents and children aged one year and
+    older.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Advicenne S.A.
+  european_commission_decision_date: 08/01/2026
+  marketing_authorisation_date: 30/04/2021
+  opinion_adopted_date: 10/12/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 03/05/2021
+  last_updated: 19/02/2026
+  latest_procedure: R/0000284883
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/sibnayal

@@ -1,0 +1,47 @@
+name: Yuvanci
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005001
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: macitentan;tadalafil
+  active_substance: macitentan;tadalafil
+therapeutic_information:
+  therapeutic_area_mesh: Pulmonary Arterial Hypertension
+  atc_code_human: C02KX54
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Yuvanci is indicated as substitution therapy for the long-term
+    treatment of pulmonary arterial hypertension (PAH) in adult patients of WHO Functional
+    Class (FC) II to III, who are already treated with the combination of macitentan
+    and tadalafil given concurrently as separate tablets.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Janssen-Cilag International NV
+  european_commission_decision_date: 04/09/2025
+  marketing_authorisation_date: 27/09/2024
+  opinion_adopted_date: 25/07/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 26/07/2024
+  last_updated: 05/02/2026
+  latest_procedure: VR/0000280219
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/yuvanci

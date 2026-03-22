@@ -1,0 +1,51 @@
+name: Yescarta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004480
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: axicabtagene ciloleucel
+  active_substance: axicabtagene ciloleucel
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Follicular;Lymphoma, Large B-Cell, Diffuse
+  atc_code_human: L01XX70
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Yescarta is indicated for the treatment of adult patients
+    with diffuse large B cell lymphoma (DLBCL) and high-grade B-cell lymphoma (HGBL)
+    that relapses within 12 months from completion of, or is refractory to, first-line
+    chemoimmunotherapy. Yescarta is indicated for the treatment of adult patients
+    with relapsed or refractory (r/r) DLBCL and primary mediastinal large B cell lymphoma
+    (PMBCL), after two or more lines of systemic therapy. Yescarta is indicated for
+    the treatment of adult patients with r/r follicular lymphoma (FL) after three
+    or more lines of systemic therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Kite Pharma EU B.V.
+  european_commission_decision_date: 26/02/2026
+  marketing_authorisation_date: 23/08/2018
+  opinion_adopted_date: 28/06/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '22'
+metadata:
+  first_published: 23/08/2018
+  last_updated: 12/03/2026
+  latest_procedure: VR/0000309793
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/yescarta

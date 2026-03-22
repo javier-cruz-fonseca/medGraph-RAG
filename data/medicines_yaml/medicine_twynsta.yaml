@@ -1,0 +1,48 @@
+name: Twynsta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001224
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: telmisartan;amlodipine
+  active_substance: telmisartan;amlodipine
+therapeutic_information:
+  therapeutic_area_mesh: Hypertension
+  atc_code_human: C09DB04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Treatment of essential hypertension in adults: Add-on therapy
+    Twynsta is indicated in adults whose blood pressure is not adequately controlled
+    on amlodipine. Replacement therapy Adult patients receiving telmisartan and amlodipine
+    from separate tablets can instead receive tablets of Twynsta containing the same
+    component doses.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Boehringer Ingelheim International GmbH
+  european_commission_decision_date: 28/04/2025
+  marketing_authorisation_date: 07/10/2010
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '15'
+metadata:
+  first_published: 22/05/2018
+  last_updated: 28/04/2025
+  latest_procedure: VR/0000253062
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/twynsta

@@ -1,0 +1,47 @@
+name: Procysbi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002465
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: mercaptamine
+  active_substance: mercaptamine bitartrate
+therapeutic_information:
+  therapeutic_area_mesh: Cystinosis
+  atc_code_human: A16AA04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Procysbi is indicated for the treatment of proven nephropathic
+    cystinosis. Cysteamine reduces cystine accumulation in some cells (e.g. leukocytes,
+    muscle and liver cells) of nephropathic cystinosis patients and, when treatment
+    is started early, it delays the development of renal failure.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Chiesi Farmaceutici S.p.A
+  european_commission_decision_date: 05/09/2025
+  marketing_authorisation_date: 05/09/2013
+  opinion_adopted_date: 27/06/2013
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '17'
+metadata:
+  first_published: 26/07/2018
+  last_updated: 08/09/2025
+  latest_procedure: N/0000293006
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/procysbi

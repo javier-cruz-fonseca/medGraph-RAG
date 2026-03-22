@@ -1,0 +1,56 @@
+name: Skyrizi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004759
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: risankizumab
+  active_substance: risankizumab
+therapeutic_information:
+  therapeutic_area_mesh: Psoriasis;Arthritis, Psoriatic;Colitis, Ulcerative;Crohn
+    Disease
+  atc_code_human: L04AC18
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Plaque PsoriasisSkyrizi is indicated for the treatment of
+    moderate to severe plaque psoriasis in adults who are candidates for systemic
+    therapy.Psoriatic ArthritisSkyrizi, alone or in combination with methotrexate
+    (MTX), is indicated for the treatment of active psoriatic arthritis in adults
+    who have had an inadequate response or who have been intolerant to one or more
+    disease-modifying antirheumatic drugs (DMARDs). Crohn’s diseaseSkyrizi is indicated
+    for the treatment of adult patients with moderately to severely active Crohn's
+    disease who have had an inadequate response to, lost response to, or were intolerant
+    to conventional therapy or a biologic therapy. Ulcerative colitisSkyrizi is indicated
+    for the treatment of adult patients with moderately to severely active ulcerative
+    colitis who have had an inadequate response to, lost response to, or were intolerant
+    to conventional therapy or a biologic therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG
+  european_commission_decision_date: 14/10/2025
+  marketing_authorisation_date: 26/04/2019
+  opinion_adopted_date: 28/02/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '31'
+metadata:
+  first_published: 26/06/2019
+  last_updated: 19/01/2026
+  latest_procedure: VR/0000296296
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/skyrizi

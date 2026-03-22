@@ -1,0 +1,53 @@
+name: Faslodex
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000540
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: fulvestrant
+  active_substance: fulvestrant
+therapeutic_information:
+  therapeutic_area_mesh: Breast Neoplasms
+  atc_code_human: L02BA03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Faslodex is indicated  as monotherapy for the treatment
+    of estrogen receptor positive, locally advanced or metastatic breast cancer in
+    postmenopausal women:  not previously treated with endocrine therapy, or with
+    disease relapse on or after adjuvant antiestrogen therapy, or disease progression
+    on antiestrogen therapy.   in combination with palbociclib for the treatment of
+    hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative
+    locally advanced or metastatic breast cancer in women who have received prior
+    endocrine therapy.  In pre- or perimenopausal women, the combination treatment
+    with palbociclib should be combined with a luteinizing hormone releasing hormone
+    (LHRH) agonist.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: AstraZeneca AB
+  european_commission_decision_date: 14/05/2025
+  marketing_authorisation_date: 09/03/2004
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 21/03/2018
+  last_updated: 15/05/2025
+  latest_procedure: VR/0000248153
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/faslodex

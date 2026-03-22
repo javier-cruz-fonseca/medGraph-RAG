@@ -1,0 +1,48 @@
+name: Nobivac Piro
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000084
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: vaccine against babesiosis in dogs
+  active_substance: babesia canis, inactivated;babesia rossi, inactivated
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QI07AO
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'For active immunisation of dogs of six months of age or
+    older against Babesia canis to reduce the severity of clinical signs associated
+    with acute babesiosis (B. canis) and anaemia as measured by packed cell volume.
+    Onset of immunity: Three weeks after the basic vaccination course. Duration of
+    immunity: Six months after the last (re-)vaccination.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Intervet International BV
+  european_commission_decision_date: 22/05/2013
+  marketing_authorisation_date: 02/09/2004
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 22/05/2013
+  last_updated: 30/05/2013
+  latest_procedure: R/0006
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/nobivac-piro

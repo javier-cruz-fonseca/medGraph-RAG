@@ -1,0 +1,74 @@
+name: Rivaroxaban Accord
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005279
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: rivaroxaban
+  active_substance: rivaroxaban
+therapeutic_information:
+  therapeutic_area_mesh: Acute Coronary Syndrome;Coronary Artery Disease;Peripheral
+    Arterial Disease;Venous Thromboembolism;Stroke;Atrial Fibrillation;Pulmonary Embolism
+  atc_code_human: B01AF01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Prevention of venous thromboembolism (VTE) in adult patients
+    undergoing elective hip or knee replacement surgery. Treatment of deep vein thrombosis
+    (DVT) and pulmonary embolism (PE), and prevention of recurrent DVT and PE in adults.
+    (See section 4.4 for haemodynamically unstable PE patients. Treatment of deep
+    vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent
+    DVT and PE in adults. (See section 4.4 for haemodynamically unstable PE patients).
+    Adults Prevention of stroke and systemic embolism in adult patients with non valvular
+    atrial fibrillation with one or more risk factors, such as congestive heart failure,
+    hypertension, age ? 75 years, diabetes mellitus, prior stroke or transient ischaemic
+    attack. Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE), and
+    prevention of recurrent DVT and PE in adults. (See section 4.4 for haemodynamically
+    unstable PE patients.) Paediatric population Treatment of venous thromboembolism
+    (VTE) and prevention of VTE recurrence in children and adolescents aged less than
+    18 years and weighing from 30 kg to 50 kg after at least 5 days of initial parenteral
+    anticoagulation treatment. Rivaroxaban Accord, co administered with acetylsalicylic
+    acid (ASA) alone or with ASA plus ticlopidine, is indicated for the prevention
+    of atherothrombotic events in adult patients after an acute coronary syndrome
+    (ACS) with elevated cardiac biomarkers (see sections 4.3, 4.4 and 5.1). Rivaroxaban
+    Accord, co administered with acetylsalicylic acid (ASA), is indicated for the
+    prevention of atherothrombotic events in adult patients with coronary artery disease
+    (CAD) or symptomatic peripheral artery disease (PAD) at high risk of ischaemic
+    events. Adults Prevention of stroke and systemic embolism in adult patients with
+    non-valvular atrial fibrillation with one or more risk factors, such as congestive
+    heart failure, hypertension, age ? 75 years, diabetes mellitus, prior stroke or
+    transient ischaemic attack. Treatment of deep vein thrombosis (DVT) and pulmonary
+    embolism (PE), and prevention of recurrent DVT and PE in adults. (See section
+    4.4 for haemodynamically unstable PE patients.) Paediatric population Treatment
+    of venous thromboembolism (VTE) and prevention of VTE recurrence in children and
+    adolescents aged less than 18 years and weighing more than 50 kg after at least
+    5 days of initial parenteral anticoagulation treatment.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 27/09/2023
+  marketing_authorisation_date: 16/11/2020
+  opinion_adopted_date: 17/09/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 24/11/2020
+  last_updated: 28/08/2025
+  latest_procedure: IB/0006
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/rivaroxaban-accord

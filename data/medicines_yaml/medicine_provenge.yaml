@@ -1,0 +1,49 @@
+name: Provenge
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002513
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: autologous peripheral-blood mononuclear cells activated with prostatic
+    acid phosphatase granulocyte-macrophage colony-stimulating factor (sipuleucel-T)
+  active_substance: autologous peripheral-blood mononuclear cells including a minimum
+    of 50 million autologous CD54+ cells activated with prostatic acid phosphatase
+    granulocyte-macrophage colony-stimulating factor
+therapeutic_information:
+  therapeutic_area_mesh: Prostatic Neoplasms
+  atc_code_human: L03AX17
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Provenge is indicated for treatment of asymptomatic or minimally
+    symptomatic metastatic (non-visceral) castrate-resistant prostate cancer in male
+    adults in whom chemotherapy is not yet clinically indicated.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Dendreon UK Ltd
+  european_commission_decision_date: 06/05/2015
+  marketing_authorisation_date: 06/09/2013
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 06/05/2015
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 06/05/2015
+  last_updated: 19/05/2015
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/provenge

@@ -1,0 +1,49 @@
+name: Flexicam
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000102
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: meloxicam
+  active_substance: meloxicam
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QM01AC06
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Oral suspension: Dogs:Alleviation of inflammation and pain
+    in both acute and chronic musculo-skeletal disorders. Solution for injection:
+    Dogs:Alleviation of inflammation and pain in both acute and chronic musculo-skeletal
+    disorders.Reduction of post-operative pain and inflammation following orthopaedic
+    and soft tissue surgery. Cats:Reduction of postoperative pain after ovariohysterectomy
+    and minor soft tissue surgery'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Dechra Veterinary Products A/S
+  european_commission_decision_date: 06/05/2014
+  marketing_authorisation_date: 10/04/2006
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 06/05/2014
+  last_updated: 20/05/2014
+  latest_procedure: IB/0012
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/flexicam

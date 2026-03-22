@@ -1,0 +1,46 @@
+name: Cufence
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004111
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: trientine dihydrochloride
+  active_substance: trientine dihydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Hepatolenticular Degeneration
+  atc_code_human: A16A
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Cufence is indicated for the treatment of Wilson’s disease
+    in patients intolerant to D-Penicillamine therapy, in adults and children aged
+    5 years or older.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Univar Solutions BV
+  european_commission_decision_date: 25/06/2025
+  marketing_authorisation_date: 25/07/2019
+  opinion_adopted_date: 29/05/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 29/07/2019
+  last_updated: 02/07/2025
+  latest_procedure: II/0020
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cufence

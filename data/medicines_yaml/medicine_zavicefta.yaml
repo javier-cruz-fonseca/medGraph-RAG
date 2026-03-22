@@ -1,0 +1,54 @@
+name: Zavicefta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004027
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ceftazidime;avibactam
+  active_substance: avibactam sodium;ceftazidime pentahydrate
+therapeutic_information:
+  therapeutic_area_mesh: Pneumonia, Bacterial;Soft Tissue Infections;Pneumonia;Urinary
+    Tract Infections;Gram-Negative Bacterial Infections
+  atc_code_human: J01DD52
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Zavicefta is indicated in adults and paediatric patients
+    aged 3 months and older for the treatment of the following infections:  Complicated
+    intra-abdominal infection (cIAI) Complicated urinary tract infection (cUTI), including
+    pyelonephritis Hospital-acquired pneumonia (HAP), including ventilator associated
+    pneumonia (VAP)  Treatment of patients with bacteraemia that occurs in association
+    with, or is suspected to be associated with, any of the infections listed above.
+    Zavicefta is also indicated for the treatment of infections due to aerobic Gram-negative
+    organisms in adults and paediatric patients aged 3 months and older with limited
+    treatment options. Consideration should be given to official guidance on the appropriate
+    use of antibacterial agents.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Ireland Pharmaceuticals Unlimited Company
+  european_commission_decision_date: 20/05/2025
+  marketing_authorisation_date: 23/06/2016
+  opinion_adopted_date: 28/04/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '20'
+metadata:
+  first_published: 14/06/2018
+  last_updated: 14/11/2025
+  latest_procedure: VR/0000247225
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zavicefta

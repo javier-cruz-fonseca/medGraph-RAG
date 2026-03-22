@@ -1,0 +1,45 @@
+name: Kanuma
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004004
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sebelipase alfa
+  active_substance: sebelipase alfa
+therapeutic_information:
+  therapeutic_area_mesh: Lipid Metabolism, Inborn Errors
+  atc_code_human: A16
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Kanuma is indicated for long-term enzyme replacement therapy
+    (ERT) in patients of all ages with lysosomal acid lipase (LAL) deficiency.
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Alexion Europe SAS
+  european_commission_decision_date: 22/06/2023
+  marketing_authorisation_date: 28/08/2015
+  opinion_adopted_date: 25/06/2015
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '10'
+metadata:
+  first_published: 12/10/2017
+  last_updated: 25/08/2023
+  latest_procedure: II/0044
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/kanuma

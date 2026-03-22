@@ -1,0 +1,55 @@
+name: Pemetrexed Krka
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003958
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: pemetrexed
+  active_substance: pemetrexed disodium
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Non-Small-Cell Lung;Mesothelioma
+  atc_code_human: L01BA04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Malignant pleural mesothelioma Pemetrexed Krka in combination
+    with cisplatin is indicated for the treatment of chemotherapy naïve patients with
+    unresectable malignant pleural mesothelioma. Non-small cell lung cancer Pemetrexed
+    Krka in combination with cisplatin is indicated for the first-line treatment of
+    patients with locally advanced or metastatic non-small cell lung cancer other
+    than predominantly squamous cell histology. Pemetrexed Krka is indicated as monotherapy
+    for the maintenance treatment of locally advanced or metastatic non-small cell
+    lung cancer other than predominantly squamous cell histology in patients whose
+    disease has not progressed immediately following platinum-based chemotherapy.
+    Pemetrexed Krka is indicated as monotherapy for the second-line treatment of patients
+    with locally advanced or metastatic non-small cell lung cancer other than predominantly
+    squamous cell histology.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: KRKA d.d.
+  european_commission_decision_date: 15/02/2023
+  marketing_authorisation_date: 22/05/2018
+  opinion_adopted_date: 22/03/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 22/05/2018
+  last_updated: 30/07/2024
+  latest_procedure: R/0009
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-krka

@@ -1,0 +1,49 @@
+name: Leqvio
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005333
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: inclisiran
+  active_substance: inclisiran
+therapeutic_information:
+  therapeutic_area_mesh: Hypercholesterolemia;Dyslipidemias
+  atc_code_human: C10AX
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Leqvio is indicated in adults with primary hypercholesterolaemia
+    (heterozygous familial and non-familial) or mixed dyslipidaemia, as an adjunct
+    to diet:  in combination with a statin or statin with other lipid-lowering therapies
+    in patients unable to reach LDL-C goals with the maximum tolerated dose of a statin,
+    or alone or in combination with other lipid-lowering therapies in patients who
+    are statin-intolerant, or for whom a statin is contraindicated.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 04/03/2026
+  marketing_authorisation_date: 09/12/2020
+  opinion_adopted_date: 15/10/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '11'
+metadata:
+  first_published: 06/01/2021
+  last_updated: 04/03/2026
+  latest_procedure: VR/0000326844
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/leqvio

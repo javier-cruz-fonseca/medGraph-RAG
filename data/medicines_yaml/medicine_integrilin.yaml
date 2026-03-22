@@ -1,0 +1,52 @@
+name: Integrilin
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000230
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: eptifibatide
+  active_substance: eptifibatide
+therapeutic_information:
+  therapeutic_area_mesh: Angina, Unstable;Myocardial Infarction
+  atc_code_human: B01AC16
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Integrilin is intended for use with acetylsalicylic acid
+    and unfractionated heparin. Integrilin is indicated for the prevention of early
+    myocardial infarction in patients presenting with unstable angina or non-Q-wave
+    myocardial infarction with the last episode of chest pain occurring within 24
+    hours and with ECG changes and / or elevated cardiac enzymes. Patients most likely
+    to benefit from Integrilin treatment are those at high risk of developing myocardial
+    infarction within the first 3-4 days after onset of acute angina symptoms including
+    for instance those that are likely to undergo an early percutaneous transluminal
+    coronary angioplasty (PTCA).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited
+  european_commission_decision_date: 24/09/2021
+  marketing_authorisation_date: 01/07/1999
+  opinion_adopted_date: 02/07/1999
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 12/04/2017
+  last_updated: 17/03/2022
+  latest_procedure: N/0088
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/integrilin

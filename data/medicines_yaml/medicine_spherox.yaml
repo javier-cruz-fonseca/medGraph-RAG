@@ -1,0 +1,46 @@
+name: Spherox
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002736
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: spheroids of human autologous matrix-associated chondrocytes
+  active_substance: spheroids of human autologous matrix-associated chondrocytes
+therapeutic_information:
+  therapeutic_area_mesh: Cartilage Diseases
+  atc_code_human: M09AX02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Repair of symptomatic articular cartilage defects of the
+    femoral condyle and the patella of the knee (International Cartilage Repair Society
+    [ICRS] grade III or IV) with defect sizes up to 10 cm2 in adults.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: CO.DON Gmbh
+  european_commission_decision_date: 27/02/2025
+  marketing_authorisation_date: 10/07/2017
+  opinion_adopted_date: 18/05/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '9'
+metadata:
+  first_published: 26/04/2018
+  last_updated: 03/03/2025
+  latest_procedure: VR/0000255173
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/spherox

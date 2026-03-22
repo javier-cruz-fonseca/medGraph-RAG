@@ -1,0 +1,47 @@
+name: Mylotarg
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000705
+  medicine_status: Refused
+  opinion_status: ''
+  inn_common_name: gemtuzumab ozogamicin
+  active_substance: gemtuzumab ozogamicin
+therapeutic_information:
+  therapeutic_area_mesh: Leukemia, Myeloid, Acute
+  atc_code_human: L01XC05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 're-induction treatment of CD33-positive AML adult patients
+    in first relapse who are not candidates for other intensive re-induction chemotherapy
+    regimens (e.g. high-dose Ara-C) and meet at least one of the following criteria:
+    duration of first remission &lt;12 months, or age &gt;60 years.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Wyeth Europa Ltd
+  european_commission_decision_date: 24/01/2008
+  marketing_authorisation_date: ''
+  opinion_adopted_date: 24/01/2008
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: 14/04/2008
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 24/01/2008
+  last_updated: 24/01/2008
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/mylotarg-0

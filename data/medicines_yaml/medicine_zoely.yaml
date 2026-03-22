@@ -1,0 +1,44 @@
+name: Zoely
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001213
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: nomegestrol;estradiol
+  active_substance: nomegestrol acetate;estradiol
+therapeutic_information:
+  therapeutic_area_mesh: Contraception
+  atc_code_human: G03AA14
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Oral contraception
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Theramex Ireland Limited
+  european_commission_decision_date: 14/02/2025
+  marketing_authorisation_date: 26/07/2011
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '25'
+metadata:
+  first_published: 12/07/2018
+  last_updated: 19/02/2025
+  latest_procedure: PSUSA/00002182/202401
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zoely

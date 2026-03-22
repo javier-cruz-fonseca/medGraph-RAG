@@ -1,0 +1,54 @@
+name: NeoRecormon
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000116
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: epoetin beta
+  active_substance: epoetin beta
+therapeutic_information:
+  therapeutic_area_mesh: Kidney Failure, Chronic;Anemia;Cancer;Blood Transfusion,
+    Autologous
+  atc_code_human: B03XA01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of symptomatic anaemia associated with chronic
+    renal failure (CRF) in adult and paediatric patients; treatment of symptomatic
+    anaemia in adult patients with non-myeloid malignancies receiving chemotherapy;
+    increasing the yield of autologous blood from patients in a pre-donation programme.
+    Its use in this indication must be balanced against the reported increased risk
+    of thromboembolic events. Treatment should only be given to patients with moderate
+    anaemia (Hb 10 - 13 g/dl [6.21 - 8.07 mmol/l], no iron deficiency) if blood conserving
+    procedures are not available or insufficient when the scheduled major elective
+    surgery requires a large volume of blood (4 or more units of blood for females
+    or 5 or more units for males).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Roche Registration GmbH
+  european_commission_decision_date: 01/05/2025
+  marketing_authorisation_date: 16/07/1997
+  opinion_adopted_date: 16/10/1996
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '35'
+metadata:
+  first_published: 09/08/2018
+  last_updated: 02/05/2025
+  latest_procedure: VR/0000262770
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/neorecormon

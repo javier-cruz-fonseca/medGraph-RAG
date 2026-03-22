@@ -1,0 +1,46 @@
+name: Empliciti
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003967
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: elotuzumab
+  active_substance: Elotuzumab
+therapeutic_information:
+  therapeutic_area_mesh: Multiple Myeloma
+  atc_code_human: L01FX08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Empliciti is indicated in combination with lenalidomide
+    and dexamethasone for the treatment of multiple myeloma in adult patients who
+    have received at least one prior therapy (see sections 4.2 and 5.1).
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG
+  european_commission_decision_date: 25/09/2025
+  marketing_authorisation_date: 11/05/2016
+  opinion_adopted_date: 28/01/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 13/07/2017
+  last_updated: 29/09/2025
+  latest_procedure: N/0000300473
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/empliciti

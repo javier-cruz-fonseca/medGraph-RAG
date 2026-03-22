@@ -1,0 +1,51 @@
+name: Cevenfacta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005655
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: eptacog beta (activated)
+  active_substance: Eptacog beta (activated)
+therapeutic_information:
+  therapeutic_area_mesh: Hemophilia A;Hemophilia B
+  atc_code_human: B02BD08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'CEVENFACTA is indicated in adults and adolescents (12 years
+    of age and older) for the treatment of bleeding episodes and for the prevention
+    of bleeding in those undergoing surgery or invasive procedures in the following
+    patient groups:  in patients with congenital haemophilia with high-responding
+    inhibitors to coagulation factors VIII or IX (i.e. ?5 Bethesda Units (BU));  in
+    patients with congenital haemophilia with low titre inhibitors (BU &lt;5), but
+    expected to have a high anamnestic response to factor VIII or factor IX administration
+    or expected to be refractory to increased dosing of FVIII or FIX.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Laboratoire Francais du Fractionnement et des Biotechnologies
+  european_commission_decision_date: 19/05/2022
+  marketing_authorisation_date: 15/07/2022
+  opinion_adopted_date: 19/05/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 17/05/2022
+  last_updated: 29/11/2022
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cevenfacta

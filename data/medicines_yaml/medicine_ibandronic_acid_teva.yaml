@@ -1,0 +1,50 @@
+name: Ibandronic Acid Teva
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001195
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ibandronic acid
+  active_substance: ibandronic acid
+therapeutic_information:
+  therapeutic_area_mesh: Breast Neoplasms;Neoplasm Metastasis;Fractures, Bone;Osteoporosis,
+    Postmenopausal
+  atc_code_human: M05BA06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ibandronic acid 50mg Ibandronic Acid Teva is indicated for
+    the prevention of skeletal events (pathological fractures, bone complications
+    requiring radiotherapy or surgery) in patients with breast cancer and bone metastases.
+    Ibandronic acid 150mg Treatment of osteoporosis in postmenopausal women at increased
+    risk of fracture. A reduction in the risk of vertebral fractures has been demonstrated,
+    efficacy on femoral neck fractures has not been established.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Teva Pharma B.V.
+  european_commission_decision_date: 16/08/2024
+  marketing_authorisation_date: 17/09/2010
+  opinion_adopted_date: 24/06/2010
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 10/11/2016
+  last_updated: 28/08/2024
+  latest_procedure: IB/0022
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ibandronic-acid-teva

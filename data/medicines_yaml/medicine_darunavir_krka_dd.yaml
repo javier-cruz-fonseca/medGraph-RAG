@@ -1,0 +1,69 @@
+name: Darunavir Krka d.d.
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004891
+  medicine_status: Expired
+  opinion_status: ''
+  inn_common_name: darunavir
+  active_substance: darunavir
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AE10
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: '400mg and 800 mg Film-coated Tablets Darunavir Krka d.d.,
+    co-administered with low dose ritonavir is indicated in combination with other
+    antiretroviral medicinal products for the treatment of patients with human immunodeficiency
+    virus (HIV-1) infection. Darunavir Krka d.d., co-administered with cobicistat
+    is indicated in combination with other antiretroviral medicinal products for the
+    treatment of patients with human immunodeficiency virus (HIV-1) infection in adult
+    patients (see section 4.2). Darunavir Krka d.d. 400 mg and 800 mg tablets may
+    be used to provide suitable dose regimens for the treatment of HIV-1 infection
+    in adult and paediatric patients from the age of 3 years and at least 40 kg body
+    weight who are:  antiretroviral therapy (ART)-naïve (see section 4.2). ART-experienced
+    with no darunavir resistance associated mutations (DRV-RAMs) and who have plasma
+    HIV-1 RNA &lt; 100,000 copies/ml and CD4+ cell count ? 100 cells x 106/l. In deciding
+    to initiate treatment with darunavir in such ART-experienced patients, genotypic
+    testing should guide the use of darunavir (see sections 4.2, 4.3, 4.4 and 5.1).  600mg
+    Film-coated Tablets Darunavir Krka d.d., co-administered with low dose ritonavir
+    is indicated in combination with other antiretroviral medicinal products for the
+    treatment of patients with human immunodeficiency virus (HIV-1) infection. Darunavir
+    Krka d.d. 600 mg tablets may be used to provide suitable dose regimens (see section
+    4.2):  For the treatment of HIV-1 infection in antiretroviral treatment (ART)-experienced
+    adult patients, including those that have been highly pre-treated. For the treatment
+    of HIV-1 infection in paediatric patients from the age of 3 years and at least
+    15 kg body weight.  In deciding to initiate treatment with darunavir co-administered
+    with low dose ritonavir, careful consideration should be given to the treatment
+    history of the individual patient and the patterns of mutations associated with
+    different agents. Genotypic or phenotypic testing (when available) and treatment
+    history should guide the use of darunavir.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: KRKA, d.d., Novo mesto
+  european_commission_decision_date: 22/01/2023
+  marketing_authorisation_date: 18/01/2018
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 22/01/2023
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 13/06/2018
+  last_updated: 03/02/2023
+  latest_procedure: IB/0011
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/darunavir-krka-dd

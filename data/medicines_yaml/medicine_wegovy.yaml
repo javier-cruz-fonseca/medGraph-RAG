@@ -1,0 +1,59 @@
+name: Wegovy
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005422
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: semaglutide
+  active_substance: semaglutide
+therapeutic_information:
+  therapeutic_area_mesh: Obesity;Overweight
+  atc_code_human: A10BJ06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Adults Wegovy is indicated as an adjunct to a reduced-calorie
+    diet and increased physical activity for weight management, including weight loss
+    and weight maintenance, in adults with an initial Body Mass Index (BMI) of  ≥30
+    kg/m2 (obesity), or ≥27 kg/m2 to &lt;30 kg/m2 (overweight) in the presence of
+    at least one weight-related comorbidity e.g. dysglycaemia (prediabetes or type
+    2 diabetes mellitus), hypertension, dyslipidaemia, obstructive sleep apnoea or
+    cardiovascular disease.  For trial results with respect to cardiovascular risk
+    reduction and populations studied, see section 5.1. Adolescents (≥12 years) Wegovy
+    is indicated as an adjunct to a reduced-calorie diet and increased physical activity
+    for weight management in adolescents ages 12 years and above with  obesity* and
+    body weight above 60 kg.  Treatment with Wegovy should be discontinued and re-evaluated
+    if adolescent patients have not reduced their BMI by at least 5% after 12 weeks
+    on the 2.4 mg or maximum tolerated dose. *Obesity (BMI ≥95th percentile) as defined
+    on sex- and age-specific BMI growth charts (CDC.gov) (see Table 1 in 4.1 of SmPC).
+    Table 1 BMI cut-off points for obesity (≥95th percentile) by sex and age for paediatric
+    patients aged 12 and older (CDC criteria)
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novo Nordisk A/S
+  european_commission_decision_date: 16/02/2026
+  marketing_authorisation_date: 06/01/2022
+  opinion_adopted_date: 11/11/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '16'
+metadata:
+  first_published: 11/11/2021
+  last_updated: 13/03/2026
+  latest_procedure: VR/0000284664
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/wegovy

@@ -1,0 +1,47 @@
+name: Praxbind
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003986
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: idarucizumab
+  active_substance: idarucizumab
+therapeutic_information:
+  therapeutic_area_mesh: Hemorrhage
+  atc_code_human: V03AB
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Praxbind is a specific reversal agent for dabigatran and
+    is indicated in adult patients treated with Pradaxa (dabigatran etexilate) when
+    rapid reversal of its anticoagulant effects is required:  for emergency surgery/urgent
+    procedures; in life-threatening or uncontrolled bleeding.'
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Boehringer Ingelheim International GmbH
+  european_commission_decision_date: 20/11/2024
+  marketing_authorisation_date: 20/11/2015
+  opinion_adopted_date: 24/09/2015
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 09/11/2017
+  last_updated: 21/11/2024
+  latest_procedure: IB/0035
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/praxbind

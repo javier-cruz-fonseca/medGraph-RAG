@@ -1,0 +1,47 @@
+name: Upstaza
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005352
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: eladocagene exuparvovec
+  active_substance: Eladocagene exuparvovec
+therapeutic_information:
+  therapeutic_area_mesh: Amino Acid Metabolism, Inborn Errors
+  atc_code_human: A16AB26
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Upstaza is indicated for the treatment of patients aged
+    18 months and older with a clinical, molecular, and genetically confirmed diagnosis
+    of aromatic L amino acid decarboxylase (AADC) deficiency with a severe phenotype
+    (see section 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'Yes'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'Yes'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: PTC Therapeutics International Limited
+  european_commission_decision_date: 02/12/2025
+  marketing_authorisation_date: 18/07/2022
+  opinion_adopted_date: 19/05/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '9'
+metadata:
+  first_published: 20/05/2022
+  last_updated: 02/12/2025
+  latest_procedure: VR/0000312499
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/upstaza

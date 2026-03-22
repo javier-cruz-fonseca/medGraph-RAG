@@ -1,0 +1,50 @@
+name: Neuraceq
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002553
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: florbetaben (18F)
+  active_substance: florbetaben (18F)
+therapeutic_information:
+  therapeutic_area_mesh: Radionuclide Imaging;Alzheimer Disease
+  atc_code_human: V09AX06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: This medicinal product is for diagnostic use only. Neuraceq
+    is a radiopharmaceutical indicated for Positron Emission Tomography (PET) imaging
+    of ? amyloid neuritic plaque density in the brains of adult patients with cognitive
+    impairment who are being evaluated for Alzheimer’s disease (AD) and other causes
+    of cognitive impairment. Neuraceq should be used in conjunction with a clinical
+    evaluation. A negative scan indicates sparse or no plaques, which is not consistent
+    with a diagnosis of AD.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Life Molecular Imaging GmbH
+  european_commission_decision_date: 21/11/2025
+  marketing_authorisation_date: 20/02/2014
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '26'
+metadata:
+  first_published: 12/03/2018
+  last_updated: 21/11/2025
+  latest_procedure: N/0000307291
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/neuraceq

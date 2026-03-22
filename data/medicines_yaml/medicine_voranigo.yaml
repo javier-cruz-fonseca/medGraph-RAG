@@ -1,0 +1,48 @@
+name: Voranigo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006284
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: vorasidenib
+  active_substance: vorasidenib
+therapeutic_information:
+  therapeutic_area_mesh: Oligodendroglioma;Astrocytoma
+  atc_code_human: L01XM04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Voranigo as monotherapy is indicated for the treatment of
+    predominantly non‑enhancing Grade&nbsp;2 astrocytoma or oligodendroglioma with
+    an IDH1 R132 or IDH2 R172 mutation in adult and adolescent patients aged 12&nbsp;years
+    and older and weighing at least 40&nbsp;kg who only had surgical intervention
+    and are not in immediate need of radiotherapy or chemotherapy (see section&nbsp;5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Les Laboratoires Servier
+  european_commission_decision_date: 17/09/2025
+  marketing_authorisation_date: 17/09/2025
+  opinion_adopted_date: 24/07/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 25/07/2025
+  last_updated: 26/09/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/voranigo

@@ -1,0 +1,52 @@
+name: Nintedanib Viatris
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006486
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: nintedanib
+  active_substance: nintedanib
+therapeutic_information:
+  therapeutic_area_mesh: Idiopathic Pulmonary Fibrosis;Lung Diseases, Interstitial;Pulmonary
+    Fibrosis
+  atc_code_human: L01EX09
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Nintedanib Viatris is indicated in adults for the treatment
+    of idiopathic pulmonary fibrosis (IPF). Nintedanib Viatris is also indicated in
+    adults for the treatment of other chronic fibrosing interstitial lung diseases
+    (ILDs) with a progressive phenotype. Nintedanib Viatris is indicated in children
+    and adolescents from 6 to 17 years old for the treatment of clinically significant,
+    progressive fibrosing interstitial lung diseases (ILDs). Nintedanib Viatris is
+    indicated in adults, adolescents and children aged 6 years and older for the treatment
+    of systemic sclerosis associated interstitial lung disease (SSc-ILD).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Viatris Limited
+  european_commission_decision_date: ''
+  marketing_authorisation_date: 22/08/2025
+  opinion_adopted_date: 19/06/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 20/06/2025
+  last_updated: 05/09/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/nintedanib-viatris

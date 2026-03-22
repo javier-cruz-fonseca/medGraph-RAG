@@ -1,0 +1,47 @@
+name: Enzepi
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002070
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: pancreas powder
+  active_substance: pancreas powder
+therapeutic_information:
+  therapeutic_area_mesh: Exocrine Pancreatic Insufficiency
+  atc_code_human: A09AA02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Pancreatic enzyme replacement treatment in exocrine pancreatic
+    insufficiency due to cystic fibrosis or other conditions (e.g. chronic pancreatitis,
+    post pancreatectomy or pancreatic cancer).Enzepi is indicated in infants, children,
+    adolescents and adults.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Allergan Pharmaceuticals International Limited
+  european_commission_decision_date: 02/09/2016
+  marketing_authorisation_date: 29/06/2016
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: 19/07/2021
+  revision_number: '1'
+metadata:
+  first_published: 02/09/2016
+  last_updated: 17/02/2021
+  latest_procedure: T/01
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/enzepi

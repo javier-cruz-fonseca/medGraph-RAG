@@ -1,0 +1,53 @@
+name: Bimervax
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006058
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: COVID-19 Vaccine (recombinant, adjuvanted)
+  active_substance: SARS-CoV-2 virus recombinant spike (S) protein receptor binding
+    domain (RBD) fusion dimer produced by recombinant DNA technology
+therapeutic_information:
+  therapeutic_area_mesh: COVID-19 virus infection
+  atc_code_human: J07BN
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Bimervax is indicated as a booster for active immunisation
+    to prevent COVID-19 in individuals 12 years of age and older who have previously
+    received a mRNA COVID-19 vaccine (see sections 4.2 and 5.1). The use of this vaccine
+    should be in accordance with official recommendations. Bimervax XBB.1.16 is indicated
+    for active immunisation to prevent COVID-19 caused by SARS-CoV-2 in individuals
+    12 years of age and older. The use of this vaccine should be in accordance with
+    official recommendations. Bimervax LP.8.1 is indicated for active immunisation
+    to prevent COVID-19 caused by SARS CoV-2 in individuals 12 years of age and older.
+    The use of this vaccine should be in accordance with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Hipra Human Health S.L.
+  european_commission_decision_date: 02/10/2025
+  marketing_authorisation_date: 30/03/2023
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 31/03/2023
+  last_updated: 09/12/2025
+  latest_procedure: VR/0000257408
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/bimervax

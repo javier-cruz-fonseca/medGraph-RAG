@@ -1,0 +1,50 @@
+name: Topotecan Actavis
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001031
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: topotecan
+  active_substance: topotecan
+therapeutic_information:
+  therapeutic_area_mesh: Uterine Cervical Neoplasms;Small Cell Lung Carcinoma
+  atc_code_human: L01CE01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Topotecan monotherapy is indicated for the treatment of
+    patients with relapsed small cell lung cancer [SCLC] for whom re-treatment with
+    the first-line regimen is not considered appropriate. Topotecan in combination
+    with cisplatin is indicated for patients with carcinoma of the cervix recurrent
+    after radiotherapy and for patients with Stage IVB disease. Patients with prior
+    exposure to cisplatin require a sustained treatment free interval to justify treatment
+    with the combination.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Actavis Group PTC ehf
+  european_commission_decision_date: 15/01/2019
+  marketing_authorisation_date: 24/07/2009
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 15/01/2019
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 19/01/2014
+  last_updated: 07/03/2019
+  latest_procedure: IB/0013
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/topotecan-actavis

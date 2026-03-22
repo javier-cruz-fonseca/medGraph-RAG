@@ -1,0 +1,57 @@
+name: Atripla
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000797
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: efavirenz;emtricitabine;tenofovir disoproxil
+  active_substance: efavirenz;emtricitabine;tenofovir disoproxil fumarate
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AR06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Atripla is a fixed-dose combination of efavirenz, emtricitabine
+    and tenofovir disoproxil fumarate. It is indicated for the treatment of human-immunodeficiency-virus-1
+    (HIV-1) infection in adults with virologic suppression to HIV-1 RNA levels of
+    &lt; 50 copies/ml on their current combination antiretroviral therapy for more
+    than three months. Patients must not have experienced virological failure on any
+    prior antiretroviral therapy and must be known not to have harboured virus strains
+    with mutations conferring significant resistance to any of the three components
+    contained in Atripla prior to initiation of their first antiretroviral treatment
+    regimen. The demonstration of the benefit of Atripla is primarily based on 48-week
+    data from a clinical study in which patients with stable virologic suppression
+    on a combination antiretroviral therapy changed to Atripla. No data are currently
+    available from clinical studies with Atripla in treatment-naive or in heavily
+    pretreated patients. No data are available to support the combination of Atripla
+    and other antiretroviral agents.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Gilead Sciences Ireland UC
+  european_commission_decision_date: 17/08/2021
+  marketing_authorisation_date: 13/12/2007
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '36'
+metadata:
+  first_published: 25/07/2018
+  last_updated: 21/01/2022
+  latest_procedure: IB/0150
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/atripla

@@ -1,0 +1,50 @@
+name: Livtencity
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005787
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: maribavir
+  active_substance: Maribavir
+therapeutic_information:
+  therapeutic_area_mesh: Cytomegalovirus Infections
+  atc_code_human: J05AX10
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: LIVTENCITY is indicated for the treatment of cytomegalovirus
+    (CMV) infection and/or disease that are refractory (with or without resistance)
+    to one or more prior therapies, including ganciclovir, valganciclovir, cidofovir
+    or foscarnet in adult patients who have undergone a haematopoietic stem cell transplant
+    (HSCT) or solid organ transplant (SOT). Consideration should be given to official
+    guidance on the appropriate use of antiviral agents.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland
+    Branch
+  european_commission_decision_date: 15/05/2025
+  marketing_authorisation_date: 09/11/2022
+  opinion_adopted_date: 15/09/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 14/09/2022
+  last_updated: 22/10/2025
+  latest_procedure: VR/0000254465
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/livtencity

@@ -1,0 +1,46 @@
+name: Pombiliti
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005703
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: cipaglucosidase alfa
+  active_substance: Cipaglucosidase alfa
+therapeutic_information:
+  therapeutic_area_mesh: Glycogen Storage Disease Type II
+  atc_code_human: A16AB
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Pombiliti (cipaglucosidase alfa) is a long-term enzyme replacement
+    therapy used in combination with the enzyme stabiliser miglustat for the treatment
+    of adults with late-onset Pompe disease (acid ?-glucosidase [GAA] deficiency).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Amicus Therapeutics Europe Limited
+  european_commission_decision_date: 12/09/2024
+  marketing_authorisation_date: 20/03/2023
+  opinion_adopted_date: 15/12/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 09/12/2022
+  last_updated: 22/11/2024
+  latest_procedure: II/0012
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pombiliti

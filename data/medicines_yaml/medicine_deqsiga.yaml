@@ -1,0 +1,57 @@
+name: Deqsiga
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006423
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: human normal immunoglobulin
+  active_substance: human normal immunoglobulin
+therapeutic_information:
+  therapeutic_area_mesh: Immunologic Deficiency Syndromes;Purpura, Thrombocytopenic,
+    Idiopathic;Guillain-Barre Syndrome;Mucocutaneous Lymph Node Syndrome;Polyradiculoneuropathy,
+    Chronic Inflammatory Demyelinating
+  atc_code_human: J06BA02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Replacement therapy in adults, children and adolescents
+    (0 to 18 years) in:&nbsp;- Primary immunodeficiency syndromes (PID) with impaired
+    antibody production.&nbsp;&nbsp;- Secondary immunodeficiencies (SID) in patients
+    who suffer from severe or recurrent infections, ineffective antimicrobial treatment
+    and either proven specific antibody failure (PSAF)* or serum IgG level of &lt;
+    4 g/L.*PSAF = failure to mount at least a 2-fold rise in IgG antibody titre to
+    pneumococcal polysaccharide and polypeptide antigen vaccinesImmunomodulation in
+    adults, children and adolescents (0 to 18 years) in:&nbsp;- Primary immune thrombocytopenia
+    (ITP), in patients at high risk of bleeding or prior to surgery to correct the
+    platelet count.&nbsp;- Guillain Barré syndrome.&nbsp;- Kawasaki disease (in conjunction
+    with acetylsalicylic acid; see section 4.2).&nbsp;- Chronic inflammatory demyelinating
+    polyradiculoneuropathy (CIDP).&nbsp;- Multifocal Motor Neuropathy (MMN).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda Manufacturing Austria AG
+  european_commission_decision_date: 02/05/2025
+  marketing_authorisation_date: 02/05/2025
+  opinion_adopted_date: 27/02/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 28/02/2025
+  last_updated: 16/05/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/deqsiga

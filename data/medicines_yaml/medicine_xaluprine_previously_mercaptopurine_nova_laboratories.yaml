@@ -1,0 +1,45 @@
+name: Xaluprine (previously Mercaptopurine Nova Laboratories)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002022
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: mercaptopurine
+  active_substance: 6-mercaptopurine monohydrate
+therapeutic_information:
+  therapeutic_area_mesh: Leukemia, Lymphoid
+  atc_code_human: L01BB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Xaluprine is indicated for the treatment of acute lymphoblastic
+    leukaemia (ALL) in adults, adolescents and children.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Lipomed GmbH
+  european_commission_decision_date: 24/09/2025
+  marketing_authorisation_date: 09/03/2012
+  opinion_adopted_date: 21/07/2011
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '19'
+metadata:
+  first_published: 13/07/2017
+  last_updated: 25/09/2025
+  latest_procedure: VR/0000300720
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/xaluprine

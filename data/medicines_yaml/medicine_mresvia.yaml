@@ -1,0 +1,50 @@
+name: mResvia
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006278
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: Respiratory syncytial virus mRNA vaccine (nucleoside modified)
+  active_substance: Respiratory syncytial virus mRNA vaccine (nucleoside modified)
+therapeutic_information:
+  therapeutic_area_mesh: Respiratory Syncytial Virus Infections
+  atc_code_human: J07BX05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Prevention of lower respiratory tract disease (LRTD) and
+    acute respiratory disease (ARD) caused by respiratory syncytial virus (RSV). mRESVIA
+    is indicated for active immunisation for the prevention of lower respiratory tract
+    disease (LRTD) caused by Respiratory Syncytial Virus (RSV) in: - adults 60 years
+    of age and older - adults 18 through 59 years of age who are at increased risk
+    for LRTD caused by RSV. &nbsp; The use of this vaccine should be in accordance
+    with official recommendations.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Moderna Biotech Spain, S.L.
+  european_commission_decision_date: 02/10/2025
+  marketing_authorisation_date: 22/08/2024
+  opinion_adopted_date: 27/06/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 28/06/2024
+  last_updated: 26/11/2025
+  latest_procedure: VR/0000263124
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/mresvia

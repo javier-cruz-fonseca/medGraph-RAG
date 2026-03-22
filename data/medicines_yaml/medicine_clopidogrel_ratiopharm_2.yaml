@@ -1,0 +1,48 @@
+name: Clopidogrel ratiopharm
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001173
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: clopidogrel
+  active_substance: clopidogrel
+therapeutic_information:
+  therapeutic_area_mesh: Peripheral Vascular Diseases;Stroke;Myocardial Infarction
+  atc_code_human: B01AC04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Clopidogrel is indicated in adults for the prevention of
+    atherothrombotic events in:  patients suffering from myocardial infarction (from
+    a few days until less than 35 days), ischaemic stroke (from 7 days until less
+    than 6 months) or established peripheral arterial disease.   For further information
+    please refer to section 5.1.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Archie Samuel s.r.o.
+  european_commission_decision_date: 25/10/2013
+  marketing_authorisation_date: 23/09/2009
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 25/10/2013
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 25/10/2013
+  last_updated: 12/12/2013
+  latest_procedure: N/0016
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-ratiopharm-0

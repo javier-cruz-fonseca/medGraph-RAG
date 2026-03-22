@@ -1,0 +1,45 @@
+name: Ogsiveo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006071
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: nirogacestat
+  active_substance: nirogacestat hydrobromide
+therapeutic_information:
+  therapeutic_area_mesh: Desmoid Tumors
+  atc_code_human: L01XX81
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Ogsiveo as monotherapy is indicated for the treatment of
+    adult patients with progressing desmoid tumours who require systemic treatment.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: SpringWorks Therapeutics Ireland Limited
+  european_commission_decision_date: ''
+  marketing_authorisation_date: 14/08/2025
+  opinion_adopted_date: 19/06/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 20/06/2025
+  last_updated: 03/10/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ogsiveo

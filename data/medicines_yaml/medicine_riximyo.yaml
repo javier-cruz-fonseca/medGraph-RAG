@@ -1,0 +1,77 @@
+name: Riximyo
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004729
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: rituximab
+  active_substance: rituximab
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Non-Hodgkin;Arthritis, Rheumatoid;Microscopic Polyangiitis;Wegener
+    Granulomatosis
+  atc_code_human: L01FA01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Riximyo is indicated in adults for the following indications:
+    Non-Hodgkin’s lymphoma (NHL) Riximyo is indicated for the treatment of previously
+    untreated adult patients with stage III-IV follicular lymphoma in combination
+    with chemotherapy. Riximyo maintenance therapy is indicated for the treatment
+    of adult follicular lymphoma patients responding to induction therapy. Riximyo
+    monotherapy is indicated for treatment of adult patients with stage III-IV follicular
+    lymphoma who are chemoresistant or are in their second or subsequent relapse after
+    chemotherapy. Riximyo is indicated for the treatment of adult patients with CD20
+    positive diffuse large B cell non-Hodgkin’s lymphoma in combination with CHOP
+    (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy. Riximyo
+    in combination with chemotherapy is indicated for the treatment of paediatric
+    patients (aged ? 6 months to &lt; 18 years old) with previously untreated advanced
+    stage CD20 positive diffuse large B-cell lymphoma (DLBCL), Burkitt lymphoma (BL)/Burkitt
+    leukaemia (mature B-cell acute leukaemia) (BAL) or Burkitt-like lymphoma (BLL).
+    Chronic lymphocytic leukaemia (CLL) Riximyo in combination with chemotherapy is
+    indicated for the treatment of patients with previously untreated and relapsed/refractory
+    chronic lymphocytic leukaemia. Only limited data are available on efficacy and
+    safety for patients previously treated with monoclonal antibodies including rituximab
+    or patients refractory to previous rituximab plus chemotherapy. See section 5.1
+    for further information. Rheumatoid arthritis Riximyo in combination with methotrexate
+    is indicated for the treatment of adult patients with severe active rheumatoid
+    arthritis who have had an inadequate response or intolerance to other disease-modifying
+    anti-rheumatic drugs (DMARD) including one or more tumour necrosis factor (TNF)
+    inhibitor therapies. Rituximab has been shown to reduce the rate of progression
+    of joint damage as measured by X-ray and to improve physical function, when given
+    in combination with methotrexate. Granulomatosis with polyangiitis and microscopic
+    polyangiitis Riximyo, in combination with glucocorticoids, is indicated for the
+    treatment of adult patients with severe, active granulomatosis with polyangiitis
+    (Wegener’s) (GPA) and microscopic polyangiitis (MPA). Riximyo, in combination
+    with glucocorticoids, is indicated for the induction of remission in paediatric
+    patients (aged ? 2 to &lt; 18 years old) with severe, active GPA (Wegener’s) and
+    MPA. Pemphigus vulgaris Riximyo is indicated for the treatment of patients with
+    moderate to severe pemphigus vulgaris (PV).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sandoz GmbH
+  european_commission_decision_date: 10/07/2025
+  marketing_authorisation_date: 15/06/2017
+  opinion_adopted_date: 21/04/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '17'
+metadata:
+  first_published: 14/10/2017
+  last_updated: 05/08/2025
+  latest_procedure: VR/0000249103
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/riximyo

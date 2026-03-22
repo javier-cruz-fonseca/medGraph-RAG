@@ -1,0 +1,48 @@
+name: Juluca
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004427
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: dolutegravir;rilpivirine
+  active_substance: dolutegravir sodium;rilpivirine hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: HIV Infections
+  atc_code_human: J05AR
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Juluca is indicated for the treatment of human immunodeficiency
+    virus type 1 (HIV-1) infection in adults who are virologically-suppressed (HIV-1
+    RNA &lt;50 copies/mL) on a stable antiretroviral regimen for at least six months
+    with no history of virological failure and no known or suspected resistance to
+    any non-nucleoside reverse transcriptase inhibitor or integrase inhibitor.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: ViiV Healthcare B.V.
+  european_commission_decision_date: 16/10/2025
+  marketing_authorisation_date: 16/05/2018
+  opinion_adopted_date: 22/03/2018
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '16'
+metadata:
+  first_published: 16/05/2018
+  last_updated: 14/11/2025
+  latest_procedure: VR/0000249653
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/juluca

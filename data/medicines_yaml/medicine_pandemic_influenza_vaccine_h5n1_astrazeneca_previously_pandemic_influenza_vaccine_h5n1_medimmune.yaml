@@ -1,0 +1,49 @@
+name: Pandemic influenza vaccine H5N1 AstraZeneca (previously Pandemic influenza vaccine
+  H5N1 Medimmune)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003963
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: pandemic influenza vaccine (H5N1) (live attenuated, nasal)
+  active_substance: 'reassortant influenza virus (live attenuated) of the following
+    strain: A/Vietnam/1203/2004 (H5N1) strain'
+therapeutic_information:
+  therapeutic_area_mesh: Influenza, Human
+  atc_code_human: J07BB03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Prophylaxis of influenza in an officially declared pandemic
+    situation in children and adolescents from 12 months to less than 18 years of
+    age. Pandemic influenza vaccine H5N1 AstraZeneca should be used in accordance
+    with official guidance
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: AstraZeneca AB
+  european_commission_decision_date: 10/12/2025
+  marketing_authorisation_date: 20/05/2016
+  opinion_adopted_date: 31/03/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 23/06/2017
+  last_updated: 10/12/2025
+  latest_procedure: VR/0000316345
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pandemic-influenza-vaccine-h5n1-astrazeneca

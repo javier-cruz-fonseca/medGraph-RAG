@@ -1,0 +1,52 @@
+name: Clopidogrel / Acetylsalicylic acid Viatris (previously Clopidogrel / Acetylsalicylic
+  acid Mylan)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004996
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: clopidogrel;acetylsalicylic acid
+  active_substance: acetylsalicylic acid;clopidogrel hydrogen sulfate
+therapeutic_information:
+  therapeutic_area_mesh: Acute Coronary Syndrome;Myocardial Infarction
+  atc_code_human: B01AC30
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: '&nbsp;Clopidogrel/Acetylsalicylic acid Viatris is indicated
+    for the secondary prevention of atherothrombotic events in adult patients already
+    taking both clopidogrel and acetylsalicylic acid (ASA). Clopidogrel/Acetylsalicylic
+    acid Viatris is a fixed-dose combination medicinal product for continuation of
+    therapy in: - Non-ST segment elevation acute coronary syndrome (unstable angina
+    or non-Q-wave myocardial infarction) including patients undergoing a stent placement
+    following percutaneous coronary intervention - ST segment elevation acute myocardial
+    infarction in medically treated patients eligible for thrombolytic therapy'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Mylan Pharmaceuticals Limited
+  european_commission_decision_date: 02/05/2025
+  marketing_authorisation_date: 09/01/2020
+  opinion_adopted_date: 14/11/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '9'
+metadata:
+  first_published: 24/01/2020
+  last_updated: 05/05/2025
+  latest_procedure: VR/0000268788
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-acetylsalicylic-acid-viatris

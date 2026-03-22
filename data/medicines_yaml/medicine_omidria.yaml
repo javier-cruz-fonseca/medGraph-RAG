@@ -1,0 +1,46 @@
+name: Omidria
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003702
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: phenylephrine;ketorolac
+  active_substance: ketorolac;phenylephrine
+therapeutic_information:
+  therapeutic_area_mesh: Lens Implantation, Intraocular;Pain, Postoperative
+  atc_code_human: S01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Omidria is indicated in adults for maintenance of intraoperative
+    mydriasis, prevention of intraoperative miosis and reduction of acute postoperative
+    ocular pain in intraocular lens replacement surgery.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Rayner Surgical (Ireland) Limited
+  european_commission_decision_date: 29/05/2024
+  marketing_authorisation_date: 28/07/2015
+  opinion_adopted_date: 21/05/2015
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '10'
+metadata:
+  first_published: 31/01/2018
+  last_updated: 08/11/2024
+  latest_procedure: IAIN/0028/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/omidria

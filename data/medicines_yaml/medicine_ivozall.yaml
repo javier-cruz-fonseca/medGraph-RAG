@@ -1,0 +1,48 @@
+name: Ivozall
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005039
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: clofarabine
+  active_substance: clofarabine
+therapeutic_information:
+  therapeutic_area_mesh: Precursor Cell Lymphoblastic Leukemia-Lymphoma
+  atc_code_human: L01BB06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of acute lymphoblastic leukaemia (ALL) in paediatric
+    patients who have relapsed or are refractory after receiving at least two prior
+    regimens and where there is no other treatment option anticipated to result in
+    a durable response. Safety and efficacy have been assessed in studies of patients
+    ? 21 years old at initial diagnosis.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: ORPHELIA Pharma
+  european_commission_decision_date: 06/03/2023
+  marketing_authorisation_date: 14/11/2019
+  opinion_adopted_date: 19/09/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 18/10/2023
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 22/11/2019
+  last_updated: 07/12/2023
+  latest_procedure: IB/0006
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/ivozall

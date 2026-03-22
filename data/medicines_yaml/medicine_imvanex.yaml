@@ -1,0 +1,46 @@
+name: Imvanex
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002596
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: smallpox and monkeypox vaccine (Live Modified Vaccinia Virus Ankara)
+  active_substance: modified vaccinia Ankara - Bavarian Nordic (MVA-BN) virus
+therapeutic_information:
+  therapeutic_area_mesh: Smallpox Vaccine;Monkeypox virus
+  atc_code_human: J07BX
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Active immunisation against smallpox, monkeypox and disease
+    caused by vaccinia virus in individuals 12 years of age and older (see sections
+    4.4 and 5.1).The use of this vaccine should be in accordance with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'Yes'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bavarian Nordic A/S
+  european_commission_decision_date: 16/10/2025
+  marketing_authorisation_date: 31/07/2013
+  opinion_adopted_date: 30/05/2013
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '31'
+metadata:
+  first_published: 23/04/2018
+  last_updated: 20/10/2025
+  latest_procedure: VR/0000291496
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/imvanex

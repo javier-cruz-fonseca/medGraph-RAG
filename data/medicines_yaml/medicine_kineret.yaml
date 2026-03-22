@@ -1,0 +1,66 @@
+name: Kineret
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000363
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: anakinra
+  active_substance: anakinra
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Rheumatoid;COVID-19 virus infection
+  atc_code_human: L04AC03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Rheumatoid Arthritis (RA) Kineret is indicated in adults
+    for the treatment of the signs and symptoms of RA in combination with methotrexate,
+    with an inadequate response to methotrexate alone. COVID-19 Kineret is indicated
+    for the treatment of coronavirus disease 2019 (COVID-19) in adult patients with
+    pneumonia requiring supplemental oxygen (low- or high-flow oxygen) who are at
+    risk of progressing to severe respiratory failure determined by plasma concentration
+    of soluble urokinase plasminogen activator receptor (suPAR) ? 6 ng/ml. Periodic
+    fever syndromes Kineret is indicated for the treatment of the following autoinflammatory
+    periodic fever syndromes in adults, adolescents, children and infants aged 8 months
+    and older with a body weight of 10 kg or above: Cryopyrin-Associated Periodic
+    Syndromes (CAPS) Kineret is indicated for the treatment of CAPS, including:  Neonatal-Onset
+    Multisystem Inflammatory Disease (NOMID) / Chronic Infantile Neurological, Cutaneous,
+    Articular Syndrome (CINCA) Muckle-Wells Syndrome (MWS) Familial Cold Autoinflammatory
+    Syndrome (FCAS)  Familial Mediterranean Fever (FMF) Kineret is indicated for the
+    treatment of Familial Mediterranean Fever (FMF). Kineret should be given in combination
+    with colchicine, if appropriate. Still’s Disease Kineret is indicated in adults,
+    adolescents, children and infants aged 8 months and older with a body weight of
+    10 kg or above for the treatment of Still’s disease, including Systemic Juvenile
+    Idiopathic Arthritis (SJIA) and Adult-Onset Still’s Disease (AOSD), with active
+    systemic features of moderate to high disease activity, or in patients with continued
+    disease activity after treatment with non-steroidal anti-inflammatory drugs (NSAIDs)
+    or glucocorticoids. Kineret can be given as monotherapy or in combination with
+    other anti-inflammatory drugs and disease-modifying antirheumatic drugs (DMARDs).'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Swedish Orphan Biovitrum AB (publ)
+  european_commission_decision_date: 04/09/2025
+  marketing_authorisation_date: 08/03/2002
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '38'
+metadata:
+  first_published: 06/04/2018
+  last_updated: 30/01/2026
+  latest_procedure: VR/0000249038
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/kineret

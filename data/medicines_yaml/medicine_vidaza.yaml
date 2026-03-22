@@ -1,0 +1,53 @@
+name: Vidaza
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000978
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: azacitidine
+  active_substance: azacitidine
+therapeutic_information:
+  therapeutic_area_mesh: Myelodysplastic Syndromes;Leukemia, Myelomonocytic, Chronic;Leukemia,
+    Myeloid, Acute
+  atc_code_human: L01BC07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Vidaza is indicated for the treatment of adult patients
+    who are not eligible for haematopoietic stem cell transplantation (HSCT) with:&nbsp;  intermediate
+    2 and high-risk myelodysplastic syndromes (MDS) according to the International
+    Prognostic Scoring System (IPSS), chronic myelomonocytic leukaemia (CMML) with
+    10 29 % marrow blasts without myeloproliferative disorder, acute myeloid leukaemia
+    (AML) with 20 30 % blasts and multi-lineage dysplasia, according to World Health
+    Organisation (WHO) classification.  Vidaza is indicated for the treatment of adult
+    patients aged 65 years or older who are not eligible for HSCT with AML with &gt;30%
+    marrow blasts according to the WHO classification.
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bristol-Myers Squibb Pharma EEIG
+  european_commission_decision_date: 01/11/2024
+  marketing_authorisation_date: 17/12/2008
+  opinion_adopted_date: 23/10/2008
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '28'
+metadata:
+  first_published: 18/05/2017
+  last_updated: 05/11/2024
+  latest_procedure: N/0062
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vidaza

@@ -1,0 +1,56 @@
+name: Vaxelis
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/003982
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: diphtheria, tetanus, pertussis (acellular, component), hepatitis
+    B (rDNA), poliomyelitis (inactivated) and Haemophilus type b conjugate vaccine
+    (adsorbed)
+  active_substance: 'Diphtheria toxoid;tetanus toxoid;Bordetella pertussis antigens:
+    pertussis toxoid, filamentous haemagglutinin, pertactin, fimbriae Types 2 and
+    3;hepatitis B surface antigen produced in yeast cells;poliovirus (inactivated):
+    type 1 (Mahoney), type 2 (MEF-1), type 3 (Saukett) produced in Vero cells/ Haemophilus
+    influenzae type b polysaccharide (polyribosylribitol phosphate) conjugated to
+    meningococcal protein.'
+therapeutic_information:
+  therapeutic_area_mesh: Meningitis, Haemophilus;Poliomyelitis;Tetanus;Diphtheria;Whooping
+    Cough;Hepatitis B
+  atc_code_human: J07CA09
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Vaxelis (DTaP-HB-IPV-Hib) is indicated for primary and booster
+    vaccination in infants and toddlers from the age of 6 weeks, against diphtheria,
+    tetanus, pertussis, hepatitis B, poliomyelitis and invasive diseases caused by
+    Haemophilus influenzae type b (Hib). The use of Vaxelis should be in accordance
+    with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: MCM Vaccine B.V.
+  european_commission_decision_date: 13/02/2026
+  marketing_authorisation_date: 15/02/2016
+  opinion_adopted_date: 17/12/2015
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '18'
+metadata:
+  first_published: 06/04/2018
+  last_updated: 16/02/2026
+  latest_procedure: VR/0000323852
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/vaxelis

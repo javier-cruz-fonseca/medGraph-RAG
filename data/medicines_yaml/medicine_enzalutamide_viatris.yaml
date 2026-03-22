@@ -1,0 +1,55 @@
+name: Enzalutamide Viatris
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006299
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: enzalutamide
+  active_substance: enzalutamide
+therapeutic_information:
+  therapeutic_area_mesh: Prostatic Neoplasms
+  atc_code_human: L02BB04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Enzalutamide Viatris is indicated:• as monotherapy or in
+    combination with androgen deprivation therapy for the treatment of adult men with
+    high-risk biochemical recurrent (BCR) non-metastatic hormone-sensitive prostate
+    cancer (nmHSPC) who are unsuitable for salvage-radiotherapy (see section 5.1);•
+    in combination with androgen deprivation therapy for the treatment of adult men
+    with metastatic hormone-sensitive prostate cancer (mHSPC) (see section 5.1);&nbsp;•
+    for the treatment of adult men with high-risk non-metastatic castration-resistant
+    prostate cancer (CRPC) (see section 5.1);• for the treatment of adult men with
+    metastatic CRPC who are asymptomatic or mildly symptomatic after failure of androgen
+    deprivation therapy in whom chemotherapy is not yet clinically indicated (see
+    section 5.1);• for the treatment of adult men with metastatic CRPC whose disease
+    has progressed on or after docetaxel therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Viatris Limited
+  european_commission_decision_date: 23/02/2026
+  marketing_authorisation_date: 22/08/2024
+  opinion_adopted_date: 27/06/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 28/06/2024
+  last_updated: 24/02/2026
+  latest_procedure: VR/0000333469
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/enzalutamide-viatris

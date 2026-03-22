@@ -1,0 +1,62 @@
+name: Pyzchiva
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006183
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: ustekinumab
+  active_substance: ustekinumab
+therapeutic_information:
+  therapeutic_area_mesh: Crohn Disease;Colitis, Ulcerative;Arthritis, Psoriatic
+  atc_code_human: L04AC05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Crohn’s DiseasePyzchiva is indicated for the treatment of
+    adult patients with moderately to severely active Crohn’s disease who have had
+    an inadequate response with, lost response to, or were intolerant to either conventional
+    therapy or a TNFα antagonist or have medical contraindications to such therapies.Plaque
+    psoriasisPyzchiva is indicated for the treatment of moderate to severe plaque
+    psoriasis in adults who failed to respond to, or who have a contraindication to,
+    or are intolerant to other systemic therapies including ciclosporin, methotrexate
+    (MTX) or PUVA (psoralen and ultraviolet A) (see section 5.1).Paediatric plaque
+    psoriasisPyzchiva is indicated for the treatment of moderate to severe plaque
+    psoriasis in children and adolescent patients from the age of 6 years and older,
+    who are inadequately controlled by, or are intolerant to, other systemic therapies
+    or phototherapies (see section 5.1). Psoriatic arthritis (PsA)Pyzchiva, alone
+    or in combination with MTX, is indicated for the treatment of active psoriatic
+    arthritis in adult patients when the response to previous non-biological disease-modifying
+    anti-rheumatic drug (DMARD) therapy has been inadequate (see section 5.1).Crohn’s
+    DiseasePyzchiva is indicated for the treatment of adult patients with moderately
+    to severely active Crohn’s disease who have had an inadequate response with, lost
+    response to, or were intolerant to either conventional therapy or a TNFα antagonist
+    or have medical contraindications to such therapies.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Samsung Bioepis NL B.V.
+  european_commission_decision_date: 03/11/2025
+  marketing_authorisation_date: 19/04/2024
+  opinion_adopted_date: 22/02/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 23/02/2024
+  last_updated: 21/11/2025
+  latest_procedure: VR/0000301212
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pyzchiva

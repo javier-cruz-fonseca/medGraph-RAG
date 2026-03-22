@@ -1,0 +1,44 @@
+name: Rilonacept FGK Representative Service GmbH
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006537
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: rilonacept
+  active_substance: rilonacept
+therapeutic_information:
+  therapeutic_area_mesh: Pericarditis
+  atc_code_human: L04AC04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of idiopathic pericarditis&nbsp;
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Rilonacept FGK Representative Service GmbH
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 12/02/2025
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 28/02/2025
+  last_updated: 04/07/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/rilonacept-fgk-representative-service-gmbh

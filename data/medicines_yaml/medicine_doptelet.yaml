@@ -1,0 +1,48 @@
+name: Doptelet
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004722
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: avatrombopag
+  active_substance: avatrombopag maleate
+therapeutic_information:
+  therapeutic_area_mesh: Thrombocytopenia
+  atc_code_human: B02BX
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Doptelet is indicated for the treatment of severe thrombocytopenia
+    in adult patients with chronic liver disease who are scheduled to undergo an invasive
+    procedure. Doptelet is indicated for the treatment of primary chronic immune thrombocytopenia
+    (ITP) in adult patients who are refractory to other treatments (e.g. corticosteroids,
+    immunoglobulins).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Swedish Orphan Biovitrum AB (publ)
+  european_commission_decision_date: 22/05/2025
+  marketing_authorisation_date: 20/06/2019
+  opinion_adopted_date: 26/04/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '10'
+metadata:
+  first_published: 24/04/2019
+  last_updated: 18/06/2025
+  latest_procedure: VR/0000255149
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/doptelet

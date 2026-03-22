@@ -1,0 +1,55 @@
+name: GONAL-f
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000071
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: follitropin alfa
+  active_substance: follitropin alfa
+therapeutic_information:
+  therapeutic_area_mesh: Anovulation;Reproductive Techniques, Assisted;Infertility,
+    Female;Hypogonadism
+  atc_code_human: G03GA05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Anovulation (including polycystic ovarian disease, PCOD)
+    in women who have been unresponsive to treatment with clomiphene citrate. Stimulation
+    of multifollicular development in patients undergoing superovulation for assisted
+    reproductive technologies (ART) such as in-vitro fertilisation (IVF), gamete intra-fallopian
+    transfer (GIFT) and zygote intra-fallopian transfer (ZIFT). GONAL-f in association
+    with a luteinising hormone (LH) preparation is recommended for the stimulation
+    of follicular development in women with severe LH and FSH deficiency. In clinical
+    trials these patients were defined by an endogenous serum LH level &lt;1.2 IU/l.
+    GONAL-f is indicated for the stimulation of spermatogenesis in men who have congenital
+    or acquired hypogonadotrophic hypogonadism with concomitant human chorionic gonadotrophin
+    (hCG) therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merck Europe B.V.
+  european_commission_decision_date: 06/01/2025
+  marketing_authorisation_date: 20/10/1995
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '27'
+metadata:
+  first_published: 03/08/2018
+  last_updated: 09/01/2025
+  latest_procedure: IB/0176/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/gonal-f

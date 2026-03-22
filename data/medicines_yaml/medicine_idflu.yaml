@@ -1,0 +1,49 @@
+name: IDflu
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000966
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: influenza vaccine (split virion, inactivated)
+  active_substance: influenza virus (inactivated, split) of the following strains:A/California/7/2009
+    (H1N1)pdm09 - like strain (A/California/7/2009, NYMC X-179A)A/Hong Kong/4801/2014
+    (H3N2) - like strain (A/Hong Kong/4801/2014, NYMC X-263B)B/Brisbane/60/2008 -
+    like strain (B/Brisbane/60/2008, wild type)
+therapeutic_information:
+  therapeutic_area_mesh: Influenza, Human;Immunization
+  atc_code_human: J07BB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Prophylaxis of influenza in individuals 60 years of age
+    and over, especially in those who run an increased risk of associated complications.The
+    use of IDflu should be based on official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sanofi Pasteur S.A.
+  european_commission_decision_date: 03/01/2017
+  marketing_authorisation_date: 24/02/2009
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 19/03/2018
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 03/01/2017
+  last_updated: 29/03/2018
+  latest_procedure: N/0048
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/idflu

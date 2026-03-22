@@ -1,0 +1,44 @@
+name: Enzalutamide Accordpharma
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006612
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: enzalutamide
+  active_substance: enzalutamide
+therapeutic_information:
+  therapeutic_area_mesh: Prostatic Neoplasms
+  atc_code_human: L02BB04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of prostate cancer.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare
+  european_commission_decision_date: 09/01/2026
+  marketing_authorisation_date: ''
+  opinion_adopted_date: 13/11/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 14/11/2025
+  last_updated: ''
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/enzalutamide-accordpharma

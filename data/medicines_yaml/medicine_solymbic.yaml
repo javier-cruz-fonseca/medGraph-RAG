@@ -1,0 +1,46 @@
+name: Solymbic
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004373
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: adalimumab
+  active_substance: adalimumab
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Psoriatic;Spondylitis, Ankylosing;Crohn Disease;Colitis,
+    Ulcerative;Hidradenitis Suppurativa;Psoriasis;Arthritis, Rheumatoid
+  atc_code_human: L04AB04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Please refer to section 4.1 of the Summary of product characteristics
+    in the product information document.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Amgen Europe B.V.
+  european_commission_decision_date: 22/06/2018
+  marketing_authorisation_date: 22/03/2017
+  opinion_adopted_date: 15/12/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 15/06/2018
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 14/06/2018
+  last_updated: 05/03/2019
+  latest_procedure: IG/0946
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/solymbic

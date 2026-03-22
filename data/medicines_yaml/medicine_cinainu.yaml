@@ -1,0 +1,48 @@
+name: Cinainu
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004155
+  medicine_status: Application withdrawn
+  opinion_status: Negative
+  inn_common_name: dry aqueous extract of paullinia cupana seed;dry hydroethanolic
+    extract of theobroma cacao seed;liquid ethanolic extract 30 per cent (W/W) of
+    Allium cepa fresh bulb and Citrus limon fresh fruit
+  active_substance: dry aqueous extract of paullinia cupana seed;dry hydroethanolic
+    extract of theobroma cacao seed;liquid ethanolic extract 30 per cent (W/W) of
+    Allium cepa fresh bulb and Citrus limon fresh fruit
+therapeutic_information:
+  therapeutic_area_mesh: Alopecia Areata
+  atc_code_human: ''
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of alopecia areata in children and adolescents.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Legacy Healthcare (France) S.A.S.
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: 14/11/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 26/02/2025
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 28/03/2025
+  last_updated: 26/05/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/cinainu

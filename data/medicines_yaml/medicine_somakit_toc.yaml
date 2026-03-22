@@ -1,0 +1,49 @@
+name: SomaKit TOC
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004140
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: edotreotide
+  active_substance: edotreotide
+therapeutic_information:
+  therapeutic_area_mesh: Neuroendocrine Tumors;Radionuclide Imaging
+  atc_code_human: V09IX
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: This medicinal product is for diagnostic use only. After
+    radiolabelling with gallium (68Ga) chloride solution, the solution of gallium
+    (68Ga) edotreotide obtained is indicated for Positron Emission Tomography (PET)
+    imaging of somatostatin receptor overexpression in adult patients with confirmed
+    or suspected well-differentiated gastro-enteropancreatic neuroendocrine tumours
+    (GEP-NET) for localizing primary tumours and their metastases.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Advanced Accelerator Applications
+  european_commission_decision_date: 04/04/2025
+  marketing_authorisation_date: 08/12/2016
+  opinion_adopted_date: 15/09/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '21'
+metadata:
+  first_published: 12/06/2017
+  last_updated: 04/04/2025
+  latest_procedure: N/0000263363
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/somakit-toc

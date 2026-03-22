@@ -1,0 +1,50 @@
+name: Fabhalta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005764
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: iptacopan
+  active_substance: iptacopan hydrochloride monohydrate
+therapeutic_information:
+  therapeutic_area_mesh: Hemoglobinuria, Paroxysmal
+  atc_code_human: L04A
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Paroxysmal nocturnal haemoglobinuria Fabhalta is indicated
+    as monotherapy in the treatment of adult patients with paroxysmal nocturnal haemoglobinuria
+    (PNH) who have haemolytic anaemia. Complement 3 glomerulopathy Fabhalta is indicated
+    for the treatment of adult patients with complement 3 glomerulopathy (C3G) in
+    combination with a renin-angiotensin system (RAS) inhibitor, or in patients who
+    are RAS-inhibitor intolerant, or for whom a RAS inhibitor is contraindicated (see
+    section 5.1).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Novartis Europharm Limited
+  european_commission_decision_date: 19/12/2025
+  marketing_authorisation_date: 17/05/2024
+  opinion_adopted_date: 21/03/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 14/06/2024
+  last_updated: 19/12/2025
+  latest_procedure: VR/0000319878
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/fabhalta

@@ -1,0 +1,46 @@
+name: Lacosamide UCB
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005243
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: lacosamide
+  active_substance: lacosamide
+therapeutic_information:
+  therapeutic_area_mesh: Epilepsies, Partial
+  atc_code_human: N03AX18
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Lacosamide UCB is indicated as monotherapy and adjunctive
+    therapy in the treatment of partial-onset seizures with or without secondary generalisation
+    in adults, adolescents and children from 4 years of age with epilepsy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: UCB Pharma S.A.
+  european_commission_decision_date: 12/05/2025
+  marketing_authorisation_date: 26/08/2019
+  opinion_adopted_date: 27/06/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '8'
+metadata:
+  first_published: 12/09/2019
+  last_updated: 23/05/2025
+  latest_procedure: VR/0000266348
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/lacosamide-ucb

@@ -1,0 +1,49 @@
+name: Pregabalin Zentiva k.s.
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004277
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: pregabalin
+  active_substance: pregabalin
+therapeutic_information:
+  therapeutic_area_mesh: Anxiety Disorders;Neuralgia;Epilepsy
+  atc_code_human: N03AX16
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Neuropathic pain  Pregabalin Zentiva k.s. is indicated for
+    the treatment of peripheral and central neuropathic pain in adults.  Epilepsy  Pregabalin
+    Zentiva k.s. is indicated as adjunctive therapy in adults with partial seizures
+    with or without secondary generalisation.  Generalised anxiety disorder  Pregabalin
+    Zentiva k.s. is indicated for the treatment of generalised anxiety disorder (GAD)
+    in adults.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Zentiva k.s.
+  european_commission_decision_date: 23/02/2023
+  marketing_authorisation_date: 27/02/2017
+  opinion_adopted_date: 15/12/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '13'
+metadata:
+  first_published: 18/05/2018
+  last_updated: 20/03/2023
+  latest_procedure: IB/0022/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/pregabalin-zentiva-ks

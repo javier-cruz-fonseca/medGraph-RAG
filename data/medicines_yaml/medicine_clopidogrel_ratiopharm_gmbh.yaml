@@ -1,0 +1,54 @@
+name: Clopidogrel ratiopharm GmbH
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001165
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: clopidogrel
+  active_substance: clopidogrel
+therapeutic_information:
+  therapeutic_area_mesh: Peripheral Vascular Diseases;Acute Coronary Syndrome;Myocardial
+    Infarction;Stroke
+  atc_code_human: B01AC04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Clopidogrel is indicated in adults for the prevention of
+    atherothrombotic events in:  patients suffering from myocardial infarction (from
+    a few days until less than 35 days), ischaemic stroke (from 7 days until less
+    than 6 months) or established peripheral arterial disease; patients suffering
+    from acute coronary syndrome:  non-ST-segment-elevation acute coronary syndrome
+    (unstable angina or non-Q wave-myocardial infarction), including patients undergoing
+    a stent placement following percutaneous coronary intervention, in combination
+    with acetylsalicylic acid (ASA); ST-segment-elevation acute myocardial infarction,
+    in combination with ASA in medically treated patients eligible for thrombolytic
+    therapy.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Archie Samiel s.r.o.
+  european_commission_decision_date: 22/08/2019
+  marketing_authorisation_date: 28/07/2009
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 13/01/2020
+  suspension_date: ''
+  revision_number: '12'
+metadata:
+  first_published: 13/04/2018
+  last_updated: 25/01/2021
+  latest_procedure: IAIN/0036
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/clopidogrel-ratiopharm-gmbh

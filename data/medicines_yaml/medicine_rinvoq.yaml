@@ -1,0 +1,67 @@
+name: Rinvoq
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004760
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: upadacitinib
+  active_substance: upadacitinib
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Rheumatoid
+  atc_code_human: L04AA44
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Rheumatoid arthritisRINVOQ is indicated for the treatment
+    of moderate to severe active rheumatoid arthritis in adult patients who have responded
+    inadequately to, or who are intolerant to one or more disease-modifying anti-rheumatic
+    drugs (DMARDs). RINVOQ may be used as monotherapy or in combination with methotrexate.
+    Psoriatic arthritisRINVOQ is indicated for the treatment of active psoriatic arthritis
+    in adult patients who have responded inadequately to, or who are intolerant to
+    one or more DMARDs. RINVOQ may be used as monotherapy or in combination with methotrexate.
+    Axial spondyloarthritis Non-radiographic axial spondyloarthritis (nr-axSpA)&nbsp;RINVOQ
+    is indicated for the treatment of active non-radiographic axial spondyloarthritis
+    in adult patients with objective signs of inflammation as indicated by elevated
+    C-reactive protein (CRP) and/or magnetic resonance imaging (MRI), who have responded
+    inadequately to nonsteroidal anti-inflammatory drugs (NSAIDs). Ankylosing spondylitis
+    (AS, radiographic axial spondyloarthritis)&nbsp;RINVOQ is indicated for the treatment
+    of active ankylosing spondylitis in adult patients who have responded inadequately
+    to conventional therapy. Giant cell arteritisRINVOQ is indicated for the treatment
+    of giant cell arteritis in adult patients. Atopic dermatitisRINVOQ is indicated
+    for the treatment of moderate to severe atopic dermatitis in adults and adolescents
+    12 years and older who are candidates for systemic therapy. Ulcerative colitisRINVOQ
+    is indicated for the treatment of adult patients with moderately to severely active
+    ulcerative colitis who have had an inadequate response, lost response or were
+    intolerant to either conventional therapy or a biologic agent.&nbsp; Crohn’s diseaseRINVOQ
+    is indicated for the treatment of adult patients with moderately to severely active
+    Crohn’s disease who have had an inadequate response, lost response or were intolerant
+    to either conventional therapy or a biologic agent.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: AbbVie Deutschland GmbH & Co. KG
+  european_commission_decision_date: 17/11/2025
+  marketing_authorisation_date: 16/12/2019
+  opinion_adopted_date: 17/10/2019
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '29'
+metadata:
+  first_published: 18/10/2019
+  last_updated: 28/11/2025
+  latest_procedure: VR/0000308226
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/rinvoq

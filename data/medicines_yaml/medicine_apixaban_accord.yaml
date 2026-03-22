@@ -1,0 +1,62 @@
+name: Apixaban Accord
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005358
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: apixaban
+  active_substance: apixaban
+therapeutic_information:
+  therapeutic_area_mesh: Venous Thromboembolism;Stroke;Arthroplasty
+  atc_code_human: B01AF02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Adults&nbsp;Prevention of stroke and systemic embolism in
+    adult patients with non-valvular atrial fibrillation (NVAF), with one or more
+    risk factors, such as prior stroke or transient ischaemic attack (TIA); age≥ 75
+    years; hypertension; diabetes mellitus; symptomatic heart failure (NYHA Class
+    ≥ II). &nbsp; Treatment of deep vein thrombosis (DVT) and pulmonary embolism (PE),
+    and prevention of recurrent DVT and PE in adults (see section 4.4 for haemodynamically
+    unstable PE patients). &nbsp; Paediatric population &nbsp;Treatment of venous
+    thromboembolism (VTE) and prevention of recurrent VTE in paediatric patients from
+    28 days to less than 18 years of age. Adults &nbsp;Prevention of venous thromboembolic
+    events (VTE) in adult patients who have undergone elective hip or knee replacement
+    surgery. &nbsp; Prevention of stroke and systemic embolism in adult patients with
+    non-valvular atrial fibrillation (NVAF), with one or more risk factors, such as
+    prior stroke or transient ischaemic attack (TIA); age ≥ 75 years; hypertension;
+    diabetes mellitus; symptomatic heart failure (NYHA Class ≥ II). &nbsp; Treatment
+    of deep vein thrombosis (DVT) and pulmonary embolism (PE), and prevention of recurrent
+    DVT and PE in adults (see section 4.4 for haemodynamically unstable PE patients).
+    &nbsp; Paediatric population&nbsp;Treatment of venous thromboembolism (VTE) and
+    prevention of recurrent VTE in paediatric patients from 28 days to less than 18
+    years of age.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Accord Healthcare S.L.U.
+  european_commission_decision_date: 24/02/2026
+  marketing_authorisation_date: 23/07/2020
+  opinion_adopted_date: 28/05/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 06/08/2020
+  last_updated: 24/02/2026
+  latest_procedure: VR/0000324419
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/apixaban-accord

@@ -1,0 +1,56 @@
+name: Janumet
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000861
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sitagliptin;metformin
+  active_substance: sitagliptin;metformin hydrochloride
+therapeutic_information:
+  therapeutic_area_mesh: Diabetes Mellitus, Type 2
+  atc_code_human: A10BD07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'For patients with type 2 diabetes mellitus:  Janumet is
+    indicated as an adjunct to diet and exercise to improve glycaemic control in patients
+    inadequately controlled on their maximal tolerated dose of metformin alone or
+    those already being treated with the combination of sitagliptin and metformin.
+    Janumet is indicated in combination with a sulphonylurea (i.e., triple combination
+    therapy) as an adjunct to diet and exercise in patients inadequately controlled
+    on their maximal tolerated dose of metformin and a sulphonylurea. Janumet is indicated
+    as triple combination therapy with a PPAR  agonist (i.e., a thiazolidinedione)
+    as an adjunct to diet and exercise in patients inadequately controlled on their
+    maximal tolerated dose of metformin and a PPAR  agonist. Janumet is also indicated
+    as add on to insulin (i.e., triple combination therapy) as an adjunct to diet
+    and exercise to improve glycaemic control in patients when stable dosage of insulin
+    and metformin alone do not provide adequate glycaemic control.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Merck Sharp & Dohme B.V.
+  european_commission_decision_date: 10/11/2025
+  marketing_authorisation_date: 16/07/2008
+  opinion_adopted_date: 24/04/2008
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: 18/02/2009
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '34'
+metadata:
+  first_published: 29/06/2018
+  last_updated: 13/11/2025
+  latest_procedure: N/0000309673
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/janumet

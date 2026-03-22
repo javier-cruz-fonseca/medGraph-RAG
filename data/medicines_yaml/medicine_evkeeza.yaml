@@ -1,0 +1,47 @@
+name: Evkeeza
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005449
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: evinacumab
+  active_substance: Evinacumab
+therapeutic_information:
+  therapeutic_area_mesh: Hypercholesterolemia
+  atc_code_human: C10AX
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Evkeeza is indicated as an adjunct to diet and other low-density
+    lipoprotein-cholesterol (LDL-C) lowering therapies for the treatment of adult
+    and adolescent patients aged 12 years and older with homozygous familial hypercholesterolaemia
+    (HoFH).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'Yes'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Ultragenyx Germany GmbH
+  european_commission_decision_date: 23/02/2026
+  marketing_authorisation_date: 17/06/2021
+  opinion_adopted_date: 22/04/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '11'
+metadata:
+  first_published: 21/04/2021
+  last_updated: 26/02/2026
+  latest_procedure: R/0000293523
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/evkeeza

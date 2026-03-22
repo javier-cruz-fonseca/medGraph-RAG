@@ -1,0 +1,46 @@
+name: Melatonin Neurim
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005603
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: melatonin
+  active_substance: melatonin
+therapeutic_information:
+  therapeutic_area_mesh: Sleep Initiation and Maintenance Disorders
+  atc_code_human: N05CH01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Melatonin Neurim is indicated as monotherapy for the short-term
+    treatment of primary insomnia characterised by poor quality of sleep in patients
+    who are aged 55 or over.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: RAD Neurim Pharmaceuticals EEC SARL
+  european_commission_decision_date: 14/09/2023
+  marketing_authorisation_date: 07/11/2022
+  opinion_adopted_date: 15/09/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '1'
+metadata:
+  first_published: 14/09/2022
+  last_updated: 15/09/2023
+  latest_procedure: IAIN/0002
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/melatonin-neurim

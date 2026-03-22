@@ -1,0 +1,57 @@
+name: Kevzara
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004254
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sarilumab
+  active_substance: sarilumab
+therapeutic_information:
+  therapeutic_area_mesh: Arthritis, Rheumatoid
+  atc_code_human: L04AC14
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Rheumatoid arthritisKevzara in combination with methotrexate
+    (MTX) is indicated for the treatment of moderately to severely active rheumatoid
+    arthritis (RA) in adult patients who have responded inadequately to, or who are
+    intolerant to one or more disease modifying anti rheumatic drugs (DMARDs). Kevzara
+    can be given as monotherapy in case of intolerance to MTX or when treatment with
+    MTX is inappropriate.&nbsp;Polymyalgia rheumaticaKevzara is indicated for the
+    treatment of polymyalgia rheumatica (PMR) in adult patients who have had an inadequate
+    response to corticosteroids or who experience a relapse during corticosteroid
+    taper. Polyarticular juvenile idiopathic arthritis Kevzara is indicated for the
+    treatment of active polyarticular juvenile idiopathic arthritis (pJIA; rheumatoid
+    factor positive or negative polyarthritis and extended oligoarthritis) in patients
+    2&nbsp;years of age and older, who have responded inadequately to previous therapy
+    with conventional synthetic DMARDs (csDMARDs). Kevzara may be used as monotherapy
+    or in combination with MTX.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Sanofi Winthrop Industrie
+  european_commission_decision_date: 19/02/2026
+  marketing_authorisation_date: 23/06/2017
+  opinion_adopted_date: 21/04/2017
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '16'
+metadata:
+  first_published: 24/08/2017
+  last_updated: 20/02/2026
+  latest_procedure: VR/0000323506
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/kevzara

@@ -1,0 +1,63 @@
+name: Posaconazole SP
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000611
+  medicine_status: Lapsed
+  opinion_status: ''
+  inn_common_name: posaconazole
+  active_substance: posaconazole
+therapeutic_information:
+  therapeutic_area_mesh: Candidiasis;Mycoses;Coccidioidomycosis;Aspergillosis
+  atc_code_human: J02AC04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Posaconazole SP is indicated for use in the treatment of
+    the following fungal infections in adults (see section 5.1):- Invasive aspergillosis
+    in patients with disease that is refractory to amphotericin B or itraconazole
+    or in patients who are intolerant of these medicinal products;- Fusariosis in
+    patients with disease that is refractory to amphotericin B or in patients who
+    are intolerant of amphotericin B;- Chromoblastomycosis and mycetoma in patients
+    with disease that is refractory to itraconazole or in patients who are intolerant
+    of itraconazole;- Coccidioidomycosis in patients with disease that is refractory
+    to amphotericin B, itraconazole or fluconazole or in patients who are intolerant
+    of these medicinal products;- Oropharyngeal candidiasis: as first-line therapy
+    in patients who have severe disease or are immunocompromised, in whom response
+    to topical therapy is expected to be poor.Refractoriness is defined as progression
+    of infection or failure to improve after a minimum of 7 days of prior therapeutic
+    doses of effective antifungal therapy.Posaconazole SP is also indicated for prophylaxis
+    of invasive fungal infections in the following patients:- Patients receiving remission-induction
+    chemotherapy for acute myelogenous leukemia (AML) or myelodysplastic syndromes
+    (MDS) expected to result in prolonged neutropenia and who areat high risk of developing
+    invasive fungal infections;- Hematopoietic stem cell transplant (HSCT) recipients
+    who are undergoing high-dose immunosuppressive therapy for graft versus host disease
+    and who are at high risk of developing invasive fungal infections.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Schering-Plough Europe
+  european_commission_decision_date: 04/12/2008
+  marketing_authorisation_date: 25/10/2005
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 20/11/2008
+  suspension_date: ''
+  revision_number: '5'
+metadata:
+  first_published: 04/12/2008
+  last_updated: 04/08/2009
+  latest_procedure: II/0011
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/posaconazole-sp

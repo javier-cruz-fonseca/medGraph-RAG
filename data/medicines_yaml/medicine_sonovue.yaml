@@ -1,0 +1,61 @@
+name: SonoVue
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000303
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: sulphur hexafluoride
+  active_substance: sulphur hexafluoride
+therapeutic_information:
+  therapeutic_area_mesh: Ultrasonography;Echocardiography
+  atc_code_human: V08DA05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: This medicinal product is for diagnostic use only. SonoVue
+    is for use with ultrasound imaging to enhance the echogenicity of the blood, or
+    of fluids in the urinary tract which results in an improved signal to noise ratio.
+    SonoVue should only be used in patients where study without contrast enhancement
+    is inconclusive. Echocardiography SonoVue is a transpulmonary echocardiographic
+    contrast agent for use in adult patients with suspected or established cardiovascular
+    disease to provide opacification of cardiac chambers and enhance left ventricular
+    endocardial border delineation. Doppler of macrovasculature SonoVue increases
+    the accuracy in detection or exclusion of abnormalities in cerebral arteries and
+    extracranial carotid or peripheral arteries in adult patients by improving the
+    Doppler signal to noise ratio. SonoVue increases the quality of the Doppler flow
+    image and the duration of clinically useful signal enhancement in portal vein
+    assessment in adult patients. Doppler of microvasculature SonoVue improves display
+    of the vascularity of liver and breast lesions during Doppler sonography in adult
+    patients leading to more specific lesion characterisation. Ultrasonography of
+    excretory urinary tract SonoVue is indicated for use in ultrasonography of the
+    excretory tract in paediatric patients from newborn to 18 years to detect vesicoureteral
+    reflux. For the limitation in the interpretation of a negative urosonography.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Bracco International B.V.
+  european_commission_decision_date: 10/11/2022
+  marketing_authorisation_date: 26/03/2001
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '21'
+metadata:
+  first_published: 26/04/2018
+  last_updated: 24/11/2025
+  latest_procedure: II/0049
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/sonovue

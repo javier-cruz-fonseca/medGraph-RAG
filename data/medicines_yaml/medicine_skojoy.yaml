@@ -1,0 +1,46 @@
+name: Skojoy
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006551
+  medicine_status: Application withdrawn
+  opinion_status: Positive
+  inn_common_name: aflibercept
+  active_substance: aflibercept
+therapeutic_information:
+  therapeutic_area_mesh: Wet Macular Degeneration;Macular Edema;Retinal Vein Occlusion;Choroidal
+    Neovascularization
+  atc_code_human: S01LA05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of age-related macular degeneration (AMD) and
+    visual impairment.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'Yes'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Amgen Technology (Ireland) UC
+  european_commission_decision_date: ''
+  marketing_authorisation_date: ''
+  opinion_adopted_date: 30/01/2025
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 12/03/2025
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 31/01/2025
+  last_updated: 14/04/2025
+  latest_procedure: ''
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/skojoy

@@ -1,0 +1,51 @@
+name: Qdenga
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005155
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: dengue tetravalent vaccine (live, attenuated)
+  active_substance: Dengue virus, serotype 2, expressing Dengue virus, serotype 1,
+    surface proteins, live, attenuated;Dengue virus, serotype 2, expressing Dengue
+    virus, serotype 3, surface proteins, live, attenuated;Dengue virus, serotype 2,
+    expressing Dengue virus, serotype 4, surface proteins, live, attenuated;Dengue
+    virus, serotype 2, live, attenuated
+therapeutic_information:
+  therapeutic_area_mesh: Dengue
+  atc_code_human: J07BX04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Qdenga is indicated for the prevention of dengue disease
+    in individuals from 4 years of age. The use of Qdenga should be in accordance
+    with official recommendations.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland
+    Branch
+  european_commission_decision_date: 19/12/2025
+  marketing_authorisation_date: 05/12/2022
+  opinion_adopted_date: 13/10/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 12/10/2022
+  last_updated: 30/01/2026
+  latest_procedure: T/0000310354
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/qdenga

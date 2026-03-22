@@ -1,0 +1,44 @@
+name: Memantine FGK
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002687
+  medicine_status: Application withdrawn
+  opinion_status: ''
+  inn_common_name: memantine
+  active_substance: memantine
+therapeutic_information:
+  therapeutic_area_mesh: Alzheimer Disease
+  atc_code_human: N06DX01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of Alzheimers disease
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: FGK Representative Service GmbH
+  european_commission_decision_date: 18/01/2013
+  marketing_authorisation_date: ''
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: 18/12/2012
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: ''
+metadata:
+  first_published: 18/01/2013
+  last_updated: 10/04/2013
+  latest_procedure: '-'
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/memantine-fgk

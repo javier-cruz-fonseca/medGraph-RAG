@@ -1,0 +1,55 @@
+name: Thiotepa Riemser
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005434
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: thiotepa
+  active_substance: thiotepa
+therapeutic_information:
+  therapeutic_area_mesh: Hematopoietic Stem Cell Transplantation;Neoplasms
+  atc_code_human: L01AC01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Thiotepa Riemser is indicated, in combination with other
+    chemotherapy medicinal products:  with or without total body irradiation (TBI),
+    as conditioning treatment prior to allogeneic or autologous haematopoietic progenitor
+    cell transplantation (HPCT) in haematological diseases in adult and paediatric
+    patients; when high dose chemotherapy with HPCT support is appropriate for the
+    treatment of solid tumours in adult and paediatric patients.  Thiotepa Riemser
+    is indicated, in combination with other chemotherapy medicinal products:  with
+    or without total body irradiation (TBI), as conditioning treatment prior to allogeneic
+    or autologous haematopoietic progenitor cell transplantation (HPCT) in haematological
+    diseases in adult and paediatric patients; when high dose chemotherapy with HPCT
+    support is appropriate for the treatment of solid tumours in adult and paediatric
+    patients'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'Yes'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Esteve Pharmaceuticals GmbH
+  european_commission_decision_date: 18/10/2023
+  marketing_authorisation_date: 26/03/2021
+  opinion_adopted_date: 28/01/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 30/04/2021
+  last_updated: 23/10/2023
+  latest_procedure: IAIN/0006
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/thiotepa-riemser

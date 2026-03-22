@@ -1,0 +1,46 @@
+name: Zynlonta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005685
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: loncastuximab tesirine
+  active_substance: loncastuximab tesirine
+therapeutic_information:
+  therapeutic_area_mesh: Lymphoma, Large B-Cell, Diffuse;Lymphoma, B-Cell
+  atc_code_human: L01FX22
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Zynlonta as monotherapy is indicated for the treatment of
+    adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL)
+    and high-grade B-cell lymphoma (HGBL), after two or more lines of systemic therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Swedish Orphan Biovitrum AB
+  european_commission_decision_date: 24/10/2025
+  marketing_authorisation_date: 20/12/2022
+  opinion_adopted_date: 15/09/2022
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '6'
+metadata:
+  first_published: 14/09/2022
+  last_updated: 25/11/2025
+  latest_procedure: R/0000281443
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/zynlonta

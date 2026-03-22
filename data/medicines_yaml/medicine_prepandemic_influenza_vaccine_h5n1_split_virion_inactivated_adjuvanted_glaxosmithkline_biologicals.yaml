@@ -1,0 +1,52 @@
+name: Prepandemic Influenza Vaccine (H5N1) (Split Virion, Inactivated, Adjuvanted)
+  GlaxoSmithKline Biologicals
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/001015
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: prepandemic influenza vaccine (H5N1) (split virion, inactivated,
+    adjuvanted)
+  active_substance: 'split influenza virus, inactivated, containing antigen: A/VietNam/1194/2004
+    (H5N1) like strain used (NIBRG-14)'
+therapeutic_information:
+  therapeutic_area_mesh: Influenza, Human;Immunization;Disease Outbreaks
+  atc_code_human: J07BB02
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Active immunisation against H5N1 subtype of Influenza A
+    virus. This indication is based on immunogenicity data from healthy subjects from
+    the age of 18 years onwards following administration of two doses of vaccine prepared
+    from A/VietNam/1194/2004 NIBRG-14 (H5N1) (see section 5.1). Prepandemic influenza
+    vaccine (H5N1) (split virion, inactivated, adjuvanted) GlaxoSmithKline Biologicals
+    3.75 µg should be used in accordance with official guidance.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Biologicals S.A.
+  european_commission_decision_date: 03/10/2011
+  marketing_authorisation_date: 26/09/2008
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 03/11/2011
+  suspension_date: ''
+  revision_number: '3'
+metadata:
+  first_published: 03/10/2011
+  last_updated: 21/03/2012
+  latest_procedure: II/0013
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/prepandemic-influenza-vaccine-h5n1-split-virion-inactivated-adjuvanted-glaxosmithkline-biologicals

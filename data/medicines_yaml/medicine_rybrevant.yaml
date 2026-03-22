@@ -1,0 +1,53 @@
+name: Rybrevant
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/005454
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: amivantamab
+  active_substance: amivantamab
+therapeutic_information:
+  therapeutic_area_mesh: Carcinoma, Non-Small-Cell Lung
+  atc_code_human: L01FX18
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Rybrevant is indicated:  in combination with lazertinib
+    for the first line treatment of adult patients with advanced non small cell lung
+    cancer (NSCLC) with EGFR Exon 19 deletions or Exon 21 L858R substitution mutations.
+    in combination with carboplatin and pemetrexed for the treatment of adult patients
+    with advanced NSCLC with EGFR Exon&nbsp;19 deletions or Exon&nbsp;21 L858R substitution
+    mutations after failure of prior therapy including an EGFR tyrosine kinase inhibitor
+    (TKI). in combination with carboplatin and pemetrexed for the first line treatment
+    of adult patients with advanced NSCLC with activating EGFR Exon 20 insertion mutations.
+    as monotherapy for treatment of adult patients with advanced NSCLC with activating
+    EGFR Exon 20 insertion mutations, after failure of platinum based therapy.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Janssen-Cilag International N.V.
+  european_commission_decision_date: 18/09/2025
+  marketing_authorisation_date: 09/12/2021
+  opinion_adopted_date: 14/10/2021
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '10'
+metadata:
+  first_published: 12/10/2021
+  last_updated: 29/10/2025
+  latest_procedure: VR/0000261993
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/rybrevant

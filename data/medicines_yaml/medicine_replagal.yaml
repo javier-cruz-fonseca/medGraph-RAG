@@ -1,0 +1,46 @@
+name: Replagal
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000369
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: agalsidase alfa
+  active_substance: agalsidase alfa
+therapeutic_information:
+  therapeutic_area_mesh: Fabry Disease
+  atc_code_human: A16AB03
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Replagal is indicated for long-term enzyme-replacement therapy
+    in patients with a confirmed diagnosis of Fabry disease (?-galactosidase-A deficiency).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Takeda Pharmaceuticals International AG Ireland
+    Branch
+  european_commission_decision_date: 17/12/2025
+  marketing_authorisation_date: 03/08/2001
+  opinion_adopted_date: 29/03/2001
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '30'
+metadata:
+  first_published: 21/11/2017
+  last_updated: 19/12/2025
+  latest_procedure: VR/0000310907
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/replagal

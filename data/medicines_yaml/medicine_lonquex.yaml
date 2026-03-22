@@ -1,0 +1,47 @@
+name: Lonquex
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002556
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: lipegfilgrastim
+  active_substance: lipegfilgrastim
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: L03AA14
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Lonquex is indicated in adults and in children 2 years of
+    age and older for reduction in the duration of neutropenia and the incidence of
+    febrile neutropenia in patients treated with cytotoxic chemotherapy for malignancy
+    (with the exception of chronic myeloid leukaemia and myelodysplastic syndromes).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Teva B.V.
+  european_commission_decision_date: 26/10/2023
+  marketing_authorisation_date: 25/07/2013
+  opinion_adopted_date: 30/05/2013
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '28'
+metadata:
+  first_published: 22/02/2018
+  last_updated: 19/02/2024
+  latest_procedure: II/0080
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/lonquex

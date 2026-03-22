@@ -1,0 +1,46 @@
+name: Foscan
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000318
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: temoporfin
+  active_substance: temoporfin
+therapeutic_information:
+  therapeutic_area_mesh: Head and Neck Neoplasms;Carcinoma, Squamous Cell
+  atc_code_human: L01XD05
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Foscan is indicated for the palliative treatment of patients
+    with advanced head and neck squamous cell carcinoma failing prior therapies and
+    unsuitable for radiotherapy, surgery or systemic chemotherapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Biolitec Pharma Ltd
+  european_commission_decision_date: 29/03/2016
+  marketing_authorisation_date: 24/10/2001
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '18'
+metadata:
+  first_published: 29/03/2016
+  last_updated: 12/02/2026
+  latest_procedure: IB/0041/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/foscan

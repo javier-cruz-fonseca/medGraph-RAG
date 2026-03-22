@@ -1,0 +1,47 @@
+name: Exparel liposomal
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004586
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: bupivacaine
+  active_substance: bupivacaine
+therapeutic_information:
+  therapeutic_area_mesh: Acute Pain
+  atc_code_human: N01BB01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Exparel&nbsp;liposomal is indicated:  in adults as a brachial
+    plexus block or femoral nerve block for treatment of post-operative pain. in adults
+    and children aged 6 years or older as a field block for treatment of somatic post-operative
+    pain from small- to medium-sized surgical wounds.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pacira Ireland Limited
+  european_commission_decision_date: 23/07/2025
+  marketing_authorisation_date: 16/11/2020
+  opinion_adopted_date: 17/09/2020
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 10/12/2020
+  last_updated: 13/08/2025
+  latest_procedure: R/0000248989
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/exparel-liposomal

@@ -1,0 +1,49 @@
+name: Deltyba
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002552
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: delamanid
+  active_substance: Delamanid
+therapeutic_information:
+  therapeutic_area_mesh: Tuberculosis, Multidrug-Resistant
+  atc_code_human: J04AK06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Deltyba is indicated for use as part of an appropriate combination
+    regimen for pulmonary multi-drug resistant tuberculosis (MDR-TB) in adults, adolescents,
+    children and infants with a body weight of at least 10 kg when an effective treatment
+    regimen cannot otherwise be composed for reasons of resistance or tolerability
+    (see sections 4.2, 4.4 and 5.1). Consideration should be given to official guidance
+    on the appropriate use of antibacterial agents.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Otsuka Novel Products GmbH
+  european_commission_decision_date: 25/04/2025
+  marketing_authorisation_date: 27/04/2014
+  opinion_adopted_date: 21/11/2013
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: 25/07/2013
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '27'
+metadata:
+  first_published: 11/06/2018
+  last_updated: 05/05/2025
+  latest_procedure: R/0076
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/deltyba

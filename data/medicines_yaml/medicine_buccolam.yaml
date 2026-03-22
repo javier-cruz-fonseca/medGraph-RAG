@@ -1,0 +1,48 @@
+name: Buccolam
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002267
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: midazolam
+  active_substance: midazolam
+therapeutic_information:
+  therapeutic_area_mesh: Epilepsy
+  atc_code_human: N05CD08
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Treatment of prolonged, acute, convulsive seizures in infants
+    from 3 months to adults.BUCCOLAM must only be used by parents/carers where the
+    patient has been diagnosed to have epilepsy.For infants between 3-6 months of
+    age treatment should be in a hospital setting where monitoring is possible and
+    resuscitation equipment is available. See section 4.2.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Neuraxpharm Pharmaceuticals S.L.
+  european_commission_decision_date: 21/10/2024
+  marketing_authorisation_date: 04/09/2011
+  opinion_adopted_date: 23/06/2011
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '21'
+metadata:
+  first_published: 25/07/2018
+  last_updated: 13/11/2024
+  latest_procedure: II/0061
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/buccolam

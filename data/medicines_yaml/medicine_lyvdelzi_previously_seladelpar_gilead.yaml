@@ -1,0 +1,47 @@
+name: Lyvdelzi (previously Seladelpar Gilead)
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004692
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: seladelpar lysine dihydrate
+  active_substance: seladelpar lysine dihydrate
+therapeutic_information:
+  therapeutic_area_mesh: Liver Cirrhosis, Biliary
+  atc_code_human: A05AX07
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Lyvdelzi is indicated for the treatment of primary biliary
+    cholangitis (PBC) in combination with ursodeoxycholic acid (UDCA) in adults who
+    have an inadequate response to UDCA alone, or as monotherapy in those unable to
+    tolerate UDCA.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'Yes'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'Yes'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Gilead Sciences Ireland Unlimited Company
+  european_commission_decision_date: 05/12/2025
+  marketing_authorisation_date: ''
+  opinion_adopted_date: 12/12/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '4'
+metadata:
+  first_published: 13/12/2024
+  last_updated: 20/02/2026
+  latest_procedure: R/0000290389
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/lyvdelzi

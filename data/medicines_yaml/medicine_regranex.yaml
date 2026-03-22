@@ -1,0 +1,46 @@
+name: Regranex
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/000212
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: becaplermin
+  active_substance: becaplermin
+therapeutic_information:
+  therapeutic_area_mesh: Wound Healing;Skin Ulcer
+  atc_code_human: D03AX06
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Regranex is indicated, in association with other good wound
+    care measures, to promote granulation and thereby the healing of full-thickness,
+    neuropathic, chronic, diabetic ulcers less than or equal to 5 cm2.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Janssen-Cilag International NV
+  european_commission_decision_date: 11/10/2010
+  marketing_authorisation_date: 29/03/1999
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: 16/07/2012
+  suspension_date: ''
+  revision_number: '18'
+metadata:
+  first_published: 11/10/2010
+  last_updated: 15/08/2012
+  latest_procedure: IB/0037/G
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/regranex

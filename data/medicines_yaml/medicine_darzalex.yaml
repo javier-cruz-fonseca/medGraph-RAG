@@ -1,0 +1,78 @@
+name: Darzalex
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/004077
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: daratumumab
+  active_substance: daratumumab
+therapeutic_information:
+  therapeutic_area_mesh: Multiple Myeloma
+  atc_code_human: L01FC01
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Multiple Myeloma&nbsp; Darzalex&nbsp;is&nbsp;indicated:  in
+    combination with lenalidomide and dexamethasone&nbsp;or&nbsp;with&nbsp;bortezomib,&nbsp;melphalan&nbsp;and
+    prednisone for the treatment of adult patients with newly diagnosed multiple myeloma
+    who are ineligible for autologous stem cell transplant. in&nbsp;combination&nbsp;with&nbsp;bortezomib,&nbsp;lenalidomide&nbsp;and
+    dexamethasone for the treatment of adult patients with newly diagnosed multiple
+    myeloma. in&nbsp;combination&nbsp;with&nbsp;bortezomib,&nbsp;thalidomide&nbsp;and
+    dexamethasone&nbsp;for&nbsp;the&nbsp;treatment&nbsp;of&nbsp;adult&nbsp;patients
+    with newly diagnosed multiple myeloma who are eligible for autologous stem cell
+    transplant. in combination with lenalidomide and dexamethasone, or bortezomib
+    and dexamethasone,&nbsp;for&nbsp;the&nbsp;treatment&nbsp;of&nbsp;adult&nbsp;patients
+    with multiple myeloma who have received at least one prior therapy. in combination
+    with pomalidomide and dexamethasone for the treatment of adult patients with&nbsp;multiple&nbsp;myeloma&nbsp;who&nbsp;have&nbsp;received&nbsp;one&nbsp;prior
+    therapy containing a proteasome inhibitor and lenalidomide and were lenalidomide
+    refractory, or who have received at least two prior therapies that included lenalidomide
+    and a proteasome inhibitor and have demonstrated disease progression on or after
+    the last therapy (see section 5.1). in as monotherapy for the treatment of adult
+    patients with relapsed and refractory multiple myeloma, whose prior therapy included
+    a proteasome&nbsp;inhibitor&nbsp;and&nbsp;an&nbsp;immunomodulatory agent&nbsp;and&nbsp;who&nbsp;have&nbsp;demonstrated&nbsp;disease
+    progression on the last therapy.  Smouldering&nbsp;multiple&nbsp;myeloma Darzalex&nbsp;as&nbsp;monotherapy&nbsp;is&nbsp;indicated&nbsp;for&nbsp;the
+    treatment of adult patients with smouldering multiple myeloma at high risk of
+    developing multiple myeloma. Light&nbsp;chain&nbsp;(AL)&nbsp;amyloidosis Darzalex
+    is indicated in combination with cyclophosphamide,&nbsp;bortezomib&nbsp;and&nbsp;dexamethasone
+    for the treatment of adult patients with newly diagnosed systemic light chain
+    (AL) amyloidosis. Darzalex&nbsp;is&nbsp;indicated:  in combination with lenalidomide
+    and dexamethasone&nbsp;or&nbsp;with&nbsp;bortezomib,&nbsp;melphalan&nbsp;and prednisone
+    for the treatment of adult patients with newly diagnosed multiple myeloma who
+    are ineligible for autologous stem cell transplant. in&nbsp;combination&nbsp;with&nbsp;bortezomib,&nbsp;thalidomide&nbsp;and
+    dexamethasone&nbsp;for&nbsp;the&nbsp;treatment&nbsp;of&nbsp;adult&nbsp;patients
+    with newly diagnosed multiple myeloma who are eligible for autologous stem cell
+    transplant. in combination with lenalidomide and dexamethasone, or bortezomib
+    and dexamethasone,&nbsp;for&nbsp;the&nbsp;treatment&nbsp;of&nbsp;adult&nbsp;patients
+    with multiple myeloma who have received at least one prior therapy. as monotherapy
+    for the treatment of adult patients with relapsed and refractory multiple myeloma,
+    whose prior therapy included a proteasome&nbsp;inhibitor&nbsp;and&nbsp;an&nbsp;immunomodulatory
+    agent and who have demonstrated disease progression on the last therapy.'
+regulatory_classification:
+  accelerated_assessment: 'Yes'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'Yes'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Janssen-Cilag International N.V.
+  european_commission_decision_date: 27/11/2025
+  marketing_authorisation_date: 20/05/2016
+  opinion_adopted_date: 31/03/2016
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '27'
+metadata:
+  first_published: 31/08/2018
+  last_updated: 19/01/2026
+  latest_procedure: VR/0000282640
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/darzalex

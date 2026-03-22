@@ -1,0 +1,53 @@
+name: Dicural
+basic_information:
+  category: Veterinary
+  ema_product_number: EMEA/V/C/000031
+  medicine_status: Withdrawn
+  opinion_status: ''
+  inn_common_name: difloxacin
+  active_substance: difloxacin
+therapeutic_information:
+  therapeutic_area_mesh: ''
+  atc_code_human: ''
+  atcvet_code_veterinary: QJ01MA94
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: 'Chickens: for the treatment of chronic respiratory infections
+    caused by sensitive strains of Escherichia coli and Mycoplasma gallisepticum.
+    Turkeys:  For the treatment of chronic respiratory infections caused by sensitive
+    strains of Escherichia coli and Mycoplasma gallisepticum. Also for the treatment
+    of infections caused by Pasteurella multocida.  Dogs:  For the treatment of acute
+    uncomplicated urinary-tract infections caused by Escherichia coli or Staphylococcus
+    spp. and superficial pyoderma caused by Staphylococcus intermedius.  Cattle:  For
+    the treatment of bovine respiratory disease (shipping fever, calf pneumonia) caused
+    by single or mixed infections with Pasteurella haemolytica, Pasteurella multocida
+    and / or Mycoplasma spp.'
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'No'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: Pfizer Limited
+  european_commission_decision_date: 28/10/2015
+  marketing_authorisation_date: 16/01/1998
+  opinion_adopted_date: ''
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '7'
+metadata:
+  first_published: 28/10/2015
+  last_updated: 29/10/2015
+  latest_procedure: IAIN/0021
+  medicine_url: https://www.ema.europa.eu/en/medicines/veterinary/EPAR/dicural

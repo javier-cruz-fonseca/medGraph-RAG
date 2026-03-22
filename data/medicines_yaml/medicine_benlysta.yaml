@@ -1,0 +1,52 @@
+name: Benlysta
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/002015
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: belimumab
+  active_substance: belimumab
+therapeutic_information:
+  therapeutic_area_mesh: Lupus Erythematosus, Systemic
+  atc_code_human: L04AG04
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Benlysta is indicated as add-on therapy in patients aged
+    5 years and older with active, autoantibody-positive systemic lupus erythematosus
+    (SLE) with a high degree of disease activity&nbsp;(e.g., positive anti‑dsDNA and
+    low complement)&nbsp;despite standard therapy. Benlysta is indicated in combination
+    with background immunosuppressive therapies for the treatment of adult patients
+    with active lupus nephritis.Benlysta is indicated as add-on therapy in adult patients
+    with active, autoantibody-positive systemic lupus erythematosus (SLE) with a high
+    degree of disease activity (e.g., positive anti dsDNA and low complement) despite
+    standard therapy.
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'No'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: GlaxoSmithKline Trading Services Limited
+  european_commission_decision_date: 25/09/2025
+  marketing_authorisation_date: 13/07/2011
+  opinion_adopted_date: 19/05/2011
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '39'
+metadata:
+  first_published: 10/11/2017
+  last_updated: 07/10/2025
+  latest_procedure: VR/0000286149
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/benlysta

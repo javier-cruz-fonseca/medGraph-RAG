@@ -1,0 +1,47 @@
+name: Gohibic
+basic_information:
+  category: Human
+  ema_product_number: EMEA/H/C/006123
+  medicine_status: Authorised
+  opinion_status: ''
+  inn_common_name: vilobelimab
+  active_substance: vilobelimab
+therapeutic_information:
+  therapeutic_area_mesh: Respiratory Distress Syndrome, Adult;COVID-19 virus infection
+  atc_code_human: L04AJ10
+  atcvet_code_veterinary: ''
+  pharmacotherapeutic_group_human: ''
+  pharmacotherapeutic_group_veterinary: ''
+  species_veterinary: ''
+  therapeutic_indication: Gohibic is indicated for the treatment of adult patients
+    with SARS-CoV2-induced acute respiratory distress syndrome (ARDS) who are receiving
+    systemic corticosteroids as part of Standard of Care and receiving invasive mechanical
+    ventilation (IMV) (with or without extracorporeal membrane oxygenation (ECMO)).
+regulatory_classification:
+  accelerated_assessment: 'No'
+  additional_monitoring: 'Yes'
+  advanced_therapy: 'No'
+  biosimilar: 'No'
+  conditional_approval: 'No'
+  exceptional_circumstances: 'Yes'
+  generic: 'No'
+  orphan_medicine: 'No'
+  prime_priority_medicine: 'No'
+  patient_safety: 'No'
+authorization_details:
+  marketing_authorisation_holder: InflaRx GmbH
+  european_commission_decision_date: 09/12/2025
+  marketing_authorisation_date: 13/01/2025
+  opinion_adopted_date: 14/11/2024
+  start_of_evaluation_date: ''
+  start_of_rolling_review_date: ''
+  withdrawal_of_application_date: ''
+  refusal_date: ''
+  withdrawal_expiry_revocation_date: ''
+  suspension_date: ''
+  revision_number: '2'
+metadata:
+  first_published: 15/11/2024
+  last_updated: 09/12/2025
+  latest_procedure: VR/0000306962
+  medicine_url: https://www.ema.europa.eu/en/medicines/human/EPAR/gohibic
