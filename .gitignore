@@ -12,3 +12,9 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+
+# Base de datos y archivos grandes
+*.dump
+*.zip
+docker-image-neo/neo4j.dump
+docker-image-neo/neo4j.zip

@@ -37,6 +37,14 @@ GEMINI_EMBEDDING_MODEL = os.environ.get("GEMINI_EMBEDDING_MODEL", "gemini-embedd
 LMSTUDIO_BASE_URL = os.environ.get("LMSTUDIO_BASE_URL", "http://localhost:1234/v1")
 LMSTUDIO_MODEL = os.environ.get("LMSTUDIO_MODEL", "google/gemma-3-4b")
 
+# Azure OpenAI
+AZURE_OPENAI_API_KEY = os.environ.get("AZURE_OPENAI_API_KEY", "")
+AZURE_OPENAI_ENDPOINT = os.environ.get("AZURE_OPENAI_ENDPOINT", "")
+AZURE_OPENAI_DEPLOYMENT = os.environ.get("AZURE_OPENAI_DEPLOYMENT", "")
+AZURE_OPENAI_EMBEDDING_DEPLOYMENT = os.environ.get("AZURE_OPENAI_EMBEDDING_DEPLOYMENT", "")
+AZURE_OPENAI_API_VERSION = os.environ.get("AZURE_OPENAI_API_VERSION", "2024-02-15-preview")
+AZURE_OPENAI_EMBEDDINGS_API_VERSION = os.environ.get("AZURE_OPENAI_EMBEDDINGS_API_VERSION", AZURE_OPENAI_API_VERSION)
+
 # Directorio con los YAML de medicamentos (entrada)
 INGEST_INPUT_DIR = os.environ.get("INGEST_INPUT_DIR", os.path.join("data", "medicines_yaml"))
 # Directorio donde se mueven los ficheros ya procesados
@@ -115,9 +123,9 @@ def yaml_to_text(data: dict) -> str:
 
 async def main():
     # ── Validar credenciales ──
-    if not GEMINI_API_KEY:
-        print("[ERROR] GEMINI_API_KEY no está configurada (necesaria para embeddings).")
-        print("   Configúrala en el fichero .env (ver .env.example)")
+    if not GEMINI_API_KEY and not (AZURE_OPENAI_API_KEY and AZURE_OPENAI_EMBEDDING_DEPLOYMENT):
+        print("[ERROR] Se necesita GEMINI_API_KEY o AZURE_OPENAI_API_KEY + AZURE_OPENAI_EMBEDDING_DEPLOYMENT para embeddings.")
+        print("   Configúralo en el fichero .env (ver .env.example)")
         sys.exit(1)
 
     if not NEO4J_PASSWORD:
@@ -160,32 +168,110 @@ async def main():
 
     print(f"[INFO] Encontrados {len(yaml_files)} archivos YAML para ingestar.")
     print(f"[INFO] Conectando a Neo4j: {NEO4J_URI}")
-    print(f"[INFO] Usando LM Studio LLM: {LMSTUDIO_MODEL} en {LMSTUDIO_BASE_URL}")
-    print(f"[INFO] Usando Gemini embeddings: {GEMINI_EMBEDDING_MODEL}")
+    
+    # Determinar qué LLM usar
+    use_azure = bool(AZURE_OPENAI_API_KEY and AZURE_OPENAI_ENDPOINT and AZURE_OPENAI_DEPLOYMENT)
+    if use_azure:
+        print(f"[INFO] Usando Azure OpenAI LLM: {AZURE_OPENAI_DEPLOYMENT}")
+    else:
+        print(f"[INFO] Usando LM Studio LLM: {LMSTUDIO_MODEL} en {LMSTUDIO_BASE_URL}")
 
-    # ── Configurar LLM con LM Studio (API OpenAI-compatible) ──
-    llm_config = LLMConfig(
-        api_key="lm-studio",  # LM Studio no requiere API key real, pero el campo es obligatorio
-        model=LMSTUDIO_MODEL,
-        small_model=LMSTUDIO_MODEL,
-        base_url=LMSTUDIO_BASE_URL,
-    )
-    llm_client = OpenAIGenericClient(config=llm_config)
+    # ── Configurar LLM (Azure OpenAI o LM Studio) ──
+    if use_azure:
+        # Para Azure OpenAI, el formato correcto es: https://{resource}.openai.azure.com/
+        # El cliente de OpenAI añadirá automáticamente la ruta correcta
+        llm_config = LLMConfig(
+            api_key=AZURE_OPENAI_API_KEY,
+            model=AZURE_OPENAI_DEPLOYMENT,
+            small_model=AZURE_OPENAI_DEPLOYMENT,
+            base_url=AZURE_OPENAI_ENDPOINT,
+        )
+    else:
+        llm_config = LLMConfig(
+            api_key="lm-studio",  # LM Studio no requiere API key real, pero el campo es obligatorio
+            model=LMSTUDIO_MODEL,
+            small_model=LMSTUDIO_MODEL,
+            base_url=LMSTUDIO_BASE_URL,
+        )
+    
+    # Para Azure, necesitamos configurar headers adicionales
+    if use_azure:
+        from openai import AsyncAzureOpenAI
+        llm_client_instance = AsyncAzureOpenAI(
+            api_key=AZURE_OPENAI_API_KEY,
+            api_version=AZURE_OPENAI_API_VERSION,
+            azure_endpoint=AZURE_OPENAI_ENDPOINT,
+        )
+        # Reemplazar el cliente interno de OpenAIGenericClient
+        llm_client = OpenAIGenericClient(config=llm_config)
+        llm_client.client = llm_client_instance
+    else:
+        llm_client = OpenAIGenericClient(config=llm_config)
 
-    # ── Configurar embeddings con Gemini (free tier: 1K RPD) ──
-    embed_config = GeminiEmbedderConfig(
-        api_key=GEMINI_API_KEY,
-        embedding_model=GEMINI_EMBEDDING_MODEL,
-    )
-    embedder = GeminiEmbedder(config=embed_config)
+    # ── Configurar embeddings (Azure OpenAI o Gemini) ──
+    if use_azure and AZURE_OPENAI_EMBEDDING_DEPLOYMENT:
+        # Usar Azure OpenAI para embeddings
+        try:
+            from graphiti_core.embedder.openai import OpenAIEmbedder, OpenAIEmbedderConfig
+            from openai import AsyncAzureOpenAI
+            
+            # Crear cliente Azure específico para embeddings
+            azure_embeddings_client = AsyncAzureOpenAI(
+                api_key=AZURE_OPENAI_API_KEY,
+                api_version=AZURE_OPENAI_EMBEDDINGS_API_VERSION,
+                azure_endpoint=AZURE_OPENAI_ENDPOINT,
+            )
+            
+            embed_config = OpenAIEmbedderConfig(
+                api_key=AZURE_OPENAI_API_KEY,
+                embedding_model=AZURE_OPENAI_EMBEDDING_DEPLOYMENT,
+                base_url=AZURE_OPENAI_ENDPOINT,
+            )
+            embedder = OpenAIEmbedder(config=embed_config)
+            # Reemplazar el cliente interno
+            embedder.client = azure_embeddings_client
+            print(f"[INFO] Usando Azure OpenAI embeddings: {AZURE_OPENAI_EMBEDDING_DEPLOYMENT} (API version: {AZURE_OPENAI_EMBEDDINGS_API_VERSION})")
+        except ImportError:
+            print("[WARN] No se pudo importar OpenAIEmbedder, usando Gemini como fallback")
+            embed_config = GeminiEmbedderConfig(
+                api_key=GEMINI_API_KEY,
+                embedding_model=GEMINI_EMBEDDING_MODEL,
+            )
+            embedder = GeminiEmbedder(config=embed_config)
+            print(f"[INFO] Usando Gemini embeddings: {GEMINI_EMBEDDING_MODEL}")
+    else:
+        # Usar Gemini (configuración original)
+        embed_config = GeminiEmbedderConfig(
+            api_key=GEMINI_API_KEY,
+            embedding_model=GEMINI_EMBEDDING_MODEL,
+        )
+        embedder = GeminiEmbedder(config=embed_config)
+        print(f"[INFO] Usando Gemini embeddings: {GEMINI_EMBEDDING_MODEL}")
 
-    # ── Configurar cross-encoder/reranker con LM Studio ──
-    reranker_config = LLMConfig(
-        api_key="lm-studio",
-        model=LMSTUDIO_MODEL,
-        base_url=LMSTUDIO_BASE_URL,
-    )
-    cross_encoder = OpenAIRerankerClient(config=reranker_config)
+    # ── Configurar cross-encoder/reranker (Azure OpenAI o LM Studio) ──
+    if use_azure:
+        from openai import AsyncAzureOpenAI
+        
+        azure_reranker_client = AsyncAzureOpenAI(
+            api_key=AZURE_OPENAI_API_KEY,
+            api_version=AZURE_OPENAI_API_VERSION,
+            azure_endpoint=AZURE_OPENAI_ENDPOINT,
+        )
+        
+        reranker_config = LLMConfig(
+            api_key=AZURE_OPENAI_API_KEY,
+            model=AZURE_OPENAI_DEPLOYMENT,
+            base_url=AZURE_OPENAI_ENDPOINT,
+        )
+        cross_encoder = OpenAIRerankerClient(config=reranker_config)
+        cross_encoder.client = azure_reranker_client
+    else:
+        reranker_config = LLMConfig(
+            api_key="lm-studio",
+            model=LMSTUDIO_MODEL,
+            base_url=LMSTUDIO_BASE_URL,
+        )
+        cross_encoder = OpenAIRerankerClient(config=reranker_config)
 
     # ── Inicializar Graphiti ──
     graphiti = Graphiti(
