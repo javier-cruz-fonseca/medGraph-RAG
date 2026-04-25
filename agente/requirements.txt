@@ -1,0 +1,8 @@
+# Google Agent Development Kit
+google-adk
+
+# LiteLLM para modelos no-Gemini (Azure OpenAI, OpenAI, etc.)
+litellm
+
+# Variables de entorno desde archivo .env
+python-dotenv

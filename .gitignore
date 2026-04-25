@@ -21,3 +21,6 @@ docker-image-neo/neo4j.zip
 
 # Datos de base de datos Neo4j
 neo4j
+
+# Configuración de Graphiti MCP
+mcp-graphiti/graphiti/mcp_server/config/config.yaml

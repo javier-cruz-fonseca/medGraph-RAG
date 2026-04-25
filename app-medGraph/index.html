@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Doctor AI - Asistente médico inteligente con Grafo de Conocimiento Médico. Consulta historiales, busca información clínica y gestiona datos de pacientes.">
+    <meta name="theme-color" content="#0a0f1e">
+    <title>Doctor AI — Asistente Médico Inteligente</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- ── Fondo animado con partículas médicas ──────────────────── -->
+    <div class="bg-layer"></div>
+    <div class="bg-orbs">
+        <div class="orb orb-1"></div>
+        <div class="orb orb-2"></div>
+        <div class="orb orb-3"></div>
+    </div>
+    <div class="pulse-grid">
+        <div class="pulse-line"></div>
+        <div class="pulse-line" style="--delay: 2s; --top: 25%"></div>
+        <div class="pulse-line" style="--delay: 4s; --top: 55%"></div>
+        <div class="pulse-line" style="--delay: 6s; --top: 80%"></div>
+    </div>
+
+    <!-- ── Layout principal ────────────────────────────────────────── -->
+    <div class="app-container">
+
+        <!-- ── Sidebar ─────────────────────────────────────────────── -->
+        <aside class="sidebar" id="sidebar">
+            <div class="sidebar-header">
+                <div class="logo">
+                    <div class="logo-icon">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+                        </svg>
+                    </div>
+                    <div class="logo-text">
+                        <span class="logo-title">Doctor AI</span>
+                        <span class="logo-subtitle">MedGraph · Knowledge</span>
+                    </div>
+                </div>
+            </div>
+
+            <button class="btn-new-chat" id="btnNewChat">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="12" y1="5" x2="12" y2="19"/>
+                    <line x1="5" y1="12" x2="19" y2="12"/>
+                </svg>
+                Nueva Consulta
+            </button>
+
+            <div class="sidebar-section">
+                <h3 class="sidebar-section-title">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14">
+                        <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+                    </svg>
+                    Conversaciones
+                </h3>
+                <div class="sessions-list" id="sessionsList">
+                    <!-- Se llena dinámicamente -->
+                </div>
+            </div>
+
+            <div class="sidebar-footer">
+                <div class="status-indicator" id="statusIndicator">
+                    <div class="status-dot"></div>
+                    <span>Conectando...</span>
+                </div>
+                <div class="model-info" id="modelInfo">—</div>
+            </div>
+        </aside>
+
+        <!-- ── Overlay para cerrar sidebar en móvil ────────────────── -->
+        <div class="sidebar-overlay" id="sidebarOverlay"></div>
+
+        <!-- ── Chat principal ──────────────────────────────────────── -->
+        <main class="chat-area">
+
+            <!-- Header -->
+            <header class="chat-header">
+                <button class="btn-menu" id="btnMenu" aria-label="Abrir menú">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <line x1="3" y1="6" x2="21" y2="6"/>
+                        <line x1="3" y1="12" x2="21" y2="12"/>
+                        <line x1="3" y1="18" x2="21" y2="18"/>
+                    </svg>
+                </button>
+                <div class="chat-header-info">
+                    <h1>Doctor AI</h1>
+                    <span class="chat-header-status" id="headerStatus">Asistente Médico Inteligente</span>
+                </div>
+                <div class="header-actions">
+                    <button class="header-badge btn-theme-toggle" id="btnThemeToggle" title="Cambiar tema" aria-label="Alternar modo oscuro/claro">
+                        <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" style="display: none;">
+                            <circle cx="12" cy="12" r="5"></circle>
+                            <line x1="12" y1="1" x2="12" y2="3"></line>
+                            <line x1="12" y1="21" x2="12" y2="23"></line>
+                            <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                            <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                            <line x1="1" y1="12" x2="3" y2="12"></line>
+                            <line x1="21" y1="12" x2="23" y2="12"></line>
+                            <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                            <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                        </svg>
+                        <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                        </svg>
+                    </button>
+                    <div class="header-badge" title="Conexión segura">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                            <path d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                        </svg>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Área de mensajes -->
+            <div class="messages-container" id="messagesContainer">
+
+                <!-- Pantalla de bienvenida -->
+                <div class="welcome-screen" id="welcomeScreen">
+                    <div class="welcome-hero">
+                        <div class="welcome-icon-wrapper">
+                            <div class="welcome-icon-ring"></div>
+                            <div class="welcome-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                                    <path d="M22 12h-4l-3 9L9 3l-3 9H2"/>
+                                </svg>
+                            </div>
+                        </div>
+                        <h2>Bienvenido a <span class="gradient-text">Doctor AI</span></h2>
+                        <p>Tu asistente médico inteligente con acceso a un <strong>Grafo de Conocimiento</strong>. Consulta historiales clínicos, busca información médica y gestiona datos de pacientes de forma segura.</p>
+                    </div>
+                    
+                    <div class="features-grid">
+                        <div class="feature-card">
+                            <div class="feature-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                                    <circle cx="11" cy="11" r="8"/>
+                                    <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+                                </svg>
+                            </div>
+                            <h4>Búsqueda Inteligente</h4>
+                            <p>Consulta el grafo de conocimiento médico</p>
+                        </div>
+                        <div class="feature-card">
+                            <div class="feature-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                                    <path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"/>
+                                    <rect x="8" y="2" width="8" height="4" rx="1" ry="1"/>
+                                </svg>
+                            </div>
+                            <h4>Historiales Clínicos</h4>
+                            <p>Accede a datos de pacientes almacenados</p>
+                        </div>
+                        <div class="feature-card">
+                            <div class="feature-icon">
+                                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+                                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                                </svg>
+                            </div>
+                            <h4>Seguro y Privado</h4>
+                            <p>Tus datos clínicos protegidos siempre</p>
+                        </div>
+                    </div>
+
+
+                </div>
+
+                <!-- Mensajes de chat -->
+                <div class="messages" id="messages"></div>
+            </div>
+
+            <!-- Barra de input -->
+            <div class="input-area">
+                <div class="input-wrapper">
+                    <textarea 
+                        id="messageInput" 
+                        placeholder="Describe tu consulta médica..." 
+                        rows="1"
+                        maxlength="4000"
+                        aria-label="Escribe tu mensaje"
+                    ></textarea>
+                    <button class="btn-send" id="btnSend" disabled aria-label="Enviar mensaje">
+                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M22 2L11 13"/>
+                            <path d="M22 2L15 22L11 13L2 9L22 2Z"/>
+                        </svg>
+                    </button>
+                </div>
+                <p class="input-disclaimer">
+                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="12" height="12">
+                        <circle cx="12" cy="12" r="10"/>
+                        <line x1="12" y1="8" x2="12" y2="12"/>
+                        <line x1="12" y1="16" x2="12.01" y2="16"/>
+                    </svg>
+                    Doctor AI puede cometer errores. Consulta siempre con un profesional de la salud.
+                </p>
+            </div>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
